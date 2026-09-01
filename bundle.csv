@@ -1185,7 +1185,7 @@ the convoy.","Этот юнит не может нести больше. Выб�
 0,MSGDATA,Large Fish Shadow,Большой силуэт рыбы
 0,MSGDATA,Giant Fish Shadow,Гигантский силуэт рыбы
 0,MSGDATA,Glimmering Fish Shadow,Сверкающий силуэт рыбы
-0,MSGDATA,Divine Pulse has $%d1 charges.,Зарядов Небесного Пульса: $%d1.
+0,MSGDATA,Divine Pulse has $%d1 charges.,Заряды Небесного Пульса: $%d1.
 0,MSGDATA,??,??
 0,MSGDATA,???,???
 0,MSGDATA,COMBO,КОМБО
@@ -14374,8 +14374,8 @@ use Foudroyant. Strike twice if initiating combat.","Реликвия Героя
 Crest-bearer can use Beast Fang.","Реликвия Героя (Герб Зверя). Магическое оружие. 
 Носитель герба может использовать Клык Зверя."
 0,MSGDATA,"Grants $S0 alone its power
-and the ability to use Ruptured Heaven.","Дарует лишь $S0 свою мощь, а также
-навык Низвергнутые Небеса."
+and the ability to use Ruptured Heaven.","Только $S0 владеет его истинной 
+силой и навыком Низвергнутые Небеса."
 0,MSGDATA,"A spectacular lance forged by the legendary
 artisan Zoltan.","Эффектное копьё, выкованное легендарным
 ремесленником Золтаном."
@@ -68880,188 +68880,196 @@ but the content is too disturbing to ignore.","Мы не знаем, кто эт
 I hope that it's nothing...","Мы должны доложить об этом леди Рее.
 Надеюсь, ничего..."
 11390,SUPPORT,"Nice work, Teach. Still...that fight left a foul
-taste in my mouth.","Хорошая работа, препод. Но... От этого боя какой-то
-привкус тлена во рту."
-11390,SUPPORT,"That aside, did you see how Catherine fought?","Ну да ладно. Видели, как билась Катерина?"
-11390,SUPPORT,She's incredible.,Она невероятная.
+taste in my mouth.","$S0, хорошая работа. Правда, после этого
+боя всё равно остался неприятный привкус."
+11390,SUPPORT,"That aside, did you see how Catherine fought?","Зато вы видели, как билась Катерина, учитель?"
+11390,SUPPORT,She's incredible.,Она сильная.
 11390,SUPPORT,I'm stronger.,Я сильнее.
 11390,SUPPORT,"Agreed. I thought the power of the Heroes' Relics
-must be exaggerated, but I was clearly wrong.","Согласен. Я-то думал, что силу Реликвий героев преувеличивают,
-но я ошибался."
+must be exaggerated, but I was clearly wrong.","Да. Я-то думал, что силу Реликвий Героев
+преувеличивают, но я ошибался."
 11390,SUPPORT,"Ha! I love the confidence, Teach. But you're no
 match for the Heroes' Relics. They're on a whole
-different level.","Ха! Мне нравится ваша самоуверенность, препод Но для
-Реликвий вы не подходите.
-Они совершенно для другого уровня."
-11390,SUPPORT,Makes you wonder about that legend...,Заставляет задуматься о той легенде...
-11390,SUPPORT,What legend?,Какой?
+different level.","Громко сказано, учитель. Только против
+силы Реликвии Героя вам не выстоять.
+Эта вещь внушает уважение."
+11390,SUPPORT,Makes you wonder about that legend...,"А значит, та легенда..."
+11390,SUPPORT,What legend?,Легенда?
 11390,SUPPORT,"Oh, it's nothing. Just the usual fanciful nonsense.
 An ancient Relic that once cut a mountain in half
-with a single swing.","А, да так. Чепуха.
-Древняя реликвия, которая разрезала
-гору на две половины. Одним ударом."
+with a single swing.","Да так, сказка. Мол, давным-давно была
+Реликвия, которая одним ударом разрубила
+гору напополам..."
 11390,SUPPORT,"That's what they say, anyway. But as amazing
 as Thunderbrand is, I don't think it fits
-that description.","Во всяком случае, так говорят. Хоть Громовержец и
-потрясаюющий, но не думаю, что он
-подходит под описание."
+that description.","Я слышал что-то такое. Но вряд ли речь
+шла о Громовержеце."
 11390,SUPPORT,"Apparently, Relics can harness tremendous power
-for those with a compatible Crest.","Очевидно, что Реликвии могут использовать люди с Гербом.
-Сокрушительная сила, да."
+for those with a compatible Crest.","По-видимому, если у человека есть подходящий
+Герб, в его руках Реликвия может проявить
+сокрушительную силу..."
 11390,SUPPORT,"Though you can technically use one so long as you
 have any Crest at all. I dunno. Long story short,
-I'd like to try cutting a mountain in half someday.","Хотя... Технически можно использовать Реликвию, если вообще
-есть хоть какой-либо Герб. Не знаю. Короче говоря, хотелось
-бы мне как-нибудь разрезать гору пополам."
+I'd like to try cutting a mountain in half someday.","Хотя Герб не обязан быть именно подходящим,
+лишь бы был. Я бы тоже хотел попробовать
+разрубить гору напополам."
 11390,SUPPORT,"Ooh! Are you talking about Relics? You'll be able to
-use one soon, Claude! I just know it!","О-о! Вы говорите про Региквии? Клод, скоро ты сможешь
-использовать одну из них! Я уверена!"
+use one soon, Claude! I just know it!","Что-что? Вы про Реликвии говорите?
+Клод, ты же и так скоро будешь 
+владеть Реликвией."
 11390,SUPPORT,"After all, you've already been selected as the next
-head of House Riegan!","Всё-таки, скоро тебя выберут следующим главой
-Дома Ригана!"
+head of House Riegan!","Уже решено, что ты будешь следующим главой
+дома Риган."
 11390,SUPPORT,"Easy there, Hilda. I don't know how apt ""soon"" is.
-My grandfather is still unbearably healthy.","Хильда, сбавь обороты. Я не знаю, когда это ""скоро"" настанет.
+My grandfather is still unbearably healthy.","Хильда, ты чего? Какое ещё «скоро»?
 Мой дедушка здоров как бык."
-11390,SUPPORT,"Oh? Is this news to you, Teach?","О? препод, для вас это новость?"
+11390,SUPPORT,"Oh? Is this news to you, Teach?","А, вы не знаете, учитель?"
 11390,SUPPORT,"Yours truly was recently recognized as a legitimate
 child of House Riegan. They possess one of the
-Heroes' Relics too, though I've yet to see it.","Ваш совсем недавно был признан законнорождённым ребёнком
-Дома Риган. (???) Они тоже обладатели Региквии.
-Только я вот её никогда не видел."
+Heroes' Relics too, though I've yet to see it.","У дома Риган, в котором я недавно стал
+законным наследником, тоже есть своя
+Реликвия. Только я её в глаза не видел."
 11390,SUPPORT,Just recently?,Недавно?
-11390,SUPPORT,You haven't seen it?,Вы её не видел?
+11390,SUPPORT,You haven't seen it?,Не видел?
 11390,SUPPORT,"I officially joined House Riegan only last year.
-Before then, I lived with my father.","Я только в прошлом году присоединился к Дому Риган.
-А до этого момента я жил с отцом."
+Before then, I lived with my father.","Я присоединился к дому Риган только
+в прошлом году. До этого я рос в доме
+своего отца."
 11390,SUPPORT,"I was raised by my father. House Riegan is on my
-mother's side of the family.","Отец меня и вырастил. А Дом Риган - это родственники
-со стороны моей матери."
+mother's side of the family.","Я родился и вырос в доме моего отца.
+Дом Риган — это мои родственники со 
+стороны матери."
 11390,SUPPORT,"When I learned that my mother was the daughter of
 an Alliance noble, I was so surprised I thought the
-whole world was pulling a fast one on me for a week.","Когда я узнал, что моя мать - дочь одного из дворян Альянса,
-я был очень удивлён. Казалось, что весь мир рухнул прямо
-на меня."
+whole world was pulling a fast one on me for a week.","Когда я узнал, что моя мама — дочь аристократа 
+из Альянса, то у меня от удивления чуть глаза
+на лоб не вылезли..."
 11390,SUPPORT,"So, that means your mother is Duke Riegan's
-daughter, right? Where is she now?","Значит твоя мать - дочь герцога Ригана, да?
-И где она сейчас?"
+daughter, right? Where is she now?","Так значит, твоя мама — дочь герцога
+Ригана. А где она сейчас живёт?"
 11390,SUPPORT,"I can't say. My mother's currently living in a
 different world than the one she grew up in
-and has no desire to return home.","Не могу сказать. Сейчас мама живёт в совсем другом
-мире. И он отличается от того, в каком она выросла.
-И у неё даже нет желания вернуться домой."
-11390,SUPPORT,"Um, OK. You sure have a lot of secrets, don't you?","Эм, ладно? У тебя много скелетов в шкафу, да?"
+and has no desire to return home.","Не могу сказать. Мама сейчас живёт в мире, 
+который отличается от того, где она выросла, 
+и не желает возвращаться домой."
+11390,SUPPORT,"Um, OK. You sure have a lot of secrets, don't you?","Хм-м... Много у тебя скелетов в шкафу, да, Клод?"
 11390,SUPPORT,"I'm just keeping a promise to my parents.
-Make of that whatever you will.","Я просто держу обещание, которое дал родителям.
-Относись к этому как хочешь."
+Make of that whatever you will.","Я просто держу обещание, данное родителям.
+Думай, что хочешь."
 11390,SUPPORT,"In exchange for my so-called secrecy, I'm free to do
 as I please, which is why I decided to see what the
-other side of my family was like.","В обмен на свою, так называемую секретность, я могу сделать всё,
-что захочется. Поэтому я решил посмотреть, на что похожа
-жизнь семьи со стороны мамы."
+other side of my family was like.","Зато в обмен на сохранение тайны мне позволили 
+творить, что я захочу, поэтому я и решил навестить 
+дом предков моей матери."
 11390,SUPPORT,"That's how I found out about this strange
-Crest I bear...","Так-то я и узнал об этом странном Гербе,
-который я несу..."
+Crest I bear...","Тогда-то я и узнал, что у меня в крови
+есть какой-то непонятный Герб..."
 11390,SUPPORT,"Professor. Claude. It sounds like the troops will be
-withdrawing soon. We should return as well.","Профессор. Клод. Похоже, войска скоро выведут.
-Нам тоже пора уходить."
+withdrawing soon. We should return as well.","Учитель, Клод. Похоже, войска скоро выведут.
+Давайте и мы вернёмся с ними."
 11390,SUPPORT,"We won. We should be celebrating. Instead, we're
-heading back with heavy hearts...","Мы выиграли. И должны бы праздновать.
-А вместо этого на сердце только тяжесть..."
+heading back with heavy hearts...","Мы победили, но нам всё равно приходится
+возвращаться с тяжестью на сердце."
 11390,SUPPORT,"Whoa there! What's the matter? You look as sad as a
-kitten without any yarn.","Воу-воу! Что такое-то? Ты похож на котёнка без клубочка.
-Такой же грустный."
+kitten without any yarn.","Ну чего вы поникли? Вы как подсолнухи,
+которых бросило солнце."
 11390,SUPPORT,"If we hadn't done what we did, the rebel army would
-have followed this road all the way to the monastery.","Если бы мы не сделали что нужно, то повстанцы прошли бы
-по этой дороге до самого монастыря."
+have followed this road all the way to the monastery.","Если бы мы не вмешались, ополчение бы
+прошло по тракту прямо до монастыря."
 11390,SUPPORT,"And they would have crushed all the little villages
 along the way. We stopped that from happening.
-You should be proud.","И на своём пути они бы уничтожили все небольшие поселения.
-А мы это предотвратили.
-Так что тебе стоит гордиться."
+You should be proud.","И по пути они бы уничтожили все мелкие
+деревушки. А мы это предотвратили. 
+Выше нос."
 11390,SUPPORT,"Sorry to intrude, but this incident may be more
-serious than anticipated.","Простите, что вмешиваюсь.
-Но дело приняло более серьёзный оборот."
+serious than anticipated.","Извините, что перебиваю. Похоже, дело 
+приняло более серьёзный оборот."
 11390,SUPPORT,"I found this on Lord Lonato. It's a note that mentions
-a plan to assassinate Lady Rhea.","Я нашла это у лорда Лонато. В записке упоминается
-план убить леди Рею."
+a plan to assassinate Lady Rhea.","Это письмо было обнаружено среди
+вещей лорда Лонато. В нём имеется 
+намёк на план убийства леди Реи."
 11390,SUPPORT,"We can't tell who sent it, so the source is suspect,
-but the content is too disturbing to ignore.","Мы не знаем, кто это прислал, и потому источник
-вызывает сомнения, но содержание слишком
-тревожит, чтобы оставить его без внимания."
+but the content is too disturbing to ignore.","Отправителя мы не знаем, и достоверность 
+письма сомнительна, но содержание слишком
+серьёзно, чтобы оставлять его без внимания."
 11390,SUPPORT,"We must report this to Lady Rhea right away.
-I hope that it's nothing...","Мы должны доложить об этом леди Рее.
-Надеюсь, ничего..."
+I hope that it's nothing...","Доложим об этом леди Рее, как вернёмся.
+Надеюсь, ничего не случится..."
 11391,SUPPORT,"I am glad to see that you have returned safely.
 The goddess is gracious with her divine protection.","Рада, что вы вернулись целы и невредимы.
 Богиня хранит вас."
 11391,SUPPORT,"But it was not only her divine protection that
 shielded you, was it? You are just as skilled
-as I had hoped.","Но дело не только в её защите, верно?
-Как я и ожидала, вы опытный боец."
-11391,SUPPORT,My students deserve the praise.,Похвалу заслуживают мои ученики.
+as I had hoped.","Но дело не только лишь в Её заступничестве.
+Ты настолько одарённый человек, как я и ожидала."
+11391,SUPPORT,My students deserve the praise.,Во всём заслуга моих учеников.
 11391,SUPPORT,I still have much to learn.,Мне ещё многому предстоит научиться.
-11391,SUPPORT,I am not so sure.,Не совсем.
-11391,SUPPORT,There is no need for modesty.,"Ну, не нужно скромничать."
+11391,SUPPORT,I am not so sure.,Неужели?
+11391,SUPPORT,There is no need for modesty.,Не нужно скромничать.
 11391,SUPPORT,"I heard some of the students were...hesitant about
-fighting militia.","Слышала, некоторые ученики... Колебались, когда
-дошло дело до стычки с ополчением."
+fighting militia.","Я слышала, что некоторые из ваших 
+студентов колебались, стоит ли
+сражаться с ополчением."
 11391,SUPPORT,"However, we must punish any sinner who may
 inflict harm upon believers, even if those sinners
-are civilians.","Но мы должны наказать любого грешника, даже не смотря на
-то, что он может быть гражданским. Ведь он может навредить
-верующим."
+are civilians.","Но пусть в нём и миряне — если, погрязнув во 
+грехе, эти люди способны причинить вред
+верующим, то они должны понести наказание."
 11391,SUPPORT,"I pray the students learned a valuable lesson about
 the fate that awaits all who are foolish enough to
-point their blades towards the heavens.","И я молюсь, чтобы студенты усвоили этот важный урок.
-Что такая судьба ждёт любого, кто поднимет свой меч
-против небес."
+point their blades towards the heavens.","Таков удел тех, кто по глупости обращает
+свой меч против небес... и я полагаю, что
+студенты полностью осознали это."
 11391,SUPPORT,"Our real concern is what Catherine reported. The
-secret message that was in Lord Lonato's possession.","Мы должны беспокоиться о том, что рассказала Катерина про
-секретную записку, которая была у Лорда Лонато."
+secret message that was in Lord Lonato's possession.","Итак, перейдём к докладу Катерины касательно
+тайного письма, найденного у лорда Лонато."
 11391,SUPPORT,"It contained a deplorable plot to target the
 archbishop on the day of the Goddess's
-Rite of Rebirth.","Там было сказано о покушении на архиепископа в
-день Обряда возрождения Богини."
+Rite of Rebirth.","В письме был описан непростительный план
+покушения на архиепископа во время
+проведения Обряда Возрождения Богини."
 11391,SUPPORT,"The plan seems unrealistic at best... But a threat is
-a threat. We must maintain constant vigilance.","В лучшем случае этот план кажется нереальным... Но угроза -
-есть угроза. Мы должны быть бдительны."
+a threat. We must maintain constant vigilance.","Этот план виднеется мне малоосуществимым...
+Но лучше перестраховаться, чем сожалеть
+впоследствии."
 11391,SUPPORT,"To that end, I would like for you and your students
-to help with security on the day of the ritual.","В связи с этим мне бы хотелось, чтобы вы и ваши ученики
-помогли стражникам в день ритуала."
+to help with security on the day of the ritual.","Посему мы полагаем необходимым, чтобы
+студенты оказали содействие в обеспечении
+безопасности в день обряда."
 11391,SUPPORT,You can count on us.,Можете рассчитывать на нас.
-11391,SUPPORT,We won't let her down.,Мы не подведём её.
-11391,SUPPORT,Won't that endanger the students?,Разве это не подвергнет опасности учеников?
-11391,SUPPORT,That is most reassuring. You have my gratitude.,Это очень обнадёживает. Примите мою блгодарность.
+11391,SUPPORT,We won't let her down.,Ради архиепископа мы сделаем всё возможное.
+11391,SUPPORT,Won't that endanger the students?,Не подвергнет ли это опасности студентов?
+11391,SUPPORT,That is most reassuring. You have my gratitude.,Это очень обнадёживает. Благодарю.
 11391,SUPPORT,"Even if they encounter an enemy whom they
 cannot best, they should be fine so long as they
-have you on their side.","Даже если они столкнутся с врагом, что сильнее их,
-они будут в порядке. Ведь вы будете рядом."
+have you on their side.","Даже повстречай студенты врага, которого
+не смогут одолеть, всё будет в порядке, 
+если ты будешь рядом."
 11391,SUPPORT,"The Rite of Rebirth is of paramount importance.
 It is when the Church of Seiros and its believers
-unite to pray for the return of the goddess.","Обряд перерождения - дело первостепенной важности.
-Именно тогда объединяются церковь Сейрос и её верующие.
-И тогда они молятся о возвращении богини."
+unite to pray for the return of the goddess.","Обряд Возрождения — это чрезвычайно важный
+ритуал, когда возносят молитвы о возвращении 
+Богини Церкви Сейрос на землю."
 11391,SUPPORT,"The archbishop and I will be confined to the
-Goddess Tower once the ritual begins.","И как только начнётся ритуал, я и архиепископ будем
-находиться в башне Богини."
+Goddess Tower once the ritual begins.","Когда ритуал начнётся, мы с архиепископом
+будем заперты в Башне Богини."
 11391,SUPPORT,"Of course, the knights will be on high alert as well,
 but there aren't enough of them to keep watch on
-every corner of the monastery.","Конечно же, и рыцари будут в полной боевой готовности.
-Но их колличества недостаточно, чтобы следить за каждым
-углом монастыря."
+every corner of the monastery.","Разумеется, и рыцари будут в полной боевой
+готовности, но нам не хватает людей, чтобы
+следить за каждым углом монастыря."
 11391,SUPPORT,"It is far from ideal to be forced to mobilize students,
 but the gravity of this situation requires that we
-all bend to avoid breaking.","Мобилизировать студентов - неидеальная идея.
-Но мы должны прогнуться под весом данной ситуации.
-А не сломаться под ним."
+all bend to avoid breaking.","Я не хотел бы мобилизировать и студентов тоже, 
+но в нашем положении выбирать не приходится."
 11391,SUPPORT,"While there is no need to fear for my safety,
 we cannot turn a blind eye to those who
-would blaspheme so heinously.","Но за мою безопасность можно не беспокоиться.
-Мы не можем смотреть сквозь пальцы на тех, кто
-так богохульствует."
+would blaspheme so heinously.","Вам не нужно беспокоиться обо мне,
+но мы не можем смотреть сквозь пальцы
+на тех, кто оскверняет веру."
 11391,SUPPORT,"With any luck, this will all be for naught. Still, be on
-your guard.","Если повезёт, то нам всё это не пригодится.
-И всё же, будьте начеку."
+your guard.","Если ничего не случится — тем лучше. Однако
+я прошу вас сохранять бдительность. Свободны."
 11392,SUPPORT,"Our mission this month is to patrol and set up
 defenses to stop the assassination plot.","В этом месяце наша задача - патрулировать и установить
 оборону для предотвращения заговора."
@@ -111169,88 +111177,88 @@ try casting aside burden, as you say.","Спасибо, что поделилс�
 the whole world.","Сделаем это. И когда мы будем свободны, мы
 сможем изменить весь мир."
 11956,SUPPORT,"Huh? Are you actually reading, Hilda?
-I thought you hated studying.","Чего? Ты взаправду читаешь, Хильда? Я думал,
-ты ненавидишь учиться."
+I thought you hated studying.","М? Вот это диво: ненавидящая штудировать
+книжки Хильда что-то читает."
 11956,SUPPORT,"Oh, hush. It's just a letter from my brother. He sends
-them all the time.","Ой, помолчи. Это просто письмо от моего брата.
-Он постоянно их посылает."
+them all the time.","Не лезь не в своё дело... Это вообще-то письмо.
+Брат мне постоянно пишет."
 11956,SUPPORT,"Your brother, huh? Isn't he known as a great general
-of the Alliance? A true beacon of—","От брата, да? Это тот, кто известен как великий
-генерал Альянса? Настоящий светоч—"
-11956,SUPPORT,Don't even start. That's got nothing to do with me.,Даже не начинай. Я тут ни при чём.
+of the Alliance? A true beacon of—","А, твой брат — тот самый «выдающийся 
+полководец всея Альянса...»"
+11956,SUPPORT,Don't even start. That's got nothing to do with me.,"Ой, хватит. Меня это вообще не касается."
 11956,SUPPORT,"Uh oh, better not let your brother hear you say that!
 'Twould break his fraternal heart! But all joking
-aside, it sounds like he really cares for you.","Смотри, чтобы брат такое не услышал! Разбила
-бы его братское сердце! Но если серьёзно, похоже,
-что он очень заботится о тебе."
+aside, it sounds like he really cares for you.","Услышь твой брат такие слова, он бы 
+заплакал. Похоже, он очень любит тебя."
 11956,SUPPORT,"You can say that again. He must be rather bored too,
-now that the situation in Almyra has settled down.","Так и есть. Ему, наверное, теперь тоже скучно,
-ведь ситуация в Альмире успокоилась.
-"
+now that the situation in Almyra has settled down.","Мне его любовь уже поперёк горла. Наверное,
+ему просто нечего делать, пока пальмирцы
+подутихли."
 11956,SUPPORT,"Ah, the Almyrans. The ""eastern menace,"" as they're
 often called. I did hear your brother had fought them
-a number of times.","Ах, Альмиранцы. ""Восточная угроза"", как их
-часто называют. Я слышал, что твой брат
-боролся с ними кучу раз."
+a number of times.","А-а, пальмирцы, «восточная угроза». Знаю, твоему
+брату много раз приходилось с ними сражаться."
 11956,SUPPORT,"In fact, I hear he's even gone toe-to-toe with Nader,
-the great Almyran warrior.","Я даже слышал, что однажды он сразился один
-на один с Надиром, великим воином Пальмиры."
+the great Almyran warrior.","Слышал, он даже на равных бился с великим 
+воином Надиром — гордостью Пальмиры."
 11956,SUPPORT,"""Nader the Undefeated,"" was it? Just another grizzled
-old man, as far as I'm concerned.","«Непобеждённый Надир»? Как по мне — очередной
-седой старик."
+old man, as far as I'm concerned.","«Непобеждённый Надир», по-моему? Я слышала,
+что он уже седой старик, так что мне неинтересно."
 11956,SUPPORT,"But my father was ecstatic when he heard my brother
-had defeated him.","Но мой отец был в восторге, когда услышал,
-что мой брат победил его."
+had defeated him.","Зато как папа радовался, когда узнал,
+что брат от него отбился."
 11956,SUPPORT,"He paraded my brother all over our territory. What a
-pain that must have been for our people.","Он устроил парады в честь брата по всей стране.
-Какая, наверное, была боль для нашего
-народа."
+pain that must have been for our people.","Брата с почестями провезли по всем нашим землям...
+Думаю, народу пришлось несладко, что их согнали
+на праздники."
 11956,SUPPORT,"A pain? Any celebration is something to be enjoyed!
-Celebration puts smiles on faces faster than anything.","Боль? Все праздники сделаны для того, чтобы ими
-наслаждаться! Нет более быстрого способо
-развеселиться, чем праздновать."
+Celebration puts smiles on faces faster than anything.","Ты что такое говоришь? Ведь праздники — это
+весело, каким бы ни был повод, разве не так?
+На них все улыбаются."
 11956,SUPPORT,"I'm sure even you at least congratulated him, right?
 A smile from you would surely mean the world to
-your brother.","Уверен, что даже ты хотя бы поздравила его, да?
-Твоя улыбка для твоего брата наверняка дороже
-всего на свете."
+your brother.","Ведь ты наверняка тоже радовалась?
+А увидев твою улыбку, твой брат найдёт
+в себе силы и сто человек побить."
 11956,SUPPORT,"Well, sure. Then he got all worked up and started
-saying things like, ""I am the protector of Fódlan!""","Ну, конечно. Потом он весь напыжился и начал
-говорить что-то по типу: ""Я защитник Фодлана""!"
+saying things like, ""I am the protector of Fódlan!""","Ну да. Он тоже поддался общему настроению
+и стал толкать речи в духе: «Я защитник Фодлана!»"
 11956,SUPPORT,"That's not far from the truth, you know. Why do you
 think the Almyrans have been so quiet lately?
-They're wary of your brother.","Это недалеко от правды, знаешь ли. Как ты
-думаешь, почему Альмиранцы в последнее время
-такие тихие? Они боятся твоего брата."
+They're wary of your brother.","Он не далёк от истины, знаешь ли. 
+Пальмирцы остерегаются твоего брата
+и не решаются действовать."
 11956,SUPPORT,"If House Goneril of the border were a bunch of
 weaklings, the Almyrans would have invaded
-Fódlan a long time ago.","Если бы приграничный Дом Гонериль был кучкой
-слабаков, то Альмиранцы давно бы вторглись
-в Фодлан."
+Fódlan a long time ago.","Если бы дом Гонериль на границе был
+слабым, пальмирцы бы уже давно
+вторглись в Фодлан."
 11956,SUPPORT,"You talk about it as though you've spoken to the
-Almyrans yourself.","Ты говоришь так, как будто сам говорил
-с Альмиранцами."
+Almyrans yourself.","Говоришь так, как будто лично
+расспрашивал пальмирцев, а, Клод?"
 11956,SUPPORT,"Well, I am heir to the leading house of the Alliance.
 I'm privy to all kinds of information, whether I like it
-or not.","Ну, я наследник главенствующего Дома Альянса.
-Я в курсе всей информации, нравится мне она
+or not.","Я законный наследник главы Альянса, как-никак.
+Информация сама меня находит, хочу я этого
 или нет."
 11956,SUPPORT,"Well, I am the leader of the Alliance, after all.
 I'm privy to all kinds of information, whether I
-like it or not.","Ну, я лидер Альянса. Я в курсе всей
-информации, нравится мне она или нет."
+like it or not.","Я лидер Альянса, как-никак. Информация 
+сама меня находит, хочу я этого или нет."
 11956,SUPPORT,"Hm. You act so nonchalant about your studies, but
-you know so much about politics and history.","Хм. Ты такой безалаберный в учебё, а в политике
-и истории знаешь кучу всего.
-"
-11956,SUPPORT,"You're a hard guy to grasp, you know that, Claude?","Твою реальную сущность, Клод, трудно
-ухватить, ты знаешь это?"
+you know so much about politics and history.","Хм-м. Ты вроде и безалаберный на вид, 
+а когда надо, оказывается, и осведомлён 
+обо всём, и соображаешь быстро."
+11956,SUPPORT,"You're a hard guy to grasp, you know that, Claude?","Есть в тебе что-то, Клод, за что трудно
+ухватиться, ты знаешь?"
 11956,SUPPORT,"Oh, I disagree. I'd let you grasp me any day.
-My hand, my heart, even my neck.","Оу, не согласен. Я бы позволил тебе всегда меня
-хватать. За руку, за сердце, даже за шею."
+My hand, my heart, even my neck.","Правда? Да меня в любой момент можно
+спокойно схватить — за руку, за сердце...
+за загривок даже."
 11956,SUPPORT,"But if you want to know all of my secrets...
-you'll have to bare yours as well.","Но если ты хочешь знать все мои секреты...
-тебе придётся обнажить и свои."
+you'll have to bare yours as well.","Но тем, что у меня на душе, я с тобой
+поделюсь только тогда, когда и ты 
+сможешь говорить со мной откровенно."
 11957,SUPPORT,"What are you writing there, Hilda? Wait,
 let me guess. You're replying to one of
 your brother's letters, right?","Что ты там пишешь, Хильда? Подожди, дай угадаю.
@@ -111432,148 +111440,149 @@ not be too happy.","Но если это долгий путь, мой брат 
 11958,SUPPORT,"True... That might be a tough nut to crack.
 As tough as Fódlan's Locket...","Точно... Этот путь не одолеть слабому. Он всё
 равно, что ""Фолдланская Камея""..."
-11959,SUPPORT,Is the water supposed to be this cold?,Вода равзе всегда такая холодная?
-11959,SUPPORT,Argh! My hand slipped again...,А-а-а! Моя рука опять соскользнула...
-11959,SUPPORT,Hey! What's that noise? What are you doing?,Эй! Что это за шум? Что ты делаешь?
-11959,SUPPORT,Sorry! I'm sorry! OK?,Простите! Простите! Хорошо?
-11959,SUPPORT,Another fine mess I've gotten myself into.,Опять вляпался в очередную неприятность.
-11959,SUPPORT,"What happened, Claude? You're soaked!","Что случилось, Клод? Ты весь промок!"
+11959,SUPPORT,Is the water supposed to be this cold?,У-ух... холодная. Никак я не привыкну к этому...
+11959,SUPPORT,Argh! My hand slipped again...,"Опа, рука соскользнула — а-аа!"
+11959,SUPPORT,Hey! What's that noise? What are you doing?,"А-а, ты что?! Что ты вытворяешь?!"
+11959,SUPPORT,Sorry! I'm sorry! OK?,В-виноват! О-оо?!
+11959,SUPPORT,Another fine mess I've gotten myself into.,"Ох, ну и дела. Одни беды на мою голову."
+11959,SUPPORT,"What happened, Claude? You're soaked!","Что случилось, Клод? Ты весь промок."
 11959,SUPPORT,"The student whose turn it was to do the dishes today
-was ill, so I volunteered to take his place.","Студент, чья очередь сегодня мыть посуду,
-заболел, поэтому я вызвался его подменить."
+was ill, so I volunteered to take his place.","Дежурный по кухне сказал, что приболел, 
+и я вызвался помыть посуду вместо него."
 11959,SUPPORT,"The dining hall lady was on my case the whole time
 for breaking plates and getting water everywhere.
-Actually, not everywhere. Mostly on myself.","Хозяйка столовой села мне на уши за то, что
-я сломал тарелки и разлил повсюду воду. Но
-ведь не повсюду. В основном на себя."
+Actually, not everywhere. Mostly on myself.","И вот итог: я побил тарелки, промок почём зря,
+а тётенька из столовой меня отчитала..."
 11959,SUPPORT,"It was just one big mess. It wore me right out too.
-I could really use a nap about now.","Целый день сплошная неурядица. Я вымотался.
-Я так сейчас хотел бы вздремнуть."
+I could really use a nap about now.","Нет, ну одни только беды на мою голову.
+Я вымотался — пойду-ка спать."
 11959,SUPPORT,"Ha. You might be a noble with a fancy bloodline,
-but you sure don't act the part.","Ха. Может, ты и благородный и с необычной
-родословной, но соответствовать этому ты
-явно не хочешь."
+but you sure don't act the part.","Ха-ха-ха... благородный наследник знатного 
+рода, а с размаха сел в лужу."
 11959,SUPPORT,"Being noble or common doesn't have anything to do 
-with washing dishes.","Благородный ты, или же простолюдин... при
-чём тут мытьё посуды?"
-11959,SUPPORT,Oh? I daresay most nobles would refuse to do it.,"При чём? Смею предположить, что большинство
-дворян откажутся от этого."
+with washing dishes.","А? Какая разница, кто моет посуду —
+аристократ или простолюдин?"
+11959,SUPPORT,Oh? I daresay most nobles would refuse to do it.,"Ну, для начала, нормальные аристократы 
+вообще не моют посуду добровольно."
 11959,SUPPORT,"But hey, I prefer it your way. You don't act like
-you're better than everyone.","Но мне всё равно больше нравится твой подход.
-Ты не ведёшь себя так, будто ты лучше всех."
-11959,SUPPORT,I'm honored that you acknowledge my greatness.,"Для меня большая честь, что ты признаёшь
-моё величие."
+you're better than everyone.","Но знаешь, мне даже нравится, что ты 
+не корчишь из себя благородного господина."
+11959,SUPPORT,I'm honored that you acknowledge my greatness.,"Ха-ха, для меня большая честь, что ты 
+видишь меня с лучшей стороны."
 11959,SUPPORT,"And I'm rather fond of your blunt way of praising
-a person's strengths too.","И мне весьма нравится твой прямолинейный
-способ восхваления сильных сторон человека."
+a person's strengths too.","Знаешь, Леони, а мне в тебе нравится то,
+что ты умеешь открыто хвалить других."
 11959,SUPPORT,"Really? To be honest, I don't actually trust my own
-ability to read people.","Правда? Честно говоря, я вовсе не доверяю
-своей способности разбираться в людях."
+ability to read people.","Правда? Честно говоря, не уверена я,
+что умею разбираться в людях."
 11959,SUPPORT,"I like to look for the good in them, but that doesn't
-always mean it's really there.","Мне нравится искать в них хорошее, но это не
-всегда означает, что в них оно есть."
+always mean it's really there.","Поэтому я не знаю, стоят ли похвалы те,
+кого я хвалю."
 11959,SUPPORT,"I mean, you seem like a good person, but your heart
-could be black for all I know.","Имею в виду, ты кажешься хорошим человеком,
-но твоё сердце может быть чёрным, кто знает."
+could be black for all I know.","Вот ты на вид славный малый, а как знать,
+вдруг на самом деле змея подколодная?"
 11959,SUPPORT,"You say you can't figure people out, but what you
-said just now was pretty shrewd.","Ты говоришь, что не разбираешься в людях, но
-ты сейчас сказала весьма проницательную вещь."
-11959,SUPPORT,It's wise not to trust appearances alone.,Мудро не доверять одной только внешности.
-11959,SUPPORT,I'll keep that in mind.,Я это запомню.
+said just now was pretty shrewd.","Ого, проницательные ты вещи говоришь
+для человека, который не разбирается
+в людях."
+11959,SUPPORT,It's wise not to trust appearances alone.,"Пожалуй, не верить своим глазам —
+разумная предосторожность. Прежде
+всего: не верь себе на слово! Вот."
+11959,SUPPORT,I'll keep that in mind.,"Ага, учту на будущее."
 11959,SUPPORT,"Though, I'm not sure I should be taking advice from
-someone covered in dish suds.","Хотя я не уверена, что стоит прислушиваться
-к советам кого-то, покрытого мыльной пеной
-с ног до головы."
-11959,SUPPORT,Ahh... I see your point.,"Апчхи... Ага, может быть."
-11960,SUPPORT,A little closer...,Чуть ближе...
-11960,SUPPORT,"Hey, Leonie! What are you up to?","Эй, Леони! Что делаешь?"
-11960,SUPPORT,"Oh, come on! What'd you do that for?!",Да чёрт возьми! Зачем ты это сделал?!
-11960,SUPPORT,"Look, you ran my quarry off.","Глянь, ты вспугнул мою добычу."
+someone covered in dish suds.","Хотя когда насквозь мокрые люди что-то 
+говорят, это звучит неубедительно."
+11959,SUPPORT,Ahh... I see your point.,Хе... Апчхи!
+11960,SUPPORT,A little closer...,*дышит*
+11960,SUPPORT,"Hey, Leonie! What are you up to?","Привет, Леони. Чем занята?"
+11960,SUPPORT,"Oh, come on! What'd you do that for?!",Дурак! Попёрся он тут через кусты!
+11960,SUPPORT,"Look, you ran my quarry off.","А-аа... Ускользнула добыча, которую
+я с таким трудом выследила..."
 11960,SUPPORT,"You were hunting? Is the dining hall that short
-on food supplies?",Вы охотилась? В столовой закончилась еда?
+on food supplies?","М? А, так ты охотилась? В столовой что,
+еды не хватает?"
 11960,SUPPORT,"You were hunting? Are we that short on
-food supplies?",Вы охотилась? У нас так мало еды?
+food supplies?","М? А, так ты охотилась? 
+Хочешь пополнить запасы?"
 11960,SUPPORT,"No, but I like to hunt every now and again. Keep my
-skills sharp.","Нет, но я люблю время от времени поохотиться.
-Держу себя в форме."
+skills sharp.","Нет, я просто иногда охочусь, 
+чтобы руки помнили."
 11960,SUPPORT,"No such thing as too much food these days, is there?
-And it'd be a problem if I got rusty.","В наши дни не бывает слишком много еды, не
-так ли? И было бы неприятно, если бы я забыла
-как охотиться."
+And it'd be a problem if I got rusty.","Но и запасы не лишние в такое время, верно?
+Ничего хорошего не будет, если я растеряю 
+навыки. "
 11960,SUPPORT,"I suppose so. You're from a family of hunters,
 right? Well, there's no shortage of prey to hunt
-around here.","Наверное. Ты ведь из семьи охотников? Что ж,
-в этих краях недостатка в добыче нет."
-11960,SUPPORT,"True. Not many hunters around the monastery, huh?","Правда. Вокруг монастыря не так уж много
-охотников, да?"
+around here.","Ах да, ты же из семьи охотников. Что же,
+здесь в округе дичи полно, так что 
+охотиться тут — милое дело."
+11960,SUPPORT,"True. Not many hunters around the monastery, huh?","Ага — наверное, потому что мало кто решится
+охотиться в окрестностях монастыря."
 11960,SUPPORT,"Rivers full of fish, trees bursting with fruit,
-mushrooms ready to harvest all over...","Реки, полные рыбы, деревья, свисающие под
-тяжестью плодов, грибы, которые встречаются
-на каждом шагу..."
+mushrooms ready to harvest all over...","В реке можно поймать много рыбы,
+и ягод с грибами тут в избытке."
 11960,SUPPORT,"It's the kind of place where you can really be
 self-sufficient. Guess we can thank the goddess
-for that.","Это место, где ты действительно можешь сам
-себя обеспечивать. Думаю, мы можем
-благодарить за это богиню."
+for that.","Здесь всего хватает, чтобы жить вдоволь.
+За это изобилие надо Богиню благодарить
+и благодарить."
 11960,SUPPORT,"Eh, I dunno. I'm more inclined to thank the
 bountiful earth than the goddess for
-such things.","Ну не знаю. Я больше склонен благодарить за это
-щедрую природу, чем богиню."
+such things.","Хм... Я больше склонен благодарить 
+за это плодородную землю, чем Богиню."
 11960,SUPPORT,"The goddess may offer spiritual guidance,
-but she doesn't fill our bellies, that's for sure.","Богиня может давать духовное наставление,
-но она уж точно не наполняет наши животы."
+but she doesn't fill our bellies, that's for sure.","Богиня, может, и опора нашим душам, 
+а вот желудки она точно не наполнит."
 11960,SUPPORT,"Not a very noble-sounding thing, to disregard the
-goddess and honor the land.","Не каждый дворянин пренебрегет богиней
-и чтит землю."
+goddess and honor the land.","Благодаришь землю, игнорируя Богиню?
+Как обычно, говоришь ты не как аристократ."
 11960,SUPPORT,"Leonie... Whose grace do you suppose humans
 live by? The goddess? The nobility? I'd say
-it's neither.","Леони... Как думаешь, чьей благодатью живут
-люди? Богини? Знати? Я бы сказал, что ни одной
-из них."
+it's neither.","Леони, так ведь чьей милостью люди живут? 
+Богини? Знати? Как бы не так."
 11960,SUPPORT,"It's the endless bounty of this magnificent land
-that gives us life.","Только бесконечная щедрость этой великолепной
-земли даёт нам жизнь."
+that gives us life.","Люди живут благодаря дарам этой
+величественной земли."
 11960,SUPPORT,"Won't hear me deny it. But who's to say it isn't the
-goddess whose protection makes nature thrive?","Отрицать не стану. Но кто знает, может это по
-воле богини природа дарит плоды?"
+goddess whose protection makes nature thrive?","Так я и не спорю, но кто сказал, что это не
+защита Богини делает землю плодородной?"
 11960,SUPPORT,"I'm not the most devout person, but I'm not about to
-go around saying we don't need the goddess at all.","Я не самый благочестивый человек, но я не
-стану утверждать, что нам вообще не нужна
-богиня."
+go around saying we don't need the goddess at all.","Я не шибко набожная, но не стала бы говорить,
+что нам вообще не нужна Богиня..."
 11960,SUPPORT,"I said she gives spiritual support, didn't I?
 I wouldn't go so far as to say she's
-wholly unnecessary.","Я же сказал, что она оказывает духовную
-поддержку. Я бы не стал заявлять, что она
-совершенно не нужна."
+wholly unnecessary.","Так я и сказал, что она опора для души.
+Я не считаю, что она совсем не нужна."
 11960,SUPPORT,"But in Almyra, Dagda, Brigid, and plenty of other
-places, they don't believe in the goddess...","Но в Альмире, Дагде, Бриджите и многих других
-краях люди не верят в богиню..."
+places, they don't believe in the goddess...","Но в Богиню не верят ни в Бригиде,
+ни в Дагде, ни в Пальмире..."
 11960,SUPPORT,"Nature is a blessing that knows nothing of borders.
 The goddess is the goddess, and the earth is the
-earth. They should both be revered for what they are.","Природа — это благословение, которое не знает
-границ. Богиня — это богиня, а земля — это земля.
-Их обоих следует почитать за то, что они есть."
+earth. They should both be revered for what they are.","А земля всех одинаково одаряет. Богиня — это
+Богиня, а земля — это земля, так чего бы не
+почитать их вдвоём по-своему."
 11960,SUPPORT,Hmm.,Хм-м.
 11960,SUPPORT,"Look, this is just my personal opinion. If you truly
 believe that everything depends on the goddess
-of Seiros, that's your—","Слушай, это только моё личное мнение. Если
-ты действительно веришь, что всё зависит от
-богини Сейрос, то это твоё—"
-11960,SUPPORT,"Hey, it's fine. You don't have to worry about me.","Эй, всё в порядке. Не стоит успокаивать меня."
-11960,SUPPORT,"I'm a believer, but I know there are those who aren't.","Я верующая, но я знаю, что есть те, кто не верят."
+of Seiros, that's your—","Ну, это всего лишь моё личное мнение.
+Если ты веришь, что всё сущее — милость
+Богини церкви Сейрос, то..."
+11960,SUPPORT,"Hey, it's fine. You don't have to worry about me.","Не-не, не волнуйся за меня."
+11960,SUPPORT,"I'm a believer, but I know there are those who aren't.","Я верю в Богиню, потому что а как иначе,
+но есть ведь и те, кто не верит."
 11960,SUPPORT,"And I kind of like your way of thinking—giving
-thanks to nature and all. It makes sense.","И мне отчасти нравится твой образ мышления —
-благодарить природу и всё такое. В этом есть
-смысл."
+thanks to nature and all. It makes sense.","И вообще, ты интересно думаешь.
+Благодарить землю, значит... вот как."
 11960,SUPPORT,"I knew a wild girl like you would be able
-to get behind an idea like that.","Я знал, что такая дикая девушка, как ты,
-сможет понять этуидею."
-11960,SUPPORT,"What, like I'm feral or something?","Имеешь в виду, что я дикарка, что ли?"
+to get behind an idea like that.","Правда? Я знал, что такая дикая девушка,
+как ты, сможет меня понять."
+11960,SUPPORT,"What, like I'm feral or something?","В смысле, «дикая девушка»?"
 11960,SUPPORT,"Hey... You know, this kind of talk could be viewed
-as heresy if it was public.","Эй... Знаешь, такие разговоры посчитали бы
-ересью, если бы их кто услышал."
+as heresy if it was public.","И всё-таки, заяви я такое в монастыре,
+меня бы заклеймили еретиком."
 11960,SUPPORT,"Yeah, probably. We'll just have to keep it
-to ourselves.","Да, наверное. Просто оставим это между нами."
+to ourselves.","Да, наверное. Так что оставим этот разговор
+между нами."
 11961,SUPPORT,"Well, we've got another battle coming up. What do
 you think of our chances?","Что ж, скоро нас ждёт ещё одна битва. Как
 оценишь наши шансы?"
@@ -196028,14 +196037,15 @@ grown from taking part in activities with $S0.","Поговорите с таи�
 4,MSGDATA,"Forgive me, everyone. My battle ends here.","Ребята, простите... Моя битва окончена."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,To be left behind... Unacceptable.,Выиграть меня... Неприемлемо.
+4,MSGDATA,To be left behind... Unacceptable.,"Немыслимо, чтобы я... и проиграла..."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,I have no choice but to admit defeat.,"У меня нет другого выбора, кроме как признать
 поражение."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,I didn't expect that... We'll call it a stalemate.,"Неожиданно... Будем считать, что это пат."
+4,MSGDATA,I didn't expect that... We'll call it a stalemate.,"Где-то в расчётах ошибка... 
+Простите, но это пат."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Rendered useless... Lady Edelgard...forgive me.,"Не сыскать с меня пользы... Леди Эдельгард...
@@ -197031,7 +197041,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,I guess I feel a little stronger.,Я чувствую себя немного сильнее.
 4,MSGDATA,I feel a little stronger.,Я стала немного сильнее.
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Don't expect much more than that.,Большего и не ждите.
+4,MSGDATA,Don't expect much more than that.,Всё-то от меня чего-то ждут...
 4,MSGDATA,It was the least I could do.,"И так сойдёт, верно?"
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Gotta keep improving.,Нужно продолжать совершенствоваться.
@@ -197305,7 +197315,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,I can feel the difference.,Я чувствую разницу.
 4,MSGDATA,Stronger. Faster. Never enough.,"Ещё сильнее, ещё быстрее!"
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,I'm starting to see results.,Я начинаю видеть результаты.
+4,MSGDATA,I'm starting to see results.,"Похоже, тренировки дали свои плоды..."
 4,MSGDATA,"Without power, who can you protect?",Без силы никого не защитить.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,I like how this feels.,Мне нравится это ощущение.
@@ -197563,10 +197573,10 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Another step forward.,Ещё один шаг вперед.
+4,MSGDATA,Another step forward.,Ещё один... шаг вперёд?
 4,MSGDATA,There is still room for improvement.,Есть куда расти.
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Another step forward.,Ещё один шаг вперед.
+4,MSGDATA,Another step forward.,Ещё один... шаг вперёд?
 4,MSGDATA,There is still room for improvement.,Есть куда расти.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,One step at a time...,Шаг за шагом...
@@ -197887,7 +197897,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,This can't be right...,Что? У меня — и проблемы с ростом?
 4,MSGDATA,I am not well pleased.,Нехорошо. Я так и забеспокоюсь.
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,I could've been sleeping this whole time.,А разве во сне не быстрее растут?
+4,MSGDATA,I could've been sleeping this whole time.,"А разве не быстрее растёшь, если много спишь?"
 4,MSGDATA,Was any of this worth it?,"Мне кажется, я трачу жизнь зря."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,"Ugh, I'm stronger than this.","Уф, я сильнее этого."
@@ -197938,7 +197948,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,Um... Oh well.,Э... не может...
 4,MSGDATA,I won't let this hold me back.,Я не буду унывать...
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Oh dear. Maybe I was too lazy.,"Ой-ёй, наверное, я слишком обленилась..."
+4,MSGDATA,Oh dear. Maybe I was too lazy.,"Ой, что-то я совсем обленилась..."
 4,MSGDATA,Not quite what I'd hoped for.,"Не то, на что я надеялась."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Can I get a do-over?,А можно по-другому?
