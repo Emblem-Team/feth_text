@@ -4586,55 +4586,77 @@ we didn't try our hardest.","Не стоит отчаиваться. Очеви�
 worried about hurting my feelings or something?","Я вовсе не отчаиваюсь — меня 
 просто бесит твоя «забота»."
 34843,MSGDATA,"Let's wrap this up quickly so that we can get back
-down there. I wanna find the book today.",
+down there. I wanna find the book today.","Давай сделаем всё побыстрее и спустимся
+в подземелье. Может быть, мы именно сегодня
+найдём то, что нужно."
 34843,MSGDATA,"Rushing doesn't help anyone. If we're stuck doing
-this, we'd better at least be deliberate.",
+this, we'd better at least be deliberate.","Нет, спешка здесь не поможет... К делу нужно 
+подходить со всей тщательностью."
 34843,MSGDATA,"I don't wanna spend my whole life doing this. Show a
-little initiative for once.",
-34843,MSGDATA,That was kind of perfect. We work well together.,
+little initiative for once.","Но я же не хочу всю жизнь мучиться. Прояви
+энтузиазм, Лин."
+34843,MSGDATA,That was kind of perfect. We work well together.,"Лучше и быть не может, правда? Мы вдвоём
+отлично сработались."
 34843,MSGDATA,"We've been working way too hard lately.
-Don't you think?",
+Don't you think?","В последнее время мы только и делаем,
+что работаем. Вы согласны, учитель?"
 34843,MSGDATA,"Research shows that the harder people work, the less
 efficient they are. In that spirit, I'm overdue for
-a nap.",
+a nap.","Хапи, люди так устроены, что количество стараний 
+обратно пропорционально эффективности труда.
+Эх, вздремнуть бы..."
 34843,MSGDATA,"Hey, we're in the middle of explaining— Oh, fine.
-I guess you got the gist.",
+I guess you got the gist.","Слушай, мы же ещё не отчитались... А, ну и ладно.
+Значит, на этом всё."
 34843,MSGDATA,"Are there any foods you particularly dislike, Hapi?
-Anything in today's meal, for instance?",
-34843,MSGDATA,"Nope. But also, none of your business.",
+Anything in today's meal, for instance?","Хапи, у тебя есть какая-нибудь нелюбимая еда?
+Например, что-нибудь в сегодняшнем блюде?"
+34843,MSGDATA,"Nope. But also, none of your business.",Да нет... А ты зачем спрашиваешь?
 34843,MSGDATA,"Usually the atmosphere in the dining hall kinda
-bums me out, but with you two, I think I'll be OK.",
+bums me out, but with you two, I think I'll be OK.","Обычно мне не по душе атмосфера в столовой —
+приходится делать весёлый вид... но вместе
+с вами я чувствую себя нормально."
 34843,MSGDATA,"None of us are great at reading a room. Isn't that
-right, Professor?",
+right, Professor?","Ну, мы вдвоём намёков не понимаем. 
+Только пожалуйста, не делайте 
+грустное лицо, учитель."
 34843,MSGDATA,"I overheard someone call us The Three Oddballs.
-Not very clever, if you ask me.",
-34843,MSGDATA,You trying to make me sigh?,
+Not very clever, if you ask me.","Недавно я слышал о том, что нас за глаза
+прозвали «тремя чудаками»."
+34843,MSGDATA,You trying to make me sigh?,"Э-это был опасный момент. Я сейчас
+чуть не вздохнула ненароком."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
-34843,MSGDATA,I can take care of this on my own.,
+34843,MSGDATA,I can take care of this on my own.,Я сам справлюсь.
 34843,MSGDATA,"Oh, don't say such things. It will be far more
-enjoyable for us to do this together!",
-34843,MSGDATA,You haven't changed at all...,
-34843,MSGDATA,I've no complaints for work this good.,
+enjoyable for us to do this together!","Ну-ну, не надо говорить такие нерадостные вещи.
+Вместе нам будет веселее!"
+34843,MSGDATA,You haven't changed at all...,Ты ничуть не изменилась.
+34843,MSGDATA,I've no complaints for work this good.,"Если нет претензий, то это всё."
 34843,MSGDATA,"Our results were excellent, and what's more, we had
-a good time while we were at it.",
+a good time while we were at it.","Хи-хи, мы сделали всё как следует — но важнее
+всего то, что мы как следует повеселились."
 34843,MSGDATA,"Hmm, we didn't do so well, did we... We had so
-much fun talking, and—",
-34843,MSGDATA,"Yes, and we should be remorseful.",
-34843,MSGDATA,"""I can take care of this on my own."" Ha! Just kidding.",
-34843,MSGDATA,Mercedes...don't.,
+much fun talking, and—","Хм-м, мы не очень хорошо справились.
+Но мы так весело болтали..."
+34843,MSGDATA,"Yes, and we should be remorseful.",Именно. Следует извлечь из этого урок.
+34843,MSGDATA,"""I can take care of this on my own."" Ha! Just kidding.",«Я сам~а справлюсь». Шучу.
+34843,MSGDATA,Mercedes...don't.,Мерседес... Не шути так.
 34843,MSGDATA,"Aw, come on... Can't we laugh once in a while like
-we used to?",
-34843,MSGDATA,I've no complaints for work this good.,
+we used to?","Ох, ну чего тебе стоит хоть немножко
+улыбнуться, как раньше?"
+34843,MSGDATA,I've no complaints for work this good.,"Если нет претензий, то это всё."
 34843,MSGDATA,"Our results were excellent, and what's more, we had
-a good time while we were at it.",
+a good time while we were at it.","Хи-хи, мы сделали всё как следует — но важнее
+всего то, что мы как следует повеселились."
 34843,MSGDATA,"Hmm, we didn't do so well, did we... We had so
-much fun talking, and—",
-34843,MSGDATA,"Yes, and we should be remorseful.",
+much fun talking, and—","Хм-м, мы не очень хорошо справились.
+Но мы так весело болтали..."
+34843,MSGDATA,"Yes, and we should be remorseful.",Именно. Следует извлечь из этого урок.
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4643,20 +4665,24 @@ much fun talking, and—",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"I see your food preferences are the same as they
-ever were!",
-34843,MSGDATA,You haven't changed at all either.,
+ever were!","Хи-хи, а твои предпочтения в еде совсем
+не изменились с детства."
+34843,MSGDATA,You haven't changed at all either.,Твои тоже не изменились.
 34843,MSGDATA,"Food always tastes so much better when you're in
-good company. I could just eat and eat!",
+good company. I could just eat and eat!","Вместе с вами и еда вкуснее. И есть можно
+сколько угодно."
 34843,MSGDATA,"That's right. You used to get in trouble for that...
-For eating your food so quickly.",
+For eating your food so quickly.","Помнится, тебя часто за это бранили.
+За то, что слишком много ешь..."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
-34843,MSGDATA,Just stay close and watch.,
-34843,MSGDATA,Big sis can definitely handle carrying rubble like this.,
-34843,MSGDATA,Absolutely not. I will move it.,
+34843,MSGDATA,Just stay close and watch.,Просто наблюдай неподалёку.
+34843,MSGDATA,Big sis can definitely handle carrying rubble like this.,"Не-не. Я твоя старшая сестра, и справлюсь с тем,
+чтобы таскать обломки."
+34843,MSGDATA,Absolutely not. I will move it.,Я запрещаю. Я сам буду их перетаскивать.
 31992,SUPPORT,"In the Imperial year 185, the construction of
 Garreg Mach was completed. Saint Seiros held a
 sacred ritual to honor the occasion. Four saints,
