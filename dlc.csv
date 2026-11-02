@@ -4403,33 +4403,50 @@ high above the rest of the populace.","Соглашусь. Благодаря э
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"I couldn't bear to inconvenience you, Mercedes.
-The mere thought of it leaves me weak-kneed.",
+The mere thought of it leaves me weak-kneed.","У меня кружится голова от одной мысли о том, 
+что я могу причинить сестрице неудобство."
 34843,MSGDATA,"Are you feeling all right, Constance? If not, perhaps
-you'd better rest a bit...",
+you'd better rest a bit...","Ох! Тебе нехорошо, Констанция? Если так,
+то тебе следует передохнуть..."
 34843,MSGDATA,"Nonsense. Consider me a beast of burden, existing
-only to toil at your command.",
+only to toil at your command.","Нонсенс. Пожалуйста, заставляй меня работать
+как ломовую лошадь, сестрица."
 34843,MSGDATA,"Haha! We've worked hard and finished our task
-quickly. It feels wonderful!",
+quickly. It feels wonderful!","Хи-хи, мы славно потрудились вместе —
+и быстро управились."
 34843,MSGDATA,"The task posed no challenge at all between the two
-of us!",
+of us!","О-хо-хо-хо! Это было проще простого
+для нас с сестрицей!"
 34843,MSGDATA,"This was not up to my usual standard. There must
-be some mistake. It's unbecoming.",
+be some mistake. It's unbecoming.","Не может быть, чтобы итог оказался
+таким ничтожным! Нелепость какая-то!"
 34843,MSGDATA,"Please don't worry yourself. Your face is too lovely to
-mar with a frown.",
+mar with a frown.","Не надо так хмуриться. Улыбка тебе гораздо
+больше к лицу."
 34843,MSGDATA,"You always try so hard. This time, it's my turn to
-pull us through.",
+pull us through.","Что же, сегодня моя очередь трудиться
+не покладая рук. Ведь обычно это
+ты стараешься изо всех сил."
 34843,MSGDATA,"Incorrect. It is my turn. And it shall be my turn next
-time as well. Your role here is to wait in the shade.",
+time as well. Your role here is to wait in the shade.","Нет, сегодня моя очередь. И в следующий раз
+тоже будет моя очередь. Пожалуйста, отдохни 
+в теньке, сестрица."
 34843,MSGDATA,"Oh no, that just won't do! It will be much better if
-we work together.",
+we work together.",Э-э? Так нельзя. Давай лучше поработаем вместе.
 34843,MSGDATA,"Ahaha! Observe, Professor! Who but we two could
-come close to such results?",
+come close to such results?","О-хо-хо! Взгляните, учитель! Вот!
+Вот он — несравненный результат!"
 34843,MSGDATA,"We finished our work so quickly today! It's all
-thanks to Constance, I'm sure of it.",
+thanks to Constance, I'm sure of it.","Сегодня всё прошло удивительно гладко.
+Я думаю, это благодаря Констанции."
 34843,MSGDATA,"Oh, if only I had tried even harder! Next time,
-I promise I won't let you down.",
+I promise I won't let you down.","Хм-м... Наверное, мне следовало работать
+усерднее. В следующий раз я обязательно
+постараюсь лучше."
 34843,MSGDATA,"I loathe being this millstone around her neck...
-I must work harder to ensure it never happens again.",
+I must work harder to ensure it never happens again.","Как же так вышло, что я подвела сестрицу...
+Я посвящу себя тренировкам и обязательно
+вернусь, чтобы всё исправить!"
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4439,13 +4456,18 @@ I must work harder to ensure it never happens again.",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"I have a lovely idea! How about I invite another
 friend next time so that the four of us can enjoy
-each other's company?",
+each other's company?","Идея! Давайте в следующий раз 
+я приглашу свою лучшую подругу,
+и мы пообедаем вчетвером!"
 34843,MSGDATA,"Of course! That sounds delightful and not the least
-bit likely to cause anxiety...",
+bit likely to cause anxiety...","Обед с подругой сестрицы?! Э... 
+Эта идея меня вовсе не тревожит!"
 34843,MSGDATA,"Constance... Am I mistaken, or were you somewhat
-averse to vegetables in the past?",
+averse to vegetables in the past?","К слову, Констанция, ты ведь в детстве очень
+не любила овощи, я правильно помню?"
 34843,MSGDATA,"Mercedes, shush! Keep these embarrassments to
-yourself while there are others present.",
+yourself while there are others present.","А-а... Сестрица! Не надо! Это не то, что можно
+обсуждать в присутствии учителя!"
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4455,31 +4477,47 @@ yourself while there are others present.",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"My darkest fear is that I shall be a burden to you,
-dear Hapi.",
+dear Hapi.","Мой единственный страх — это стать помехой
+для твоих глаз, достопочтенная Хапи..."
 34843,MSGDATA,"Yeesh. Try not to worry about that, OK? Let's both
-focus on getting this done.",
+focus on getting this done.","Ага-ага. Ну, приступим к веселью.
+Конни туда, Хапи сюда."
 34843,MSGDATA,"See if you can work in the shade, Coco. We might
-finish up more quickly that way.",
+finish up more quickly that way.","Хотя, почему бы тебе не пойти под тень, Конни?
+Мы так быстрее управимся, наверное."
 34843,MSGDATA,"This is proof enough that the bond we forged
-underground has born fruit!",
+underground has born fruit!","Вот он, плод связи, которую мы выпестовали
+под землёй!
+"
 34843,MSGDATA,"That's a little dramatic, but you're not wrong.
-We work well together.",
+We work well together.","Ты чутка преувеличиваешь. Хотя слышать
+такие слова от Конни приятно..."
 34843,MSGDATA,"I don't like to point fingers, but Coco really slowed
-us down.",
+us down.","У тебя же совсем ничего не получилось 
+из-за того, что ты всё металась между 
+тенью и солнцем, Конни."
 34843,MSGDATA,"That wasn't— Ugh, very well. It was my fault—but
-only technically!",
+only technically!","Д-да, это моя вина... но только наполовину!"
 34843,MSGDATA,"Look, I already know how you're feeling. Let's just
-get this done, all right?",
+get this done, all right?","Я уже знаю всё, что ты хочешь сказать,
+так что лучше давай поскорее всё сделаем."
 34843,MSGDATA,"Nobody understands me as you do, dear Hapi.
-But still, I feel so weary...",
-34843,MSGDATA,You need to get to bed earlier. What else is new?,
+But still, I feel so weary...","Я безмерно признательна тебе за понимание,
+но, по правде говоря..."
+34843,MSGDATA,You need to get to bed earlier. What else is new?,"По правде говоря, ты не выспалась.
+Я же сказала, что знаю это."
 34843,MSGDATA,"Pushing past the limits of sleep deprivation is
-most thrilling!",
+most thrilling!","Я увидела, на что по-настоящему способна,
+перейдя за грань недосыпа!.."
 34843,MSGDATA,"Sure, job well done, yay for us. Maybe get some
-sleep now, OK?",
+sleep now, OK?","Да, результат получился отличным...
+Но это же вообще не полезно. Не делай
+больше так, Конни."
 34843,MSGDATA,"Hapi, you were magnificent. It seems I was nothing
-more than dead weight.",
-34843,MSGDATA,"Eh. To be honest, neither of us did all that great.",
+more than dead weight.","Ты так выручила нас, своим трудом восполнив
+моё пренебрежение к собственному здоровью!"
+34843,MSGDATA,"Eh. To be honest, neither of us did all that great.","Я же говорила, ты преувеличиваешь.
+Мы ведь подруги."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4488,13 +4526,18 @@ more than dead weight.",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"Hapi! Have we not discussed your revolting table
-manners enough?!",
+manners enough?!","Постой-ка! Хапи! Ты ведь не считаешь, что я
+допущу подобное отсутствие манер за столом?"
 34843,MSGDATA,"Here we go again. Food tastes better when I eat it
-like this, Coco.",
+like this, Coco.","Опять ты за своё. Конни, мне вкуснее, когда
+я ем так."
 34843,MSGDATA,"Behold, Professor! We need only sprinkle a bit of
-this secret ingredient that Hapi and I found and...",
+this secret ingredient that Hapi and I found and...","Учитель, посмотрите! Сейчас добавим
+чуть-чуть того секретного ингредиента, 
+который нашли мы с Хапи..."
 34843,MSGDATA,"Coco... If you go and tell everyone about it, it's not
-much of a secret.",
+much of a secret.","Конни, ты вообще ничего не утаиваешь.
+Может, не надо превращать столовую в сцену?.."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4504,81 +4547,116 @@ much of a secret.",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"I heard a rumor about you. I wonder if there's any
-truth to it...",
-34843,MSGDATA,Which one? You can't believe everything you hear.,
+truth to it...","К слову, до меня дошёл один слух о тебе.
+Мне интересно, правда ли это."
+34843,MSGDATA,Which one? You can't believe everything you hear.,"Какой ещё слух? Ты про выдумки обо мне, что ли?"
 34843,MSGDATA,"If you say so. For now, let's just finish up so I can get
-back to my nap.",
+back to my nap.","Вот как, значит... Ну ладно. Давай приступим к делу."
 34843,MSGDATA,"Our hearts weren't really in that one, but we still
-pulled it off well enough. Don't you think?",
+pulled it off well enough. Don't you think?","Мне показалось, что ты была рассеянной,
+но всё получилось удивительно хорошо, Хапи."
 34843,MSGDATA,"You wouldn't stop staring at me, so I was in a rush to
-get it over with as quickly as possible.",
+get it over with as quickly as possible.","Я торопилась сделать всё поскорее, потому что
+ты всё пялился на меня — а я лишний раз устала."
 34843,MSGDATA,"Linny, why did you keep staring at me? That really
-got on my nerves.",
+got on my nerves.","Твой взгляд меня постоянно отвлекал. 
+Что Хапи такого сделала?"
 34843,MSGDATA,"Oh, it's nothing. I just couldn't stop thinking about
-that rumor I heard. I'll watch you in secret next time.",
+that rumor I heard. I'll watch you in secret next time.","Ах, просто я всё думал, правдив тот слух или нет...
+Прости, впредь я буду наблюдать за тобой тайно."
 34843,MSGDATA,"If you get tired, feel free to take a break. Maybe we
-can take turns or something.",
-34843,MSGDATA,"You'd do that for me, huh? Wow, that's nice of you.",
+can take turns or something.","Не надо перенапрягаться, если ты устала.
+Если не хочешь что-то делать — скажи мне,
+я тебя подменю."
+34843,MSGDATA,"You'd do that for me, huh? Wow, that's nice of you.","Ты правда сделаешь это ради меня? Даже
+у доброты есть пределы, разве нет?"
 34843,MSGDATA,"Nah, I'm thinking of myself. I don't feel like facing
-off with a demonic beast today.",
+off with a demonic beast today.","Я сделаю это ради себя. Только шумихи из-за
+магического чудища мне не хватало."
 34843,MSGDATA,"Gotta say, Linny did a good job. It all went pretty
-smoothly thanks to him.",
+smoothly thanks to him.","А у тебя руки откуда надо растут, Лин, ты всё
+сделал отлично."
 34843,MSGDATA,"I'm just glad it's over. If I don't get to sleep soon,
-I'm going to die.",
+I'm going to die.","Я просто рад, что всё кончилось благополучно.
+Ох... Если я не лягу спать, это мне завтра аукнется."
 34843,MSGDATA,"I'd say these results are...acceptable. You can't say
-we didn't try our hardest.",
+we didn't try our hardest.","Не стоит отчаиваться. Очевидно, учитель 
+понимает, что результат приемлемый."
 34843,MSGDATA,"There's no need to put a positive spin on it. Are you
-worried about hurting my feelings or something?",
+worried about hurting my feelings or something?","Я вовсе не отчаиваюсь — меня 
+просто бесит твоя «забота»."
 34843,MSGDATA,"Let's wrap this up quickly so that we can get back
-down there. I wanna find the book today.",
+down there. I wanna find the book today.","Давай сделаем всё побыстрее и спустимся
+в подземелье. Может быть, мы именно сегодня
+найдём то, что нужно."
 34843,MSGDATA,"Rushing doesn't help anyone. If we're stuck doing
-this, we'd better at least be deliberate.",
+this, we'd better at least be deliberate.","Нет, спешка здесь не поможет... К делу нужно 
+подходить со всей тщательностью."
 34843,MSGDATA,"I don't wanna spend my whole life doing this. Show a
-little initiative for once.",
-34843,MSGDATA,That was kind of perfect. We work well together.,
+little initiative for once.","Но я же не хочу всю жизнь мучиться. Прояви
+энтузиазм, Лин."
+34843,MSGDATA,That was kind of perfect. We work well together.,"Лучше и быть не может, правда? Мы вдвоём
+отлично сработались."
 34843,MSGDATA,"We've been working way too hard lately.
-Don't you think?",
+Don't you think?","В последнее время мы только и делаем,
+что работаем. Вы согласны, учитель?"
 34843,MSGDATA,"Research shows that the harder people work, the less
 efficient they are. In that spirit, I'm overdue for
-a nap.",
+a nap.","Хапи, люди так устроены, что количество стараний 
+обратно пропорционально эффективности труда.
+Эх, вздремнуть бы..."
 34843,MSGDATA,"Hey, we're in the middle of explaining— Oh, fine.
-I guess you got the gist.",
+I guess you got the gist.","Слушай, мы же ещё не отчитались... А, ну и ладно.
+Значит, на этом всё."
 34843,MSGDATA,"Are there any foods you particularly dislike, Hapi?
-Anything in today's meal, for instance?",
-34843,MSGDATA,"Nope. But also, none of your business.",
+Anything in today's meal, for instance?","Хапи, у тебя есть какая-нибудь нелюбимая еда?
+Например, что-нибудь в сегодняшнем блюде?"
+34843,MSGDATA,"Nope. But also, none of your business.",Да нет... А ты зачем спрашиваешь?
 34843,MSGDATA,"Usually the atmosphere in the dining hall kinda
-bums me out, but with you two, I think I'll be OK.",
+bums me out, but with you two, I think I'll be OK.","Обычно мне не по душе атмосфера в столовой —
+приходится делать весёлый вид... но вместе
+с вами я чувствую себя нормально."
 34843,MSGDATA,"None of us are great at reading a room. Isn't that
-right, Professor?",
+right, Professor?","Ну, мы вдвоём намёков не понимаем. 
+Только пожалуйста, не делайте 
+грустное лицо, учитель."
 34843,MSGDATA,"I overheard someone call us The Three Oddballs.
-Not very clever, if you ask me.",
-34843,MSGDATA,You trying to make me sigh?,
+Not very clever, if you ask me.","Недавно я слышал о том, что нас за глаза
+прозвали «тремя чудаками»."
+34843,MSGDATA,You trying to make me sigh?,"Э-это был опасный момент. Я сейчас
+чуть не вздохнула ненароком."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
-34843,MSGDATA,I can take care of this on my own.,
+34843,MSGDATA,I can take care of this on my own.,Я сам справлюсь.
 34843,MSGDATA,"Oh, don't say such things. It will be far more
-enjoyable for us to do this together!",
-34843,MSGDATA,You haven't changed at all...,
-34843,MSGDATA,I've no complaints for work this good.,
+enjoyable for us to do this together!","Ну-ну, не надо говорить такие нерадостные вещи.
+Вместе нам будет веселее!"
+34843,MSGDATA,You haven't changed at all...,Ты ничуть не изменилась.
+34843,MSGDATA,I've no complaints for work this good.,"Если нет претензий, то это всё."
 34843,MSGDATA,"Our results were excellent, and what's more, we had
-a good time while we were at it.",
+a good time while we were at it.","Хи-хи, мы сделали всё как следует — но важнее
+всего то, что мы как следует повеселились."
 34843,MSGDATA,"Hmm, we didn't do so well, did we... We had so
-much fun talking, and—",
-34843,MSGDATA,"Yes, and we should be remorseful.",
-34843,MSGDATA,"""I can take care of this on my own."" Ha! Just kidding.",
-34843,MSGDATA,Mercedes...don't.,
+much fun talking, and—","Хм-м, мы не очень хорошо справились.
+Но мы так весело болтали..."
+34843,MSGDATA,"Yes, and we should be remorseful.",Именно. Следует извлечь из этого урок.
+34843,MSGDATA,"""I can take care of this on my own."" Ha! Just kidding.",«Я сам~а справлюсь». Шучу.
+34843,MSGDATA,Mercedes...don't.,Мерседес... Не шути так.
 34843,MSGDATA,"Aw, come on... Can't we laugh once in a while like
-we used to?",
-34843,MSGDATA,I've no complaints for work this good.,
+we used to?","Ох, ну чего тебе стоит хоть немножко
+улыбнуться, как раньше?"
+34843,MSGDATA,I've no complaints for work this good.,"Если нет претензий, то это всё."
 34843,MSGDATA,"Our results were excellent, and what's more, we had
-a good time while we were at it.",
+a good time while we were at it.","Хи-хи, мы сделали всё как следует — но важнее
+всего то, что мы как следует повеселились."
 34843,MSGDATA,"Hmm, we didn't do so well, did we... We had so
-much fun talking, and—",
-34843,MSGDATA,"Yes, and we should be remorseful.",
+much fun talking, and—","Хм-м, мы не очень хорошо справились.
+Но мы так весело болтали..."
+34843,MSGDATA,"Yes, and we should be remorseful.",Именно. Следует извлечь из этого урок.
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4587,20 +4665,24 @@ much fun talking, and—",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"I see your food preferences are the same as they
-ever were!",
-34843,MSGDATA,You haven't changed at all either.,
+ever were!","Хи-хи, а твои предпочтения в еде совсем
+не изменились с детства."
+34843,MSGDATA,You haven't changed at all either.,Твои тоже не изменились.
 34843,MSGDATA,"Food always tastes so much better when you're in
-good company. I could just eat and eat!",
+good company. I could just eat and eat!","Вместе с вами и еда вкуснее. И есть можно
+сколько угодно."
 34843,MSGDATA,"That's right. You used to get in trouble for that...
-For eating your food so quickly.",
+For eating your food so quickly.","Помнится, тебя часто за это бранили.
+За то, что слишком много ешь..."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
-34843,MSGDATA,Just stay close and watch.,
-34843,MSGDATA,Big sis can definitely handle carrying rubble like this.,
-34843,MSGDATA,Absolutely not. I will move it.,
+34843,MSGDATA,Just stay close and watch.,Просто наблюдай неподалёку.
+34843,MSGDATA,Big sis can definitely handle carrying rubble like this.,"Не-не. Я твоя старшая сестра, и справлюсь с тем,
+чтобы таскать обломки."
+34843,MSGDATA,Absolutely not. I will move it.,Я запрещаю. Я сам буду их перетаскивать.
 31992,SUPPORT,"In the Imperial year 185, the construction of
 Garreg Mach was completed. Saint Seiros held a
 sacred ritual to honor the occasion. Four saints,
