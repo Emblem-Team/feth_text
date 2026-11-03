@@ -12622,129 +12622,190 @@ they want me to say?!","Тогда я сказала Бальтазару, чт�
 32211,SUPPORT,(I should hear what the residents have to say...),(Надо поговорить с местными жителями...)
 32212,SUPPORT,"Well, well. The Imperial princess, the crown prince,
 and the next sovereign duke. Must be exhausting
-trying to suss out each other's intentions, huh?",
+trying to suss out each other's intentions, huh?","Имперская принцесса, крон-принц и наследник
+главы Альянса... Тяжело вам, наверное, постоянно
+вычислять, у кого что припрятано в рукаве?"
 32212,SUPPORT,"Nah, we get along great. I mean, we kind of have no
-choice. A petty squabble could start an all-out war.",
+choice. A petty squabble could start an all-out war.","Нет-нет, мы все — добрые друзья. А то если
+разругаемся, это тут же перерастёт в войну."
 32212,SUPPORT,"And it doesn't take a fancy title to have a hidden
-agenda. Isn't that right, Yuri?",
+agenda. Isn't that right, Yuri?","Ты и сам такой же — с козырем в рукаве, а, Юрий?"
 32212,SUPPORT,"Cheeky...and off base. What do you think, friend?
-Do you think I'm off plotting nefarious deeds?",
-32212,SUPPORT,"Yes, I do.",
-32212,SUPPORT,"No, I don't.",
-32212,SUPPORT,Ha ha ha! Brutally honest... I love it.,
-32212,SUPPORT,"Ha ha! Not very perceptive, are we?",
+Do you think I'm off plotting nefarious deeds?","Да ну... Учитель, по-вашему, я похож на
+человека, который что-то замышляет?"
+32212,SUPPORT,"Yes, I do.",Похож.
+32212,SUPPORT,"No, I don't.",Не похож.
+32212,SUPPORT,Ha ha ha! Brutally honest... I love it.,Ха-ха-ха-ха! Честнее некуда!
+32212,SUPPORT,"Ha ha! Not very perceptive, are we?","Ха-ха-ха-ха! Не умеете вы разбираться
+в людях, да?"
 32212,SUPPORT,"Even so, that's a bit much, wouldn't you say? I do
-what I need to get by—nothing more than that.",
+what I need to get by—nothing more than that.","Но «козырь в рукаве» — это мягко сказано.
+Мой образ жизни далёк от добропорядочного
+человека."
 32212,SUPPORT,"As for the others, they've all got their own struggles,
-but they're nothing if not trustworthy.",
+but they're nothing if not trustworthy.","Вот остальные — другое дело. У каждого
+свои обстоятельства, но им всем можно
+доверять."
 32212,SUPPORT,"Humbling yourself while promoting your friends...
-Gotta say, I don't hate this side of you.",
+Gotta say, I don't hate this side of you.","Принижаешь себя, возвышая друзей? 
+Что же, мне это в тебе нравится."
 32212,SUPPORT,"Seems we're in mutual neutrality of one another.
 I like that you keep your cards close. We'll get
-along just fine, you and I.",
+along just fine, you and I.","Взаимно. Ты мне тоже симпатичен. 
+Раз ты себе на уме, то мы поладим."
 32212,SUPPORT,"I've got a lot of time on my hands down here, so I've
-been venturing even deeper underground.",
+been venturing even deeper underground.","Под землёй у меня полно свободного времени, 
+так что время от времени я забираюсь ещё глубже."
 32212,SUPPORT,"This place is loaded with winding paths and
-blocked-off tunnels. It's a real maze.",
+blocked-off tunnels. It's a real maze.","Там полно развилок и заваленных 
+проходов — напоминает лабиринт."
 32212,SUPPORT,"Only a few folks even know how to operate the gate
-mechanisms and hidden passages.",
-32212,SUPPORT,Gate mechanisms?,
-32212,SUPPORT,Hidden passages?,
+mechanisms and hidden passages.","Но мало кто знает, как заставить двигаться
+механизмы люков и потайных дверей."
+32212,SUPPORT,Gate mechanisms?,Люков?
+32212,SUPPORT,Hidden passages?,Потайных дверей?
 32212,SUPPORT,"That's what I said. Activate the mechanism, and the
-gate slams shut. Bang!",
+gate slams shut. Bang!","Ага — стоит привести механизм в движение,
+и бам! — люк сам собой захлопнется."
 32212,SUPPORT,"That's what I said. Things will shift without notice
 here, revealing hidden passages. Walls. Floors.
-Everything. Gotta stay sharp.",
+Everything. Gotta stay sharp.","Ага — стена или пол могут мгновенно 
+превратиться в потайной ход. "
 32212,SUPPORT,"Actually, I'll level with you. Yuri and Constance are
-much better at scoping out that kind of thing, heh.",
+much better at scoping out that kind of thing, heh.","Но Юрий с Констанцией прозорливее в нахождении
+таких штук."
 32212,SUPPORT,"The records should be here some— Oh!
-Hello, Professor. It's good that you've come.",
+Hello, Professor. It's good that you've come.","Записи должны быть здесь... вот же они.
+О, вам что-то нужно?"
 32212,SUPPORT,"I realized that I missed an opportunity to
-congratulate myself on my military achievements.",
+congratulate myself on my military achievements.","К слову! Я ведь совсем забыла во всеуслышанье
+объявить о победе!"
 32212,SUPPORT,"But now that you're here, I have an audience for it.
-Indulge me, won't you?",
+Indulge me, won't you?","Я поздновато спохватилась. Побудьте моим
+зрителем, пожалуйста."
 32212,SUPPORT,"Ahaha! Behold the proof that the utmost honor in
 combat belongs to none other than I, Constance
-von Nuvelle!",
+von Nuvelle!","О-хо-хо-хо! Я, Констанция фон Нувэль, превыше
+всего ставлю боевые заслуги!"
 32212,SUPPORT,"What a relief to get that off my chest! Now, where
-did Aelfric get to? I must have words with him.",
+did Aelfric get to? I must have words with him.","Ах, сразу на душе полегчало. А теперь мне
+пора — я пойду к отцу Альфарду, поговорить."
 32212,SUPPORT,"You've only been on the job a few moons, huh?
 No wonder you don't come off as a mindless church
-flunky.",
+flunky.","Вы впервые занялись такой работой только
+несколько лун тому назад? Неудивительно,
+что вы не похожи на церковников."
 32212,SUPPORT,"Plus, you don't flap your trap all the time.
-I appreciate that.",
+I appreciate that.",И вы не говорите лишнего — Хапи это нравится.
 32212,SUPPORT,"I hope you never change, no matter how many years
-you spend with the annoying people up there.",
+you spend with the annoying people up there.","Надеюсь, вы не поменяетесь. Даже когда
+уже станете седым учителем."
 32212,SUPPORT,"The Ashen Wolves got their name from the beasts
-who guard the Blue Sea Star.",
-32212,SUPPORT,"The archbishop named the house herself, in fact.",
+who guard the Blue Sea Star.","Дом Пепельных Волков назван в честь зверя, 
+что оберегает Звезду Синего Моря."
+32212,SUPPORT,"The archbishop named the house herself, in fact.","Название выбрала лично Её Высокопреосвященство
+Архиепископ, но увы..."
 32212,SUPPORT,"In spite of that, it seems she looks unfavorably upon
-our house of late. This saddens me greatly.",
+our house of late. This saddens me greatly.","В последнее время Её Высокопреосвященство
+стала весьма невысокого мнения обо всём
+подземелье... Это прискорбно."
 32212,SUPPORT,"Pardon the odd question, but something has been
 bothering me for a while now. Your hair...was it
-always that color?",
+always that color?","Я всё думаю — твои волосы... давно ли они
+такого цвета?"
 32212,SUPPORT,"That is an odd question. But yes, if you must know,
-it was a different color when I was a child.",
+it was a different color when I was a child.","Мои волосы? Да, в детстве они были другими..."
 32212,SUPPORT,"How could you know that? Is it possible that we met
-before the academy?",
-32212,SUPPORT,What are you two talking about?,
-32212,SUPPORT,Your hair changed color?,
-32212,SUPPORT,It's...a long story. Now is not the time or place.,
-32212,SUPPORT,"Yes, of course. My apologies.",
+before the academy?","Откуда ты об этом знаешь? Может быть, мы уже
+где-то встречались, до?.."
+32212,SUPPORT,What are you two talking about?,О чём вы?
+32212,SUPPORT,Your hair changed color?,Твои волосы изменили цвет?
+32212,SUPPORT,It's...a long story. Now is not the time or place.,"Это долгая история. К тому же, неуместная...
+Оставим её на потом, ладно?"
+32212,SUPPORT,"Yes, of course. My apologies.","Да, разумеется."
 32212,SUPPORT,"The Four Apostles... Gah, this is killing me!
-I'm on the verge of remembering something.",
+I'm on the verge of remembering something.","Четверо Апостолов, Четверо Апостолов...
+Хм-м... Всё на языке крутится — учитель,
+не напомните, что именно?"
 32212,SUPPORT,"I can't shake the feeling that one of their names is...
-also a food or something.",
+also a food or something.","Вроде как даже блюдо назвали в честь одного
+из Апостолов..."
 32212,SUPPORT,"I've only had the chance to speak with Aelfric briefly,
-but he seems like a respectable man.",
+but he seems like a respectable man.","Альфард — замечательный человек, вы не находите?
+Хоть я и общался с ним всего ничего..."
 32212,SUPPORT,"It's obvious the whole town has a lot of affection
-for him.",
-32212,SUPPORT,Kind of reminds me of Lonato in that way...,
+for him.","Очевидно, что в городе его очень любят."
+32212,SUPPORT,Kind of reminds me of Lonato in that way...,Чем-то он мне напомнил лорда Лонато.
 32212,SUPPORT,"Had a chance to poke your head in here, Professor?
-It's a fortune-teller's room!",
+It's a fortune-teller's room!","Учитель, вы ещё не смотрели, что в этой комнате?
+Я слышала, что здесь проводит гадания ворожея!"
 32212,SUPPORT,"Judging by all her mystical-looking doodads, I think
-she's the real deal too.",
+she's the real deal too.","Я думаю, что тут атмосфера такая,
+что от желающих отбоя не будет!"
 32212,SUPPORT,"I wonder if she does matchmaking. Maybe she can
-help me sort through my countless suitors.",
+help me sort through my countless suitors.","Интересно, а на суженого она гадает?
+Может, сходить попозже..."
 32212,SUPPORT,"Hey, you. Listen up. I've got something to report.
 The bandit sightings have stopped. For now.
-I still won't let my guard down, though!",
+I still won't let my guard down, though!","Мне есть что доложить... наверное.
+Хотя нарушителей я не видел."
 32212,SUPPORT,"What else... Notice how everyone's in high spirits?
-Know why? I do. It's because Master Aelfric is here.",
+Know why? I do. It's because Master Aelfric is here.","Когда господин Альфард спускается в Бездну,
+здесь всем становится жить лучше и веселее."
 32212,SUPPORT,"He's real special, that one. He saved my life and lots
-of others here too. He's earned some hero worship.",
+of others here too. He's earned some hero worship.","Он здесь много кому помогал. Для нас он кто-то 
+вроде бога во плоти."
 32212,SUPPORT,"Don't suppose you're here for a drink, huh.
-They aren't any better, I'll tell ya right now.",
+They aren't any better, I'll tell ya right now.","Ну что, сегодня-то хочешь выпить?
+Только проставиться я могу одним 
+дряным пойлом."
 32212,SUPPORT,"Maybe folks down here wouldn't be so awful if they
-could get their hands on something worth tasting.",
-32212,SUPPORT,Who am I kidding... Nobles are just as bad.,
+could get their hands on something worth tasting.","Может, тут и люди дряные как раз только
+потому, что пьют сущую дрянь."
+32212,SUPPORT,Who am I kidding... Nobles are just as bad.,"Говорят, доброе вино облагораживает... 
+Хотя кого я обманываю? Знать — тоже 
+дрянь та ещё."
 32212,SUPPORT,"I heard Aelfric came to Yuri's rescue in the attack
-that happened recently.",
+that happened recently.","Это правда, что во время прошлой заварушки
+Альфард спас Юрия?"
 32212,SUPPORT,"That's just what you'd expect from someone as kind
-and strong as he is.",
-32212,SUPPORT,I can't believe he's single...,
+and strong as he is.","Как же он хорош. Добрый, умный, да к тому же
+ещё и сильный."
+32212,SUPPORT,I can't believe he's single...,"И до сих пор не женат. Может,
+он как раз меня в жёны возьмёт..."
 32212,SUPPORT,"Abyss is a sprawling place. Some houses, like mine,
-are actually quite far from the center of town.",
-32212,SUPPORT,"What brings me all the way here then, you ask?",
+are actually quite far from the center of town.","В Бездне несколько кварталов, и я из самого
+дальнего."
+32212,SUPPORT,"What brings me all the way here then, you ask?","И может, ты спросишь, что я тут забыла.
+А чего тут спрашивать-то?"
 32212,SUPPORT,"I came to see Aelfric. Even a glimpse of him is said
-to bring good luck.",
+to bring good luck.","Я пришла хоть краем глаза увидеть отца Альфарда.
+Говорят, что встретиться с ним — это к счастью."
 32212,SUPPORT,"For folks who've lost their homes on the surface,
-Abyss is all they've got.",
+Abyss is all they've got.","Когда люди теряют своё место на поверхности,
+в конечном итоге они попадают сюда... в Бездну."
 32212,SUPPORT,"Place used to be nothing more than a den of
-criminals who did whatever they pleased.",
-32212,SUPPORT,"Now, we've got Aelfric to keep an eye on things.",
+criminals who did whatever they pleased.","Долгое время тут был притон бедноты
+да преступников без всякого порядка."
+32212,SUPPORT,"Now, we've got Aelfric to keep an eye on things.","Но когда за дело взялся отец Альфард,
+Бездна переменилась."
 32212,SUPPORT,"He understands that keeping people fed's the way
-to keep 'em calm.",
+to keep 'em calm.","Благодаря его милости мы больше не голодаем.
+А люди ведь мирные и спокойные, когда сытые."
 32212,SUPPORT,"There was a time when I did much fighting.
-Then I was captured. Then...I escaped.",
+Then I was captured. Then...I escaped.","Давно, я была воином. Несчастье: 
+попала в плен. Сбежала."
 32212,SUPPORT,"My home is far away now. My mother is waiting
-for me, but returning is... It is far away.",
-32212,SUPPORT,I worry that I will be here until I am very old.,
-32212,SUPPORT,Sometimes Aelfric gives out candy!,
+for me, but returning is... It is far away.","Дома ждёт мама. Хочу вернуться,
+но не могу — далеко."
+32212,SUPPORT,I worry that I will be here until I am very old.,"Наверное, я не смогу уйти. Даже когда
+стану старухой, не смогу уйти."
+32212,SUPPORT,Sometimes Aelfric gives out candy!,А мне Альфард однажды дал конфеты!
 32212,SUPPORT,"Stick close by him, and you might get some too.
-But save a little for me, OK?",
-32212,SUPPORT,Don't annoy Hapi or make her feel disappointed.,
-32212,SUPPORT,You mustn't. Not ever! OK?,
+But save a little for me, OK?","За это я люблю Альфарда! Интересно, 
+он даст мне ещё сладкого?"
+32212,SUPPORT,Don't annoy Hapi or make her feel disappointed.,Хапи нельзя обижать и сердить.
+32212,SUPPORT,You mustn't. Not ever! OK?,Ни за что нельзя! Поняли?
 32213,SUPPORT,"Things were dicey for a bit there. Gotta say I'm
 relieved that no harm befell anyone in Abyss.",
 32213,SUPPORT,"I've made sure that the elderly and children are
@@ -15756,25 +15817,25 @@ The surface is crawling with knights.",
 32233,SUPPORT,I offer my prayers to my gods.,Я молюсь богу.
 32233,SUPPORT,I bet you're real bad...,А вы — плохой человек?
 32233,SUPPORT,What do they want me to say?,Что от меня хотят?
-32234,SUPPORT,Must be hard work.,
-32234,SUPPORT,It's a real-life maze.,
-32234,SUPPORT,Where are those records...?,
-32234,SUPPORT,No wonder...,
-32234,SUPPORT,The Ashen Wolf House...,
-32234,SUPPORT,How could you know that?,
-32234,SUPPORT,Something has been on my mind...,
-32234,SUPPORT,Why not tell me your hidden agenda?,
-32234,SUPPORT,The Four Apostles...,
-32234,SUPPORT,A respectable man...,
-32234,SUPPORT,I think she's the real deal.,
-32234,SUPPORT,Everyone's in high spirits today.,
-32234,SUPPORT,Drinks haven't gotten any better.,
-32234,SUPPORT,I can't believe he's single...,
-32234,SUPPORT,I came to see Aelfric.,
-32234,SUPPORT,We've got Aelfric to keep an eye on things.,
-32234,SUPPORT,My mother is waiting for me...,
-32234,SUPPORT,Sometimes Aelfric gives out candy!,
-32234,SUPPORT,You mustn't. Not ever!,
+32234,SUPPORT,Must be hard work.,Тяжело вам.
+32234,SUPPORT,It's a real-life maze.,Подземелье напоминает лабиринт.
+32234,SUPPORT,Where are those records...?,Записи о проходах...
+32234,SUPPORT,No wonder...,Неудивительно...
+32234,SUPPORT,The Ashen Wolf House...,Дом Пепельных Волков...
+32234,SUPPORT,How could you know that?,Откуда ты об этом знаешь?
+32234,SUPPORT,Something has been on my mind...,Я всё думаю...
+32234,SUPPORT,Why not tell me your hidden agenda?,Есть у тебя козырь в рукаве.
+32234,SUPPORT,The Four Apostles...,Четверо Апостолов...
+32234,SUPPORT,A respectable man...,Какой замечательный человек.
+32234,SUPPORT,I think she's the real deal.,"Может, сходить к гадалке?.."
+32234,SUPPORT,Everyone's in high spirits today.,Все в приподнятом настроении.
+32234,SUPPORT,Drinks haven't gotten any better.,"Ты — то, что ты пьёшь."
+32234,SUPPORT,I can't believe he's single...,Как же он хорош.
+32234,SUPPORT,I came to see Aelfric.,Отец Альфард...
+32234,SUPPORT,We've got Aelfric to keep an eye on things.,Бездна уже не та.
+32234,SUPPORT,My mother is waiting for me...,Я скучаю по маме.
+32234,SUPPORT,Sometimes Aelfric gives out candy!,Сладкого хочу.
+32234,SUPPORT,You mustn't. Not ever!,Ни за что нельзя!
 32235,SUPPORT,It's a small mercy...,
 32235,SUPPORT,I'm worried.,
 32235,SUPPORT,I'm sure of it...,
