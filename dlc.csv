@@ -5655,73 +5655,107 @@ can guide my flock to even greater heights.","$S0, я верю, что вы см
 Know that I am here for you, always.","Не стесняйтесь обращаться ко мне по любым
 вопросам. Я всегда буду на вашей стороне."
 32013,SUPPORT,"Pray tell, Yuri. Did those foul bandits whom we
-bested at the arena confess to anything?",
+bested at the arena confess to anything?","Между прочим, Юрий, сознались ли в чём-нибудь
+бандиты, захваченные нами на арене?"
 32013,SUPPORT,"Not a word. And they wouldn't name names. I got
-the feeling they didn't know much themselves.",
+the feeling they didn't know much themselves.","Ни в чём. Имя нанимателя тоже не выдали...
+Нет, похоже, они его и сами не знают."
 32013,SUPPORT,"However, one thing is clear. Whoever hired them is
-after something here in Abyss.",
+after something here in Abyss.","Но ясно одно: их наниматель ищет в Бездне
+что-то определённое."
 32013,SUPPORT,"Yeah, that's gotta be it. They must have been on a
-treasure hunt or something.",
+treasure hunt or something.","А-а... Да, если вспомнить, что они говорили и как
+действовали, это напоминало поиск сокровищ."
 32013,SUPPORT,"A treasure hunt here? I don't get it. What is there to
-find in these dingy tunnels?",
+find in these dingy tunnels?","Сокровищ? А смысл? Что они собрались
+искать в нищем подземелье?"
 32013,SUPPORT,"Aelfric, was it? Looks like this is ringing a bell
-for you.",
+for you.","Альфард — я правильно помню? Возможно,
+вы имеете об этом представление."
 32013,SUPPORT,"Well, something does come to mind, but the notion
-is preposterous at best.",
+is preposterous at best.","Да, мне пришла на ум одна мысль, но я от неё 
+тотчас же отказался — она слишком нелепа."
 32013,SUPPORT,"Never discount a wild hunch. Sometimes they're
-closer to the truth than you'd think.",
+closer to the truth than you'd think.","Ну, нелепые мысли частенько оказываются
+ближе всего к истине."
 32013,SUPPORT,"Any lead will do, so long as it helps determine our
-next course of action. Please, go on.",
+next course of action. Please, go on.","Нам пригодится любая зацепка. Пожалуйста,
+озвучьте её, чтобы мы имели представление,
+как нам действовать дальше."
 32013,SUPPORT,"As you wish, though again, it is quite far-fetched.
-You see, there is a longstanding legend here.",
+You see, there is a longstanding legend here.","Тогда я прошу вас не смеяться над услышанным.
+В Бездне сохраняется старое предание."
 32013,SUPPORT,"It is said that deep underground, below even Abyss,
 is a place called the Chasm of the Bound wherein
-lies the Chalice of Beginnings.",
-32013,SUPPORT,The Chalice of Beginnings?,
-32013,SUPPORT,The Chasm of the Bound?,
+lies the Chalice of Beginnings.","Мол, глубоко под Бездной, в Долине Печатей,
+покоится так называемая Чаша Истока."
+32013,SUPPORT,The Chalice of Beginnings?,Чаша Истока?
+32013,SUPPORT,The Chasm of the Bound?,Долина Печатей?
 32013,SUPPORT,"I've never heard of it, but chances are it's some kind
-of sacred artifact belonging to the church.",
+of sacred artifact belonging to the church.","Чаша... Не слышал о такой. Это одна из реликвий
+Церкви?"
 32013,SUPPORT,"Huh. This is the first I've heard of it... So you believe
-Abyss is connected to that place?",
+Abyss is connected to that place?","Хм-м, впервые слышу. Хотите сказать, что Бездна
+ведёт в какую-то долину?"
 32013,SUPPORT,"Lots of twists and turns down here, so it's not the
-craziest idea ever. Must be well hidden though.",
+craziest idea ever. Must be well hidden though.","То, что она куда-то ведёт — неудивительно,
+вопрос в том, как туда добраться."
 32013,SUPPORT,"I once happened upon an old document that
-mentioned a ritual called the Rite of Rising.",
+mentioned a ritual called the Rite of Rising.","Однажды мне довелось случайно найти 
+документ, описывающий ритуал под 
+названием Обряд Священной Чаши."
 32013,SUPPORT,"The text was incomplete, so I was unable to achieve
 a full understanding of the topic. I cannot even
-guarantee the authenticity of what I read.",
+guarantee the authenticity of what I read.","Вернее, фрагмент документа — так что не могу
+ручаться за полноту и достоверность сведений..."
 32013,SUPPORT,"But it stated that the Chalice of Beginnings is a
-sacred object crafted by order of Saint Seiros herself.",
+sacred object crafted by order of Saint Seiros herself.","Но в нём сказано, что Чаша Истока была регалией,
+созданной по указу лично святой Сейрос."
 32013,SUPPORT,"Saint Seiros apparently used the artifact to carry out
-the Rite of Rising, along with the Four Apostles.",
-32013,SUPPORT,What is the Rite of Rising?,
-32013,SUPPORT,Who are the Four Apostles?,
+the Rite of Rising, along with the Four Apostles.","И видимо, святая Сейрос использовала эту чашу,
+чтобы провести обряд вместе с Четырьмя Апостолами."
+32013,SUPPORT,What is the Rite of Rising?,Что такое Обряд Священной Чаши?
+32013,SUPPORT,Who are the Four Apostles?,Кто такие Четверо Апостолов?
 32013,SUPPORT,"It is a ritual that is believed to have the power to
-resurrect a life that was lost.",
+resurrect a life that was lost.","Вероятно, это ритуал, призванный вернуть
+утерянную жизнь."
 32013,SUPPORT,"I vaguely recall reading about the Four Apostles.
 They were saints...and that's about all anyone knows.
-Hardly any records of them remain.",
+Hardly any records of them remain.","А, припоминаю. Четверо Апостолов — это святые,
+о которых почти не осталось текстов."
 32013,SUPPORT,"Few alive even know their names, but these apostles
 supposedly assisted the Four Saints with their
-holy work.",
+holy work.","Вроде бы они жили в одно время с Четырьмя
+Святыми, и даже поддерживали их, но как же 
+их звали?.."
 32013,SUPPORT,"It is also believed that Saint Seiros attempted to
-perform a resurrection using the chalice.",
+perform a resurrection using the chalice.","Считается, что святая Сейрос провела этот
+ритуал, призванный вернуть утерянную жизнь."
 32013,SUPPORT,"However, the ritual failed... The Four Apostles
 bound the chalice so that it would never fall into
-a mortal's hands.",
-32013,SUPPORT,"The Rite of Rising, eh? Hmm...",
+a mortal's hands.","Но в итоге обряд потерпел неудачу, 
+и Четверо Апостолов запечатали чашу, 
+чтобы она не попала в чужие руки."
+32013,SUPPORT,"The Rite of Rising, eh? Hmm...","Хм-м, Обряд Священной Чаши, значит..."
 32013,SUPPORT,"Ah, yes, the chalice of legend! My father mentioned
-it to me a very long time ago.",
+it to me a very long time ago.","Возможно, именно об этой чаше мне когда-то
+давно рассказывал отец."
 32013,SUPPORT,"A secret treasure of the church... A chalice powerful
-enough to resurrect the dead... Exhilarating, no?",
-32013,SUPPORT,Quite. It is no small wonder that people are after it.,
+enough to resurrect the dead... Exhilarating, no?","По легенде, в этом сокровище Церкви таится
+достаточно магической силы, чтобы воскрешать 
+мёртвых..."
+32013,SUPPORT,Quite. It is no small wonder that people are after it.,"Воскрешать мёртвых, значит... Тогда 
+неудивительно, что чашу ищут."
 32013,SUPPORT,"Even so, we still don't have much to go on. We must
-gather more information about this legend at once.",
+gather more information about this legend at once.","Как бы то ни было, нам следует подробнее
+разузнать об этой легенде."
 32013,SUPPORT,"I wholeheartedly agree. I will do all I can to track
-down more clues within the monastery.",
+down more clues within the monastery.","Да, я согласен. Я постараюсь узнать,
+что смогу, в монастыре."
 32013,SUPPORT,"Although, Garreg Mach's library is so...well curated,
-I doubt any further records will be found.",
-32013,SUPPORT,Wondrous! We shall do all that we can as well.,
+I doubt any further records will be found.","Только я сомневаюсь, что в библиотеке осталась 
+та информация, которую мы желаем узнать."
+32013,SUPPORT,Wondrous! We shall do all that we can as well.,Благодарю вас. Мы сделаем всё возможное здесь.
 32014,SUPPORT,"The answer is no. I will not allow it. It is far too
 dangerous.",
 32014,SUPPORT,"Ah, but if we can determine its origin, we may
