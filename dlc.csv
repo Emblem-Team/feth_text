@@ -5687,16 +5687,16 @@ You see, there is a longstanding legend here.","Тогда я прошу вас 
 В Бездне сохраняется старое предание."
 32013,SUPPORT,"It is said that deep underground, below even Abyss,
 is a place called the Chasm of the Bound wherein
-lies the Chalice of Beginnings.","Мол, глубоко под Бездной, в Долине Печатей,
+lies the Chalice of Beginnings.","Мол, глубоко под Бездной, в Юдоли Печатей,
 покоится так называемая Чаша Истока."
 32013,SUPPORT,The Chalice of Beginnings?,Чаша Истока?
-32013,SUPPORT,The Chasm of the Bound?,Долина Печатей?
+32013,SUPPORT,The Chasm of the Bound?,Юдоль Печати?
 32013,SUPPORT,"I've never heard of it, but chances are it's some kind
 of sacred artifact belonging to the church.","Чаша... Не слышал о такой. Это одна из реликвий
 Церкви?"
 32013,SUPPORT,"Huh. This is the first I've heard of it... So you believe
 Abyss is connected to that place?","Хм-м, впервые слышу. Хотите сказать, что Бездна
-ведёт в какую-то долину?"
+ведёт в какую-то юдоль?"
 32013,SUPPORT,"Lots of twists and turns down here, so it's not the
 craziest idea ever. Must be well hidden though.","То, что она куда-то ведёт — неудивительно,
 вопрос в том, как туда добраться."
@@ -5757,66 +5757,93 @@ I doubt any further records will be found.","Только я сомневаюс�
 та информация, которую мы желаем узнать."
 32013,SUPPORT,Wondrous! We shall do all that we can as well.,Благодарю вас. Мы сделаем всё возможное здесь.
 32014,SUPPORT,"The answer is no. I will not allow it. It is far too
-dangerous.",
+dangerous.","Нет, я не могу вам этого позволить.
+Я не хочу подвергать вас опасности."
 32014,SUPPORT,"Ah, but if we can determine its origin, we may
-eliminate the very danger that vexes you!",
+eliminate the very danger that vexes you!","Но если мы сможем выяснить её первопричину,
+возможно, мы и вовсе избавимся от опасности!"
 32014,SUPPORT,"You already know this, but there are plenty of folks
-down here who can't defend themselves.",
+down here who can't defend themselves.","Вы и сами знаете, что в поздемельях полно
+народа, которые не могут за себя постоять."
 32014,SUPPORT,"If these attacks keep up, eventually they'll find
-themselves in harm's way.",
+themselves in harm's way.","Ещё один налёт — и они могут оказаться
+под ударом."
 32014,SUPPORT,"Yes, I am aware. However, for the time being, you
-must promise to refrain from acting recklessly.",
+must promise to refrain from acting recklessly.","Я понимаю это. Но прошу вас, пожалуйста: 
+никакой самодеятельности. Обещайте."
 32014,SUPPORT,"My dear flock has suffered enough as it is. You
-needn't take any further risks.",
+needn't take any further risks.","Вы и без этого довольно настрадались.
+Нет необходимости подвергаться
+дальнейшей опасности."
 32014,SUPPORT,"Surprisingly overbearing, isn't he? He must really
-care about you guys.",
+care about you guys.","Какой упрямый! Похоже, он очень переживает
+за вас всех, Констанция."
 32014,SUPPORT,"Most certainly. Yet if we fail to nip this problem in
-the bud...I shudder to think what will transpire.",
-32014,SUPPORT,"Aha, it's you! In the nick of time, as it were.",
+the bud...I shudder to think what will transpire.","Да... Я благодарна за заботу, но проблему 
+нужно искоренить, иначе..."
+32014,SUPPORT,"Aha, it's you! In the nick of time, as it were.","Ах, вот и вы! Как раз вовремя!
+Словно глоток свежего воздуха!"
 32014,SUPPORT,"Come, let us venture into the deep, deep
-underground. The chalice of legend awaits!",
-32014,SUPPORT,We're going underground?,
-32014,SUPPORT,The chalice...,
+underground. The chalice of legend awaits!","Итак, спустимся вниз! Нас ждёт священная чаша!"
+32014,SUPPORT,We're going underground?,Вниз?
+32014,SUPPORT,The chalice...,Чаша...
 32014,SUPPORT,"But of course! Deeper and deeper still beneath the
-monastery, to the Chasm of the Bound.",
+monastery, to the Chasm of the Bound.","Именно! В глубины под монастырём, в Юдоль
+Печати, где покоится священная чаша!"
 32014,SUPPORT,"Aelfric told us all about it, and so we must locate this
-mystical place and grab hold of the waiting prize!",
-32014,SUPPORT,"Coco... You didn't hear a word Elfie said, did you?",
+mystical place and grab hold of the waiting prize!","Разве отец Альфард не о ней говорил?
+Мы направимся в Юдоль Печати, 
+где покоится священная чаша!"
+32014,SUPPORT,"Coco... You didn't hear a word Elfie said, did you?","Конни... ты вообще слушала, что говорил Альфард?"
 32014,SUPPORT,"I surely did, but we must read between the lines.
-Aelfric wants a solution as badly as we do.",
+Aelfric wants a solution as badly as we do.","Да! Но... я уверена, что на самом деле он бы
+хотел, чтобы мы разобрались с проблемой."
 32014,SUPPORT,"And so, we shall seek out the Chalice of Beginnings
-and present it to the church!",
+and present it to the church!",Мы найдём Чашу Истока и преподнесём её Церкви!
 32014,SUPPORT,"If our enemies desire the object, this should halt all
-future attacks on Abyss! Ahaha! Brilliant, no?",
+future attacks on Abyss! Ahaha! Brilliant, no?","И если целью нашего противника является
+эта чаша, значит, у него больше не будет
+повода нападать на Бездну?"
 32014,SUPPORT,"I'm not so sure about that. According to legend,
 there's some kind of binding that protects it from
-would-be thieves.",
+would-be thieves.","Хм-м... Я не уверен. Если верить легенде,
+чаша должна быть запечатана, разве не так?"
 32014,SUPPORT,"Even if we find it, we can't just walk up and take it
-unless we figure out how to break that thing.",
+unless we figure out how to break that thing.","Даже если мы её найдём, разве мы сможем
+её забрать, не сняв печать?"
 32014,SUPPORT,"Ah, but that is simplicity itself! We shall first
 ascertain whether it is still bound, and then...
-we shall release it!",
+we shall release it!","Т-так тоже хорошо! Мы сможем убедиться
+в том, что печать цела."
 32014,SUPPORT,"But where is this chasm, anyway? I've never even
-heard of the place, much less seen it.",
+heard of the place, much less seen it.",А где вообще эта юдоль? Я раньше о ней не слышал.
 32014,SUPPORT,"As luck would have it, I have discovered yet another
-secret passage! It appears to go deep underground.",
+secret passage! It appears to go deep underground.","По правде говоря, я обнаружила новый потайной
+проход! И, по-видимому, он ведёт глубоко под землю..."
 32014,SUPPORT,"According to my superior instincts, it undoubtedly
-leads to the Chasm of the Bound!",
-32014,SUPPORT,Huh. I suppose it's worth a look.,
+leads to the Chasm of the Bound!","Моё превосходное чутьё говорит о том, что сомнений 
+быть не может — это путь к Юдоли Печати!"
+32014,SUPPORT,Huh. I suppose it's worth a look.,"Сомнительно, но почему бы и нет?
+Мне неинтересна какая-то чаша..."
 32014,SUPPORT,"I don't care about finding some old cup, but if it
-could help us protect Abyss, I'll support the cause.",
+could help us protect Abyss, I'll support the cause.","Но если её обнаружение сделает город
+безопаснее, я только за."
 32014,SUPPORT,"You surface dwellers do not have anything else to do
-at present, do you? You'll assist us, will you not?",
-32014,SUPPORT,We're busy. Very busy.,
-32014,SUPPORT,We'll go with you.,
+at present, do you? You'll assist us, will you not?","Вам, наверное, как раз нечем занять свободное 
+время? Вы ведь поможете нам?"
+32014,SUPPORT,We're busy. Very busy.,Мы заняты.
+32014,SUPPORT,We'll go with you.,Мы совершенно свободны.
 32014,SUPPORT,"Come on, Teach. We got plenty of time to follow
-them down that deep, dark tunnel. Admit it.",
+them down that deep, dark tunnel. Admit it.","Да ладно, может, протянем руку помощи?"
 32014,SUPPORT,"Personally, I'm dying to find out more about this
-chasm and chalice business.",
+chasm and chalice business.","Лично я хочу разузнать и о Чаше Истока,
+и о Юдоли Печати."
 32014,SUPPORT,"I don't have anything scheduled before my next nap,
 so I guess that's fine. Edelgard doesn't look too
-thrilled, though...",
-32014,SUPPORT,Ahaha! Splendid! It is decided. We leave at once.,
+thrilled, though...","Ну что же... Я как раз свободен, так что протяну
+руку помощи. Хоть Эдельгард и смотрит на меня
+неодобрительно."
+32014,SUPPORT,Ahaha! Splendid! It is decided. We leave at once.,О-хо-хо-хо-хо! Решено! Отбываем немедля!
 32014,SUPPORT,"Feeling pretty lost right now. How long have we
 been walking? I'm guessing a full week.",
 32014,SUPPORT,A week? Ridiculous. It's been a few hours at most.,
