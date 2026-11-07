@@ -5687,7 +5687,7 @@ You see, there is a longstanding legend here.","Тогда я прошу вас 
 В Бездне сохраняется старое предание."
 32013,SUPPORT,"It is said that deep underground, below even Abyss,
 is a place called the Chasm of the Bound wherein
-lies the Chalice of Beginnings.","Мол, глубоко под Бездной, в Юдоли Печатей,
+lies the Chalice of Beginnings.","Мол, глубоко под Бездной, в Юдоли Печати,
 покоится так называемая Чаша Истока."
 32013,SUPPORT,The Chalice of Beginnings?,Чаша Истока?
 32013,SUPPORT,The Chasm of the Bound?,Юдоль Печати?
@@ -5845,56 +5845,82 @@ thrilled, though...","Ну что же... Я как раз свободен, т�
 неодобрительно."
 32014,SUPPORT,Ahaha! Splendid! It is decided. We leave at once.,О-хо-хо-хо-хо! Решено! Отбываем немедля!
 32014,SUPPORT,"Feeling pretty lost right now. How long have we
-been walking? I'm guessing a full week.",
-32014,SUPPORT,A week? Ridiculous. It's been a few hours at most.,
+been walking? I'm guessing a full week.","Мы заблудились, да? У меня такое чувство,
+будто мы бродим уже дня три."
+32014,SUPPORT,A week? Ridiculous. It's been a few hours at most.,Какие ещё три дня? И половины одного не прошло.
 32014,SUPPORT,"Exaggerations aside, if this takes much longer,
-I'm concerned about our lack of food and water.",
+I'm concerned about our lack of food and water.","Я боюсь, что если мы задержимся ещё,
+нам не хватит воды и продовольствия."
 32014,SUPPORT,"She's got a point. How about we trek a bit farther,
-and if we don't find anything, we turn back?",
+and if we don't find anything, we turn back?","И то верно. Предлагаю пройти ещё немного,
+и если никуда не придём, поворачивать назад."
 32014,SUPPORT,"Constance... I find it rather curious how quickly you
-became fixated on the chalice. Care to explain?",
+became fixated on the chalice. Care to explain?","Послушай, Констанция, не слишком ли ты
+стремишься найти чашу?"
 32014,SUPPORT,"Oh, I... No. Why would I be fixated on a silly little
-legend...for some supposed ulterior motive? Ahaha...",
+legend...for some supposed ulterior motive? Ahaha...","А с чего... С чего ты это спрашиваешь?
+У меня вовсе нет никакого скрытого 
+мотива... О-хо-хо-хо... хо-хо."
 32014,SUPPORT,"Ha, you want the esteem. You think this will
 convince the church to help you restore your
-fallen house.",
+fallen house.","Думаю, она хочет быть на хорошем счету 
+у Церкви. Рассчитывает на их содействие
+в восстановлении своего распавшегося дома.
+
+"
 32014,SUPPORT,"Uh! How could you possibly know that?! Have you
-been snooping within the confines of my very mind?!",
+been snooping within the confines of my very mind?!","О-о-откуда ты это знаешь? Неужели ты
+разведывал частную информацию обо мне?"
 32014,SUPPORT,"""I shall restore House Nuvelle to its former glory
-at all costs!"" Haha! It's practically your catchphrase.",
+at all costs!"" Haha! It's practically your catchphrase.","Так это же твоя самая любимая фраза:
+«Моя мечта — возродить дом Нувэль!»"
 32014,SUPPORT,"Aha! Just as I suspected. Constance is the former
-lady of House Nuvelle.",
-32014,SUPPORT,What is House Nuvelle?,
-32014,SUPPORT,You know House Nuvelle?,
+lady of House Nuvelle.","А-а, так значит, Констанция и правда из дома Нувэль."
+32014,SUPPORT,What is House Nuvelle?,Дом Нувэль?
+32014,SUPPORT,You know House Nuvelle?,Ты знаешь о таком доме?
 32014,SUPPORT,"Until just a few years ago, it was a house of viscounts
 in the west of the Empire. They had a long and
-distinguished history.",
+distinguished history.","Ещё несколько лет тому назад это был старинный
+род виконтов из западной части Империи."
 32014,SUPPORT,"In a sense. Until just a few years ago, it was a house
-of viscounts in the west of the Empire.",
+of viscounts in the west of the Empire.","Ну да. Ещё несколько лет тому назад это был
+род виконтов из западной части Империи."
 32014,SUPPORT,"House Nuvelle lost its status five years ago, as a
-result of their part in the war.",
+result of their part in the war.","Дом Нувэль утратил титул пять лет тому назад.
+На них пала ответственность за войну."
 32014,SUPPORT,"Huh. You speak as though it has nothing to do
-with you.",
+with you.","Вы говорите так, будто лично вас это
+совершенно не касается."
 32014,SUPPORT,"I fear all I can do is ask forgiveness in place of my
-useless father.",
+useless father.","Я могу лишь склонить голову взамен моего отца,
+который был бессилен что-либо предпринять."
 32014,SUPPORT,"If doing so will comfort you in any way, then please
-accept my—",
+accept my—",Если ты желаешь этого...
 32014,SUPPORT,"Save your breath. That will not be necessary. There
-is only one thing that I desire.",
+is only one thing that I desire.","Этого не потребуется. У меня есть 
+лишь одно желание."
 32014,SUPPORT,"For the sake of my parents...who fell courageously
-and selflessly in defense of the Empire...",
+and selflessly in defense of the Empire...","Ради моих родителей, отважно сложивших
+головы во имя защиты Империи..."
 32014,SUPPORT,"For them, I shall restore our status, revive House
-Nuvelle, and return it to its former glory!",
+Nuvelle, and return it to its former glory!","Я получу титул обратно, восстановлю дом Нувэль
+и верну ему былое великолепие! "
 32014,SUPPORT,"All that I do, even spending each day advancing
-my magical prowess, is to that end.",
+my magical prowess, is to that end.","Все свои дни в Бездне я провожу в изучении
+магии — всё ради возрождения дома."
 32014,SUPPORT,"And in reward for all that hard work, you were
-forced to live underground. Life's cruel.",
+forced to live underground. Life's cruel.","А в итоге после всех своих усилий
+тебе приходится жить под землёй."
 32014,SUPPORT,"It's like you took a shortcut back to the starting line.
-Or maybe you're just unlucky.",
+Or maybe you're just unlucky.","Как будто ты пошла окольным путём;
+ну, или так уж сошлись звёзды."
 32014,SUPPORT,"What are you saying?! I never intended to share...
-that side of me with you...",
+that side of me with you...","Ч-что ты такое говоришь! Я и вовсе 
+не собиралась показывать себя
+с подобной стороны..."
 32014,SUPPORT,"Look at that! It's a good thing we didn't turn back.
-That looks mighty chasm-like if you ask me.",
+That looks mighty chasm-like if you ask me.","Ну, хорошо, что мы не стали возвращаться.
+Похоже, мы подходим к самому дну лощины."
 32015,SUPPORT,"Say... Are we beneath the bridge at the monastery?
 Incredible...",
 32015,SUPPORT,"Huh. I never thought I'd be gazing up at that bridge
