@@ -5865,9 +5865,7 @@ legend...for some supposed ulterior motive? Ahaha...","А с чего... С че
 convince the church to help you restore your
 fallen house.","Думаю, она хочет быть на хорошем счету 
 у Церкви. Рассчитывает на их содействие
-в восстановлении своего распавшегося дома.
-
-"
+в восстановлении своего распавшегося дома."
 32014,SUPPORT,"Uh! How could you possibly know that?! Have you
 been snooping within the confines of my very mind?!","О-о-откуда ты это знаешь? Неужели ты
 разведывал частную информацию обо мне?"
@@ -5922,56 +5920,81 @@ that side of me with you...","Ч-что ты такое говоришь! Я и 
 That looks mighty chasm-like if you ask me.","Ну, хорошо, что мы не стали возвращаться.
 Похоже, мы подходим к самому дну лощины."
 32015,SUPPORT,"Say... Are we beneath the bridge at the monastery?
-Incredible...",
+Incredible...","Мы... под мостом, ведущим в собор?
+Кто бы мог подумать..."
 32015,SUPPORT,"Huh. I never thought I'd be gazing up at that bridge
 we've crossed a thousand times from way, way
-down below.",
-32015,SUPPORT,Are we sure this is the right place?,
-32015,SUPPORT,It is. I think. I believe. I...hope?,
+down below.","Эх... Вот уж не думал, что когда-нибудь 
+доведётся взглянуть снизу вверх на мост, 
+по которому постоянно хожу."
+32015,SUPPORT,Are we sure this is the right place?,"Это и есть та самая Юдоль Печати
+с чашей?"
+32015,SUPPORT,It is. I think. I believe. I...hope?,"Д-да... Надеюсь, что да."
 32015,SUPPORT,"Constance, why are you hiding in the shade? Aren't
-you the one who insisted that we find the chalice?",
+you the one who insisted that we find the chalice?","Констанция, почему ты прячешься в тени?
+Разве ты сама не хотела найти чашу?"
 32015,SUPPORT,"Fine! If you insist that I join you, then I shall.
-Satisfied?!",
-32015,SUPPORT,...,
+Satisfied?!","О-ох, полноте! Хотите, чтобы я вышла?!
+Я выйду!"
+32015,SUPPORT,...,...
 32015,SUPPORT,"Oh my. I was quite rude just now... Please accept my
-humble apologies for treating you so foully.",
+humble apologies for treating you so foully.","Ох, я... позволила себе такую дерзость перед
+вами, уважаемые господа. Покорнейше прошу
+простить меня."
 32015,SUPPORT,"I presumed too much to stand beside such noble
-paragons. Allow me to dig a hole to bury myself in...",
+paragons. Allow me to dig a hole to bury myself in...","С моей стороны наглостью является уже стоять
+рядом с вами. Мне следовало бы закопаться
+под землю."
 32015,SUPPORT,"Ugh... No matter how deep underground we are,
-I guess sunlight is still sunlight. Poor Constance.",
-32015,SUPPORT,What's going on?,
-32015,SUPPORT,She's not her usual self...,
+I guess sunlight is still sunlight. Poor Constance.","Эх, солнце есть солнце даже на дне ущелья."
+32015,SUPPORT,What's going on?,Что это значит?
+32015,SUPPORT,She's not her usual self...,Что это за внезапная перемена?..
 32015,SUPPORT,"This is what Coco's like in the sun. That's why she
-lives underground.",
+lives underground.","На солнце Конни становится вот такой.
+Поэтому она и затворничает под землёй."
 32015,SUPPORT,"I fear I cannot guarantee that this is the Chasm of
-the Bound. I have almost surely wasted our time.",
+the Bound. I have almost surely wasted our time.","С моим недалёким умом мне не дано 
+с уверенностью сказать, является ли 
+это место Юдолью Печати или нет."
 32015,SUPPORT,"Enough with the self-doubt, yeah? Just put one foot
 in front of the other. We'll have you back in the
-shadows before you know it.",
-32015,SUPPORT,"Cheer up, Coco. We need you.",
+shadows before you know it.","Ну, ну... Хорош убиваться — просто шевели ногами."
+32015,SUPPORT,"Cheer up, Coco. We need you.","Вперёд, выше нос. Ты нужна нам, Конни.
+Впе-рёд."
 32015,SUPPORT,"And now I have forced you into a state of pity. I feel
-so very worthless.",
+so very worthless.","Меня переполняет чувство стыда за то, что я
+вынуждаю вас говорить подобные вещи. Ах..."
 32015,SUPPORT,"I admit, I have never seen anything quite like this
-before. Is there nothing we can do to help?",
+before. Is there nothing we can do to help?","Вторая личность? Впервые вижу что-то настоль
+удивительное."
 32015,SUPPORT,"Hapi, keep Constance moving. If we don't start
-searching, we'll never find that damn chalice.",
-32015,SUPPORT,"Fine. I'll just push her a bit, I guess...",
+searching, we'll never find that damn chalice.","Хапи, толкай её вперёд. Если мы не продолжим
+идти, так и не узнаем, есть тут чаша или нет."
+32015,SUPPORT,"Fine. I'll just push her a bit, I guess...","Да-да, вперёд и с песней."
 32015,SUPPORT,"I must ask you to cease. You shall soil your hands
-upon my filthy back. No soap could possibly— Huh?",
+upon my filthy back. No soap could possibly— Huh?","Пожалуйста, не надо касаться своими руками
+моей грязной спины, вы же... Ах?"
 32015,SUPPORT,"This feeling... I sense magic in the air. There is
-something just ahead. The binding spell, perhaps...",
+something just ahead. The binding spell, perhaps...","Признаки присутствия магии? Там далее что-то
+есть... Печать?"
 32015,SUPPORT,"I don't feel anything at all... Wait. Actually, I hear
-something. Something big. And it's moving.",
+something. Something big. And it's moving.","Странно, я ничего не чувствую... Нет, постойте.
+Я что-то слышу."
 32015,SUPPORT,"Perhaps there is something in place that is guarding
-the chalice.",
+the chalice.","Похоже, это какой-то механизм. Может быть,
+он предназначен для охраны печати... Ну-ка."
 32015,SUPPORT,"Yikes! What is that thing? It's like some kind of
-gigantic toy.",
+gigantic toy.",Ого... Что это? Напоминает огромную куклу.
 32015,SUPPORT,"I don't have the slightest idea what's going on,
-but I know it doesn't bode well.",
+but I know it doesn't bode well.","Наверняка сказать не могу, но ясно одно:
+ничем хорошим это для нас не обернётся."
 32015,SUPPORT,"I dunno. Could be fun. It's been a while since I've
-met an enemy that could put up a good fight!",
+met an enemy that could put up a good fight!","А как по мне, было бы весело с этим подраться.
+Я уже давно не встречал противника, который
+бы заставлял кровь кипеть!"
 32015,SUPPORT,"Hey, you! Meet your master, pal! I'm gonna pummel
-you into my own personal shield!",
+you into my own personal shield!","Слышь, выходи на честный бой! Я сверну 
+твою тушу в трубочку, как стальной лист!"
 32016,SUPPORT,Look! There's something in that opening!,
 32016,SUPPORT,Oh! Can it be?,
 32016,SUPPORT,Is that...,
