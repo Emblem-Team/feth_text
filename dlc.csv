@@ -16446,38 +16446,56 @@ Show me its power!＠048519#00","[0042]Меч, который дождался �
 32164,MAP,[0042]I've indulged too much. I take my leave. For now.＠048520#00,[0042]Я вдоволь насытился. Сейчас... я уйду.＠048520#00
 32164,MAP,[0002]Honestly! What a nuisance.＠048590#00,[0002]Серьёзно? С ним невозможно иметь дело.＠048590#00
 32165,MAP,"[1041]What's the deal? No matter how many we squash,
-more just take their place.＠048598#04",
+more just take their place.＠048598#04","[1041]Да что за дела? Мы их всё бьём, 
+а они всё лезут!＠048598#04"
 32165,MAP,"[0007]Hmm... If those things were created to protect the
-chalice, there must be a way to deactivate them.＠048599#00",
+chalice, there must be a way to deactivate them.＠048599#00","[0007]Если предположить, что эти механизмы защищают
+чашу, не разумно ли предположить, что их можно
+выключить?＠048599#00"
 32165,MAP,"[1042]If I may presume to offer my opinion, the statues
-may warrant scrutiny.＠048600#00",
+may warrant scrutiny.＠048600#00","[1042]Если это не будет слишком самонадеянным с моей
+стороны, я выскажу предположение, что устройства
+вглуби выглядят подозрительно.＠048600#00"
 32165,MAP,"[1043]Hmm, there must be a way to activate those things.
-I bet they require some type of key...＠048601#00",
+I bet they require some type of key...＠048601#00","[1043]А-а, да, там есть что-то похожее на замочные
+скважины. Значит, к ним надо найти ключ.＠048601#00"
 32165,MAP,"[0231]You who befoul this sacred place—leave now
-or perish!＠048602#00",
+or perish!＠048602#00","[0231]Вы, вторгнувшиеся в запретную святыню...
+Покиньте это место, или будете истреблены...＠048602#00"
 32165,MAP,"[1041]Sacred place? Sounds like the Chasm of the Bound,
-all right.＠048603#00",
+all right.＠048603#00","[1041]Святыню? Во, это уже звучит похоже на Юдоль
+Печати!＠048603#00"
 32165,MAP,"[0024]I think I might have found the key. That thing over
-there is carrying it around.＠048604#04",
+there is carrying it around.＠048604#04","[0024]О! Хильда нашла ключ! Похоже,
+он внутри этой огромной туши.＠048604#04"
 32165,MAP,"[1040]Huh... There's clearly something special about this
-key. Better keep it safe.＠048605#00",
-32165,MAP,[0232]Vanquish the fools!＠048606#00,
-32165,MAP,[0208]Vanquish the fools!＠048606#00,
+key. Better keep it safe.＠048605#00","[1040]Хм... Это явно не обычный ключ. Что бы
+ни случилось, нельзя его потерять.＠048605#00"
+32165,MAP,[0232]Vanquish the fools!＠048606#00,[0232]Смерть от молота — кара невеждам!..＠048606#00
+32165,MAP,[0208]Vanquish the fools!＠048606#00,[0208]Смерть от молота — кара невеждам!..＠048606#00
 32165,MAP,"[1042]Our failure to use caution is most regrettable.
-I'm certainly paying the price for it now...＠048607#00",
+I'm certainly paying the price for it now...＠048607#00","[1042]Лишь по своей глупости я не распознала
+ловушку. И теперь магия разъедает моё тело...
+Ах...＠048607#00"
 32165,MAP,"[0004]One key, multiple keyholes... Must be a fellow
-schemer!＠048608#00",
+schemer!＠048608#00","[0004]Я-то думал, в чём подвох: отверстий несколько,
+а ключ один... А вот оно что. 
+Как «мило» с их стороны.＠048608#00"
 32165,MAP,"[0002]Agreed. This is just the sort of trap your crafty brain
-would dream up.＠048609#00",
+would dream up.＠048609#00","[0002]Действительно, такая ловушка как раз
+в твоём духе.＠048609#00"
 32165,MAP,"[0014]What?! This one's a trap too... How are we supposed
-to tell them apart?＠048610#04",
+to tell them apart?＠048610#04","[0014]Ох, и здесь тоже ловушка! Их никак не различить...＠048610#04"
 32165,MAP,"[0003]Only one left. Hopefully we can finally put a stop to
-this madness!＠048611#00",
-32165,MAP,"[1040]Close call, but we did it. Our efforts paid off.＠048612#00",
+this madness!＠048611#00","[0003]Осталось только одно устройство... Надеюсь,
+именно оно остановит механизмы.＠048611#00"
+32165,MAP,"[1040]Close call, but we did it. Our efforts paid off.＠048612#00","[1040]Аж пот прошиб... Но механизмы остановились.
+Надеюсь, мы не зря старались?＠048612#00"
 32165,MAP,"[1043]There's something drawn on the rock over there.
-They look like Crests... Whoa! What's going on?＠048613#04",
+They look like Crests... Whoa! What's going on?＠048613#04","[1043]Вон там на скале нарисовано что-то вроде Гербов...
+А! Ч-что?＠048613#04"
 32165,MAP,"[1042]My Crest! Oh, but look at the stone. There's light
-streaming from it.＠048614#04",
+streaming from it.＠048614#04",[1042]Неужели... Гербы резонируют? Скала излучает свет!＠048614#04
 32166,MAP,"[0002]The enemy's caught up to us. If we try to go up
 against it, we're finished.＠048615#00",
 32166,MAP,"[1041]That thing's worse than what we saw at the chasm.
