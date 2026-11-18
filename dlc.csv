@@ -5995,153 +5995,220 @@ met an enemy that could put up a good fight!","А как по мне, было �
 32015,SUPPORT,"Hey, you! Meet your master, pal! I'm gonna pummel
 you into my own personal shield!","Слышь, выходи на честный бой! Я сверну 
 твою тушу в трубочку, как стальной лист!"
-32016,SUPPORT,Look! There's something in that opening!,
-32016,SUPPORT,Oh! Can it be?,
-32016,SUPPORT,Is that...,
+32016,SUPPORT,Look! There's something in that opening!,В этой впадине что-то есть!
+32016,SUPPORT,Oh! Can it be?,Это...
+32016,SUPPORT,Is that...,Это?
 32016,SUPPORT,"You would know best. It is beyond my ken whether
-that is the chalice. Curse my ignorance!",
-32016,SUPPORT,"Answer the question, will ya? Is it or isn't it?",
+that is the chalice. Curse my ignorance!","Откровенно говоря, я настолько невежественна,
+что не имею возможности сказать, Чаша Истока 
+перед нами или нет."
+32016,SUPPORT,"Answer the question, will ya? Is it or isn't it?","Эх... Ушла от ответа. Значит, чаша не та?"
 32016,SUPPORT,"That quaking earlier... Some kind of containment
-magic related to the Crests was in place here.",
+magic related to the Crests was in place here.","Случившаяся ранее земная дрожь, вероятно,
+произошла из-за некоей печати, связанной
+с Гербами."
 32016,SUPPORT,"Whether intentionally or not, the chalice was
 released. I hesitate to suggest that those things were
-the cause.",
+the cause.","Теперь она снята — пусть это было и сделано
+случайно. Мне не думается, что те механизмы
+имели к этому отношение."
 32016,SUPPORT,"Oh, perhaps one of our Crests was the key to
-unbinding the chalice...",
-32016,SUPPORT,Care to summarize that?,
+unbinding the chalice...","В таком случае, возможно, чей-то Герб
+являлся тому причиной."
+32016,SUPPORT,Care to summarize that?,"Это, ты объясни так, чтобы Хапи и все
+остальные тоже поняли."
 32016,SUPPORT,"My apologies. I have caused you undue vexation by
-speaking so incomprehensibly.",
+speaking so incomprehensibly.","Прошу прощения. Мои слова оказались столь
+расплывчатыми и неясными, что причинили
+вам неудобство..."
 32016,SUPPORT,"Were I to venture a tentative guess, I would say that
-this is, indeed, the Chalice of Beginnings.",
-32016,SUPPORT,"You could have just said, ""This is it, all right!""",
+this is, indeed, the Chalice of Beginnings.","Если говорить кратко, то велика вероятность,
+что перед нами находится именно Чаша Истока."
+32016,SUPPORT,"You could have just said, ""This is it, all right!""",А? И всё? Всё бы тебе ходить вокруг да около...
 32016,SUPPORT,"Forgotten Crests resembling those of the Four
-Apostles, depicted on a sealed rock wall...",
+Apostles, depicted on a sealed rock wall...","Судя по всему, изображённые на запечатанной
+скале утраченные Гербы принадлежали Четверым 
+Апостолам..."
 32016,SUPPORT,"Objects that resemble holy armaments and a chalice
-that gathers magic all on its own...",
+that gathers magic all on its own...","И чаша с таким же орнаментом, как на
+священном оружии, а также с механизмом, 
+который сам по себе собирает магическую силу."
 32016,SUPPORT,"I don't know of any other legends that cover all of
-that, so this must be the chalice we're looking for.",
+that, so this must be the chalice we're looking for.","Поскольку других легенд, подходящих под
+это описание, нет, то я считаю, что перед 
+нами Чаша Истока."
 32016,SUPPORT,"A thousand thank-yous for covering my own
-inadequacy with such a competent explanation.",
+inadequacy with such a competent explanation.","Приношу искреннюю благодарность за
+столь исчерпывающее объяснение того, 
+что я упустила по своей невнимательности."
 32016,SUPPORT,"I'm still not used to hearing you speak in such
-a manner...",
+a manner...","Непривычно это. Твоё не то раболепное,
+не то не пойми какое раздвоение личности..."
 32016,SUPPORT,"Forgive me, Your Highness. If I have displeased you,
-please take my life as a small gesture of atonement.",
+please take my life as a small gesture of atonement.","Молю о прощении, Ваше Высочество.
+Если я чем-то оскорбила вас, то мне
+остаётся лишь искупить вину жизнью..."
 32016,SUPPORT,"Oh, Your Highest of Highnesses, I doth humbly beg
-of thee to find forgiveness within your royal heart.",
+of thee to find forgiveness within your royal heart.","Подробностей не знаю, но и за себя прошу:
+смилуйся над ней... пф-ф."
 32016,SUPPORT,"Stop fooling around, Claude. And, Constance,
-I assure you, there is nothing to forgive.",
-32016,SUPPORT,Hm?,
-32016,SUPPORT,I hear thunder. Rain is soon to follow.,
+I assure you, there is nothing to forgive.","Прекращай, Клод. Нечего тут искуплять...
+тем более жизнью."
+32016,SUPPORT,Hm?,Что?..
+32016,SUPPORT,I hear thunder. Rain is soon to follow.,"Гром? Похоже, собирается дождь."
 32016,SUPPORT,"We'd better head back to Abyss before the storm
-hits us.",
-32016,SUPPORT,...,
+hits us.","Ладно, тогда давайте поскорее вернёмся
+в Бездну, пока ливень не начался."
+32016,SUPPORT,...,...
 32016,SUPPORT,"Ugh! It happened yet again. Why must my good
-intentions always—",
-32016,SUPPORT,Huh? What was that sound?! It cannot be...,
+intentions always—","Эх. Ну вот, опять. Моя воля полностью..."
+32016,SUPPORT,Huh? What was that sound?! It cannot be...,Ах? Что за шум? Неужели...
 32017,SUPPORT,"Oh, my poor, abused legs! I have been remiss to
-neglect my lower...body exercise as of late...",
+neglect my lower...body exercise as of late...","Вот и нагнал меня недостаток физических
+упражнений — мои ноги!.."
 32017,SUPPORT,"Don't give up—we're almost back to Abyss!
-What a damn mess we've gotten ourselves into...",
+What a damn mess we've gotten ourselves into...","Эй, до Бездны всего ничего — не сдавайся!
+Чёрт, да что ж за невезение..."
 32017,SUPPORT,"We should give up. Just throw the chalice at the
 big one and be done with it. It doesn't seem like
-they're gonna ease off.",
-32017,SUPPORT,"If that doesn't work, I guess we're dead.",
+they're gonna ease off.","Давайте сдадимся и вернём чашу.
+Кинем её прямо в эту громилу."
+32017,SUPPORT,"If that doesn't work, I guess we're dead.","Если это её не остановит, то, ну,
+мы все умрём."
 32017,SUPPORT,"Ahaha! I think not! I shall never surrender! I shall
-not die until I have achieved my glorious aim!",
+not die until I have achieved my glorious aim!","О-хо-хо! Я не сдамся! Я не собираюсь умирать
+до самой своей смерти!"
 32017,SUPPORT,"For crying out loud... Those creepy toy things must
-love a good chase. They won't let up!",
+love a good chase. They won't let up!","Да какого ж эти куклы колдуна за нами 
+так настырно гонятся?!"
 32017,SUPPORT,"Not to mention the enemies that look like phantoms.
-Further measures to protect the chalice, I'm sure.",
+Further measures to protect the chalice, I'm sure.","Среди них и магические фантомы есть.
+Это всё меры для защиты Чаши..."
 32017,SUPPORT,"Maybe Hapi's right, and this won't stop so long as
-we have the artifact.",
+we have the artifact.","Если Хапи права, они не прекратят преследовать
+нас, пока у нас в руках Чаша."
 32017,SUPPORT,"We can't lead them back to Abyss, or the people
-there will be in danger!",
-32017,SUPPORT,Let's fight them.,
-32017,SUPPORT,There's nothing we can do.,
-32017,SUPPORT,Let's give it back.,
+there will be in danger!","Г-городу конец, если мы приведём их Бездну..."
+32017,SUPPORT,Let's fight them.,Будем драться.
+32017,SUPPORT,There's nothing we can do.,Ничего не поделать.
+32017,SUPPORT,Let's give it back.,Вернём Чашу.
 32017,SUPPORT,"Agreed. But first, let's run just a bit farther. I know a
-good place to keep the enemy at bay.",
+good place to keep the enemy at bay.","Да... Ну, пробежим ещё немного. Остановим
+противника в месте, удобном нам!"
 32017,SUPPORT,"Are you daft, or is this a test? We obviously need
 to lead our enemy somewhere that gives us the
-advantage and then face them head on!",
-32017,SUPPORT,"Good call. Are you OK with that, Yuri-bird?",
+advantage and then face them head on!","Чушь! Ещё осталась возможность 
+заманить врага в удобное нам место,
+и нанести встречный удар!"
+32017,SUPPORT,"Good call. Are you OK with that, Yuri-bird?","Я за-а. Юрий, ты ведь тоже?"
 32017,SUPPORT,"Of course not. Let's keep running just a bit longer.
-I know a good place to keep the enemy at bay.",
+I know a good place to keep the enemy at bay.","Вот ещё... Пробежим ещё немного. 
+Я знаю удобное место, где можно
+остановить врага."
 32017,SUPPORT,"Oh yeah! The gates! They're so damn sturdy
-I nearly broke my priceless fist on one once.",
+I nearly broke my priceless fist on one once.","А-а! Тот потайной люк! Крепкий, зараза.
+Я думал, что кулак об него сломал."
 32017,SUPPORT,"You punched one? Like a brute?! Ugh! Why must
-you always behave in such an infantile manner?",
+you always behave in such an infantile manner?",Ты его ударил?! Ну почему ты вечно такой!..
 32017,SUPPORT,"He probably thought that was the best way to test its
 sturdiness. He doesn't have bad intentions, he's just
-that dumb.",
+that dumb.","Небось думал, что разберётся, если ударит.
+Дурак как есть."
 32017,SUPPORT,"Balthus. If you broke the mechanism, I'm sacrificing
-you to the creepy doll.",
+you to the creepy doll.","Эй, Бальтазар... если ты сломал механизм,
+я тебя куклам скормлю!"
 32018,SUPPORT,"Well, that was awful. I'm never going back down
-there, that's for damn sure.",
+there, that's for damn sure.","Ну и ну... досталось нам. Я лично больше
+на дно ни ногой."
 32018,SUPPORT,"Ha! With things like that wandering around,
-you couldn't even if you wanted to.",
-32018,SUPPORT,It was a valuable learning experience.,
-32018,SUPPORT,I was pretty sure we were going to die.,
+you couldn't even if you wanted to.","Ха-ха-ха! Пока там бродят такие махины,
+не получится, даже если захотеть. Я прав?"
+32018,SUPPORT,It was a valuable learning experience.,Это был полезный опыт.
+32018,SUPPORT,I was pretty sure we were going to die.,"Мне казалось, что мы все умрём."
 32018,SUPPORT,"Aren't you optimistic. There were a few times I was
-sure we were done for.",
+sure we were done for.","Как у вас всё просто... Я раза три думал,
+что мы все умрём..."
 32018,SUPPORT,"Not sure I believe you. You were pretty calm
-that whole time.",
+that whole time.","Да вы шутите. У вас всё это время лицо
+оставалось слишком уж невозмутимым."
 32018,SUPPORT,"Has Aelfric yet returned? We must present the
-chalice to the church at once!",
+chalice to the church at once!","Вернулся ли уже отец Альфард? Нужно немедля
+показать ему Чашу, и Церкви..."
 32018,SUPPORT,"You! You're all safe! How could you sneak off at a
-time like this?!",
-32018,SUPPORT,Did something happen?,
-32018,SUPPORT,We had some underground business to attend to.,
+time like this?!",В-вы... вы живы! Куда вы делись в такое время?!
+32018,SUPPORT,Did something happen?,Что-то случилось?
+32018,SUPPORT,We had some underground business to attend to.,"Да так, под землю залезли..."
 32018,SUPPORT,"Underground? But we are underground! Anyway,
-things are bad! Really bad!",
+things are bad! Really bad!","В смысле под землю? Мы уже под землёй...
+Неважно, у нас беда!"
 32018,SUPPORT,"Some strangers from the outside have kidnapped
-Master Aelfric!",
-32018,SUPPORT,Aelfric? No! It cannot be true!,
+Master Aelfric!","Слушайте внимательно. Кто-то пробрался к нам
+снаружи и похитил господина Альфарда."
+32018,SUPPORT,Aelfric? No! It cannot be true!,О... отца Альфарда?
 32018,SUPPORT,"It happened as soon as he returned from the
-monastery. Bandits were lying in wait.",
-32018,SUPPORT,Dammit! How could this happen?!,
+monastery. Bandits were lying in wait.","Мы попались в засаду бандитов, стоило
+нам вернуться из монастыря..."
+32018,SUPPORT,Dammit! How could this happen?!,Чёрт возьми. Зачем он им понадобился?!
 32018,SUPPORT,"This was clearly premeditated. I am certain it is
-connected to the bandits we fended off earlier.",
-32018,SUPPORT,Have you alerted the church?,
-32018,SUPPORT,Not yet. It all happened so suddenly...,
+connected to the bandits we fended off earlier.","Это неслучайно — я уверена, что нападение
+на нас связано с этим напрямую."
+32018,SUPPORT,Have you alerted the church?,Церковь уведомили?
+32018,SUPPORT,Not yet. It all happened so suddenly...,Ещё нет. Это всё так внезапно случилось...
 32018,SUPPORT,"Do you think we should? Can we trust them? If we
-cause too much trouble, Abyss is doomed...",
+cause too much trouble, Abyss is doomed...","А надо? Разве мы можем доверять Церкви?
+Если поднимется переполох, то Бездна..."
 32018,SUPPORT,"Now isn't the time to worry about that! We're in no
-position to cover something like this up.",
+position to cover something like this up.","Сейчас не время об этом рассуждать!
+Мы не в том положении, чтобы что-то утаивать."
 32018,SUPPORT,"The church has eyes and ears everywhere, so they
 may already know what's going on. Either way,
-go and tell them the news. Now.",
-32018,SUPPORT,Sure thing! Understood!,
+go and tell them the news. Now.","Церковь наверняка уже и без нас всё знает,
+но ты всё равно доложи."
+32018,SUPPORT,Sure thing! Understood!,"Д-да, так и есть. Я понял."
 32018,SUPPORT,"Also, if anyone was wounded, send them here.
-We'll patch them up with healing magic.",
-32018,SUPPORT,Wait... Where's Hapi? And Linhardt?,
+We'll patch them up with healing magic.","И ещё, если есть раненые, несите их сюда.
+Мы исцелим их при помощи магии..."
+32018,SUPPORT,Wait... Where's Hapi? And Linhardt?,"Эй, а где Линхарт? И Хапи нет."
 32018,SUPPORT,"Hapi! Wherever did you disappear to! Aelfric has
-been—",
-32018,SUPPORT,I know. Take a look at this.,
-32018,SUPPORT,What's that? Looks like some kind of fancy letter.,
-32018,SUPPORT,That's because it is. It was lying in the classroom.,
+been—","Хапи, куда ты ушла? Отца Альфарда..."
+32018,SUPPORT,I know. Take a look at this.,"Ага-ага. Вот, посмотрите."
+32018,SUPPORT,What's that? Looks like some kind of fancy letter.,Это что? Какое-то вычурное... письмо?
+32018,SUPPORT,That's because it is. It was lying in the classroom.,А на что это ещё похоже? Лежало в аудитории.
 32018,SUPPORT,"""We have abducted Cardinal Aelfric. We can
-guarantee his safety, for now.",
+guarantee his safety, for now.","«Кардинал Альфард находится у нас в заложниках.
+На данный момент мы гарантируем его безопасность»."
 32018,SUPPORT,"""If you want to help him, meet us tomorrow evening
-in the ruins of the old chapel. Bring the chalice.",
+in the ruins of the old chapel. Bring the chalice.","«Если вы желаете спасти его, возьмите с собой
+Чашу. Ждём вас завтра вечером на развалинах
+церкви в старой части города»."
 32018,SUPPORT,"""Know that if you alert the knights, the cardinal's life
-will be forfeit.""",
-32018,SUPPORT,Could it be...,
+will be forfeit.""","«Однако, если вы приведёте с собой рыцарей,
+можете считать кардинала покойником». Конец."
+32018,SUPPORT,Could it be...,Это...
 32018,SUPPORT,"No doubt about it. This letter must have been left by
-the people who abducted Aelfric.",
+the people who abducted Aelfric.","И никак иначе. Письмецо подкинули мерзавцы,
+которые похитили Альфарда."
 32018,SUPPORT,"Then our enemy really is after the chalice. All the
-while, they were waiting for us to locate it for them.",
-32018,SUPPORT,No... No! Something about this does not ring true!,
+while, they were waiting for us to locate it for them.","То есть, наш враг действительно охотится
+за Чашей? Они дождались, пока мы сами
+найдём её, и теперь собираются отнять..."
+32018,SUPPORT,No... No! Something about this does not ring true!,Нет... Нет! Что-то здесь нечисто!
 32018,SUPPORT,"None of it rings true, so which part in particular are
-you talking about?",
+you talking about?",Тут много чего нечисто. Ты про что именно?
 32018,SUPPORT,"How did the enemy know that we were searching
-for the chalice to begin with?",
-32018,SUPPORT,This can only mean that someone in Abyss is—,
+for the chalice to begin with?","Откуда нашему врагу изначально знать о том,
+что мы ищем Чашу?"
+32018,SUPPORT,This can only mean that someone in Abyss is—,"Если наши передвижения для них
+как на ладони, то неужели в Бездне..."
 32018,SUPPORT,"You smell a rat. Someone who notified the church
-of our plan.",
+of our plan.","...завелась крыса; либо информация утекла
+после доклада Церкви."
 32018,SUPPORT,"It's no good talking about theoretical rats right now.
-First we have to deal with the problem at hand.",
-32018,SUPPORT,Too true. For once you are speaking reasonably.,
+First we have to deal with the problem at hand.","Но подозревать своих легко, а поставьте себя 
+на место подозреваемого. Сейчас главное — 
+разобраться с насущной проблемой."
+32018,SUPPORT,Too true. For once you are speaking reasonably.,"Я-я понимаю это! Как ни странно, ты говоришь
+совершенно разумные вещи."
 32019,SUPPORT,"We really lucked out there. Fewer injuries than
 I would have expected...and most were minor.",
 32019,SUPPORT,"I suppose the only conclusion we can draw is that
@@ -16497,46 +16564,64 @@ They look like Crests... Whoa! What's going on?＠048613#04","[1043]Вон та�
 32165,MAP,"[1042]My Crest! Oh, but look at the stone. There's light
 streaming from it.＠048614#04",[1042]Неужели... Гербы резонируют? Скала излучает свет!＠048614#04
 32166,MAP,"[0002]The enemy's caught up to us. If we try to go up
-against it, we're finished.＠048615#00",
+against it, we're finished.＠048615#00","[0002]Враг понемногу приближается. Вступать
+с ним в бой неразумно.＠048615#00"
 32166,MAP,"[1041]That thing's worse than what we saw at the chasm.
-Looks strong enough to flatten me. Me, of all people!＠048616#00",
-32166,MAP,"[0003]Argh, the gate! Even I won't be able to force it open.＠048617#04",
+Looks strong enough to flatten me. Me, of all people!＠048616#00","[1041]Ага, тут не то что на дне лощины. Эти ребята
+кости-то нам пересчитают.＠048616#00"
+32166,MAP,"[0003]Argh, the gate! Even I won't be able to force it open.＠048617#04","[0003]Проклятье, ворота!.. Они настолько массивные,
+что даже мне их не открыть.＠048617#04"
 32166,MAP,"[1040]Heh heh. This is bad. There's more where that came
-from too. C'mon, let's go—now!＠048618#00",
+from too. C'mon, let's go—now!＠048618#00","[1040]Нехорошо... и впереди такие же.
+Вперёд, пока они не закрылись!＠048618#00"
 32166,MAP,"[1042]Oh my. I believed this to be a shortcut, but the way
-seems closed.＠048619#00",
+seems closed.＠048619#00","[1042]Ох, я хотела срезать путь, а здесь всё закрыто!＠048619#00"
 32166,MAP,"[1043]Who wants to do us a favor and pull the lever?
-Though you might get left behind...＠048620#00",
+Though you might get left behind...＠048620#00","[1043]А, кто-нибудь может сходить к переключателю?
+Правда, есть риск там и остаться.＠048620#00"
 32166,MAP,"[0004]It really closed, didn't it? Good thing we made it
-through in time.＠048621#00",
-32166,MAP,[1040]Keep moving. That was just the first of these things.＠048622#00,
-32166,MAP,[1041]The gate's closed! Damn it! We didn't make it...＠048623#02,
+through in time.＠048621#00","[0004]Ого, и правда закрылось. Хорошо, что успели.＠048621#00"
+32166,MAP,[1040]Keep moving. That was just the first of these things.＠048622#00,"[1040]Рано расслабляться! Впереди ещё должны быть
+такие же ворота.＠048622#00"
+32166,MAP,[1041]The gate's closed! Damn it! We didn't make it...＠048623#02,[1041]Мать их за ногу! Ворота закрылись! Мы не успели.＠048623#02
 32166,MAP,"[1041]That passage over there is blocked too. I believe the
-controls for it are on the other side at the far end.＠048624#00",
-32166,MAP,[0173]Whoa! Just like the boss said. They came back!＠048625#00,
+controls for it are on the other side at the far end.＠048624#00","[1041]Проход и там закрыт. Наверное, управление им находится
+далеко на противоположной стороне.＠048624#00"
+32166,MAP,[0173]Whoa! Just like the boss said. They came back!＠048625#00,"[0173]Всё, как начальник и сказал! Они вернулись!＠048625#00"
 32166,MAP,"[0174]Did you find the treasure-majig? Treasure thingy?
-Whatever it's called! Doesn't matter. Hand it over.＠048626#00",
+Whatever it's called! Doesn't matter. Hand it over.＠048626#00","[0174]Эй, нашли сокровище? Чё там было...
+Короче, гоните его сюда!＠048626#00"
 32166,MAP,"[1042]These bandits are discussing treasure... How much
-can they have surmised?＠048627#04",
+can they have surmised?＠048627#04","[1042]Впереди нас бандиты? И говорят о сокровище...
+Что именно может быть им известно?＠048627#04"
 32166,MAP,"[1043]No idea. All I know is they're here, so we're gonna
-have to fight them.＠048628#00",
-32166,MAP,[1040]Shame...＠048629#02,
+have to fight them.＠048628#00","[1043]Не знаю. Важнее то, что они
+нас поджидали.@048628#00"
+32166,MAP,[1040]Shame...＠048629#02,[1040]Тьфу.＠048629#02
 32166,MAP,"[0002]The gate closed. Hurry, everyone!
-No time to dawdle.＠048630#00",
+No time to dawdle.＠048630#00","[0002]Ещё одни ворота закрыты. Вперёд,
+не время медлить!＠048630#00"
 32166,MAP,"[1040]Ugh. We were this close. Those damn wretches,
-getting in our way.＠048631#02",
-32166,MAP,"[0175]You'll not be getting away, ya hear? Fork it over!＠048632#00",
+getting in our way.＠048631#02","[1040]Тьфу... всего ничего не хватило.
+Если бы не эти подонки...＠048631#02"
+32166,MAP,"[0175]You'll not be getting away, ya hear? Fork it over!＠048632#00","[0175]Вы у нас не убежите. Отдавайте сокровище,
+не то убьём!＠048632#00"
 32166,MAP,"[0024]Ugh, more baddies? I'm already soaking in sweat.
-Read the room, lady!＠048633#04",
+Read the room, lady!＠048633#04","[0024]Ещё бандиты? Я и так уже вся вспотела
+от бега, а мне ещё предлагают драться!＠048633#04"
 32166,MAP,"[1041]Holst will kill me if anything happens to you.
-Be careful, yeah?＠048634#00",
-32166,MAP,[1040]Heh. That takes care of that. And last but not least...＠048635#01,
+Be careful, yeah?＠048634#00","[1041]Если с тобой что-нибудь случится, Хольст
+меня убьёт. Пожалуйста, береги себя.＠048634#00"
+32166,MAP,[1040]Heh. That takes care of that. And last but not least...＠048635#01,"[1040]Отлично, это всё! Теперь активируем механизм!＠048635#01"
 32166,MAP,"[0007]Run through this gate, open that one, run through
-another one. Sheesh.＠048636#00",
+another one. Sheesh.＠048636#00","[0007]В одни ворота вбеги, пока не закрылись;
+вторые открой; третьи закрой и беги ещё...＠048636#00"
 32166,MAP,"[0007]That's enough gates to last me a lifetime.
-I'm overdue for some shuteye...＠048637#03",
+I'm overdue for some shuteye...＠048637#03","[0007]Хватит с меня на сегодня ворот.
+Ох... я устал.＠048637#03"
 32166,MAP,"[1042]All is well though! We've safely retrieved the
-Chalice of Beginnings.＠048638#01",
+Chalice of Beginnings.＠048638#01","[1042]Зато благодаря этим усилиям мы благополучно
+доставили Чашу Истока в Бездну! О-хо-хо-хо!＠048638#01"
 32167,MAP,"[1044]Your reckless actions could have been the death of
 you. Still, I thank you for saving me.＠048639#01",
 32167,MAP,"[1040]Don't go thanking me yet—we've still gotta get out
