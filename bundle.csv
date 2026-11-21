@@ -4852,7 +4852,7 @@ high enough, you can set this unit as an adjutant.","Ваш уровень ещ�
 0,MSGDATA,Chrysalis Row,Переулок Кристалиса
 0,MSGDATA,Pagan Altar,Языческий алтарь
 0,MSGDATA,Shadow Library,Теневая библиотека
-0,MSGDATA,Wilting Rose Inn,Таверна Увядающая Роза
+0,MSGDATA,Wilting Rose Inn,Подземный кабак
 0,MSGDATA,Abyss,Бездна
 0,MSGDATA,Spare Message 68,Spare Message 68
 0,MSGDATA,Spare Message 69,Spare Message 69
@@ -25704,7 +25704,7 @@ Will not counterattack.","Красный импульс пробудил в юн
 0,MSGDATA,Pagan Altar,Языческий алтарь
 0,MSGDATA,Burrow Street,«Берлога»
 0,MSGDATA,Shadow Library,Теневая библиотека
-0,MSGDATA,Wilting Rose Inn,Трактир «Увядшая роза»
+0,MSGDATA,Wilting Rose Inn,Подземный кабак
 0,MSGDATA,Placeholder 94,Placeholder 94
 0,MSGDATA,Placeholder 95,Placeholder 95
 0,MSGDATA,Placeholder 96,Placeholder 96
@@ -37047,9 +37047,9 @@ begin leaving their unneeded goods there.","Свалка совершенно з
 чтобы на ней начали оставлять ненужные вещи."
 0,MSGDATA,"The Wilting Rose Inn is practically empty.
 But if you lower the prices a bit, people will
-surely be enticed to pay a visit.","Гостиница «Увядшая роза» почти пуста.
-Но если снизить в ней цены, наверняка людям
-захочется туда зайти."
+surely be enticed to pay a visit.","В местном кабаке практически пусто.
+Но если снизить там цены, наверняка 
+людям захочется туда зайти."
 0,MSGDATA,"A famed fortune teller is visiting Garreg Mach.
 If knowledge of her presence spreads, Abyss
 might see more visitors.","Знаменитая ворожея посетила Гаррег Мах.
@@ -37445,8 +37445,8 @@ bond cannot be deepened any further.","$%s1 и $%s2?
 0,MSGDATA,More people will now visit the pagan altar.,Теперь больше людей будут посещать языческий алтарь.
 0,MSGDATA,You can now collect things at the scrap heap.,Теперь на свалке можно собирать вещи.
 0,MSGDATA,"The Wilting Rose Inn is thriving now, which has unlocked a
-new quest. Check the bulletin board for details.","Теперь «Увядшая роза» процветает, что открыло новое
-задание. Проверьте доску объявлений."
+new quest. Check the bulletin board for details.","Теперь кабак процветает, что открыло новое задание. 
+Проверьте доску объявлений."
 0,MSGDATA,"A renowned astrologer has come, and a new quest has been
 unlocked. Check the bulletin board for details.","Уважаемая ворожея открыла салон, доступно новое задание.
 Проверьте доску объявлений, чтобы узнать подробности."
@@ -110120,75 +110120,73 @@ That is the knowing I prefer to have.","Да. Я не знаю эту богин
 11941,SUPPORT,Claude? What are you doing?,Клод? Что ты делаешь?
 11941,SUPPORT,"The training equipment needed maintenance,
 so I thought I'd give it a good cleaning and
-some oil.","Тренировочное снаряжение нужно привести
-в исправность, так что я решил его почистить
-и смазать.
-"
-11941,SUPPORT,Why is that for you to do?,Почему это тебе делать нужно?
+some oil.","А, тренировочное снаряжение нужно 
+привести в порядок. Так что я решил 
+его почистить и смазать заодно."
+11941,SUPPORT,Why is that for you to do?,Почему это Клоду делать нужно?
 11941,SUPPORT,"If you intend to use something a lot, it's on you to
-take good care of it.","Если хочешь чем-то пользоваться долго, нужно
-заботиться о нём."
+take good care of it.","Если за вещью время от времени ухаживать,
+то она прослужит дольше, не находишь?
+К вещам нужно относиться бережно."
 11941,SUPPORT,"You are a noble who does not have fear of working
-with hardness or becoming dirty.","Ты благородный человек, который не боится
-работать с трудом или пачкаться."
-11941,SUPPORT,And you can climb trees. I am...impressed.,И ты лазишь по деревьям. Я... впечатлена.
+with hardness or becoming dirty.","Ты аристократ, который бережёт вещи и сам 
+берёт чёрную работу — это удивительно."
+11941,SUPPORT,And you can climb trees. I am...impressed.,"И ещё ты лазаешь по деревьям.
+Это тоже удивительно."
 11941,SUPPORT,"Thanks, but to be honest, I don't think being a noble
-really has anything to do with anything.","Спасибо, но, честно говоря, я не думаю, что
-благородство имеет к этому отношение."
+really has anything to do with anything.","А то! Но, думаю, моё знатное происхождение
+не имеет к этому отношения."
 11941,SUPPORT,"Nobles and commoners are all equal here.
-We're all buddies. Even you do chores, don't you?","Знать и простолюдины — тут все равны. Мы все
-приятели. Даже если занимаешься работой по
-дому, разве нет?
+We're all buddies. Even you do chores, don't you?","Знать, простолюдины — тут все равны.
+Даже ты спокойно берёшься за самую
+разную работу, правильно?
 "
 11941,SUPPORT,"Social rank doesn't matter when you put your life
-in each other's hands. I like that about this place.","Социальное положение не имеет значения,
-ведь ты отдаёшь свою жизнь в руки друг
-друга. Вот что мне нравится в этом месте."
+in each other's hands. I like that about this place.","Все равны, когда вверяют жизни в руки
+друг друга. Вот что мне нравится в этом
+месте..."
 11941,SUPPORT,"I have your same opinion. Status is something chosen
-by chance, not by a person.","У меня такое же мнение. Статус — это что-то,
-выбранное случайно, а не человеком.
-"
+by chance, not by a person.","Да. Я тоже так думаю. Сословие — это то, 
+что уже решено вместо нас."
 11941,SUPPORT,"Everything became different when I came from
 Brigid to the Empire. Nobility does not stop life
-from surprising you.","Всё стало по-другому, когда я приехала из Бригджит
-в Империю. Благородство не мешает жизни
-удивлять тебя.
-"
-11941,SUPPORT,I know just what you mean.,"Я понимаю, о чём ты."
+from surprising you.","Когда я приехала из Бригида в Империю,
+не переставала удивляться. Там даже
+люди живут в разных местах."
+11941,SUPPORT,I know just what you mean.,"О, не говори, Петра. Я полностью
+с тобой согласен!"
 11941,SUPPORT,"It's not like the ancestors of the nobility or royalty
-were selected by the goddess herself, after all.","В конце концов, предки знати или королевской
-семьи не были избраны самой богиней."
+were selected by the goddess herself, after all.","Аристократы и королевские особы твердят,
+что их предков выбрала сама Богиня, но ведь 
+это неправда."
 11941,SUPPORT,"What does origin or status matter? In the grand
-scheme of things, we're all just insignificant mortals.","Какое значение имеет происхождение или
-статус? В масштабе мироздания, мы все
-лишь ничтожные смертные.
-"
+scheme of things, we're all just insignificant mortals.","Неважно, какого он статуса или происхождения, 
+человек остаётся лишь человеком — и в этом мы 
+все равны."
 11941,SUPPORT,"Nobility isn't a matter of birthright alone.
-At least, not in my eyes.","Благородство определяется не только кровью.
-По крайней мере, в моём представлении.
+At least, not in my eyes.","Не бывает тех, кто рождается великими.
+Я так считаю.
 "
-11941,SUPPORT,"Claude, you are...very much strange for a noble.","Клод, ты... очень странный благородный
-человек."
+11941,SUPPORT,"Claude, you are...very much strange for a noble.","Клод, ты странный... интересный аристократ."
 11941,SUPPORT,"Thanks, and same to you. You're a princess of Brigid,
-right? If I'm a strange noble, you are too!","Спасибо, то же можно сказать и о тебе. Ты ведь
-принцесса Бриджита, да? Если я странный
-дворянин, то и ты тоже!"
+right? If I'm a strange noble, you are too!","От принцессы Бригида слышу. Если я странный,
+то и ты тоже."
 11941,SUPPORT,"I am normal in Brigid. In Fódlan, you are
-an...abnormality.","Я нормальная для Бриджита. В Фодлане ты...
-аномалия."
+an...abnormality.",В Бригиде я обычная. В Фодлане ты инородный.
 11941,SUPPORT,"Ha! An abnormality, am I? Gentleman that I am,
-I'll go ahead and take that as a compliment.","Ха! Аномалия, значит? Как истинный джентльмен,
-я приму это как комплимент."
-11941,SUPPORT,I think also that your heart is kind.,"Я также думаю, что твоё сердце доброе."
-11941,SUPPORT,I am thinking you will be a good king.,"Я думающая, ты будешь хорошим королём."
+I'll go ahead and take that as a compliment.","Инородный, значит... Ну, у меня широкая душа,
+поэтому я сочту это за комплимент."
+11941,SUPPORT,I think also that your heart is kind.,"Согласна: у тебя широкая душа.
+Ты человек большого масштаба."
+11941,SUPPORT,I am thinking you will be a good king.,"Годишься в короли. Будешь хорошо
+стоять над людьми."
 11941,SUPPORT,"I'll remember that. But for now, this equipment isn't
-going to clean itself.","Я запомню это. Но пока вернусь к снаряжению,
-оно само себя не почистит."
+going to clean itself.","Правда? Что же, я подумаю над твоим предложением. 
+Но надо закончить с чисткой снаряжения."
 11941,SUPPORT,"I will be helping you. We will join together
-our efforts.","Я буду помогающей тебе. Мы соединим
-наши усилия."
+our efforts.",Я помогу. Соединим силы.
 11941,SUPPORT,"You're an abnormality, Princess.
-A wonderful abnormality.","Ты аномалия, принцесса. Чудесная аномалия."
+A wonderful abnormality.","Ха-ха, вот так принцесса!"
 11942,SUPPORT,"Hey, Petra! Are you there?","Эй, Петра! Ты там?"
 11942,SUPPORT,Yes. What is your need?,Да. Что тебе нужно?
 11942,SUPPORT,Oh! I didn't actually think you'd be here.,"Ой! Вообще-то я не думал, что ты здесь."
@@ -121891,63 +121889,66 @@ be seeing my homeland.","Я хочу, чтобы ты увидела мою ст
 I'd like nothing more than to see Brigid with you.","Петра, я бы очень этого хотела. Я мечтаю увидить
 Бриджит с тобой, как только закончится война."
 12126,SUPPORT,"Ah, Dorothea. Your beauty puts even the most
-pristine flower to shame.","Ах, Доротея. Твоя красота заставит даже самый
-прекрасный цветок покраснеть."
-12126,SUPPORT,"Ah, Lorenz. As silver-tongued as ever.","А, Лоренц. Ты как всегда красноречив. "
+pristine flower to shame.","Здравствуй, Доротея. Как всегда, твоя красота 
+способна затмить даже самый прелестный цветок."
+12126,SUPPORT,"Ah, Lorenz. As silver-tongued as ever.","Хи-хи, Лоренц, а ты, как всегда, красноречив."
 12126,SUPPORT,"Oh, not at all. I must bid you good day.","Ах, вовсе нет. Желаю тебе хорошего дня."
-12126,SUPPORT,I see the rumors are true. What a shame.,"Вижу, слухи правдивы. Какая жалость."
-12126,SUPPORT,Rumors? About me? Whatever do you mean?,Слухи? Обо мне? Что это значит?
-12126,SUPPORT,"Why, that you're always ready to flirt...","Ну, что ты всегда готов заигрывать..."
+12126,SUPPORT,I see the rumors are true. What a shame.,"Ах, вот как? Вижу, слухи правдивы..."
+12126,SUPPORT,Rumors? About me? Whatever do you mean?,Хм? Слухи? Касающиеся меня?
+12126,SUPPORT,"Why, that you're always ready to flirt...","Да, именно. Мол, ты готов заигрывать 
+с кем угодно..."
 12126,SUPPORT,"Unless she's a commoner. Then you'll bid her good
-day as quickly as possible.","Если она не простолюдинка. В таком случае ты просто
-пожелаешь ей хорошего дня."
+day as quickly as possible.","Но с простолюдинками ты так спешишь удалиться,
+что бросаешь им всего пару слов."
 12126,SUPPORT,"Like you did with me just now. Are we so unpleasant
-to speak to, us commoners?","Как ты только что сделал сейчас. Неужели с нами,
-простыми людьми, так неприятно общаться?"
+to speak to, us commoners?","Как ты сделал сейчас. Неужели тебе настолько 
+противно общаться с простолюдинами?"
 12126,SUPPORT,"That is a rather, ah, pointed question. But I do
-happen to have an answer for you.","Это довольно, кхм, колкий вопрос. Но я готов на него
-ответить."
+happen to have an answer for you.",Какой прямой вопрос. Но ответ очевиден...
 12126,SUPPORT,"As the heir to House Gloucester, I am in search of a
-bride of suitable social status.","Как наследник дома Глостер, я ищу невесту, что
-подойдёт мне по статусу."
+bride of suitable social status.","Я законный наследник именитого дома Глостер
+и нахожусь в поисках невесты соответствующего
+происхождения."
 12126,SUPPORT,"The Alliance isn't fully unified. I require someone
-who will help bring it together.","Альянс не до конца объединён. И я ищу ту, что поможет
-это исправить."
+who will help bring it together.","К тому же, в Альянсе ещё нет единства.
+Следовательно, я также хочу, чтобы брак
+был политически выгодным."
 12126,SUPPORT,"I seek to build upon the honor of my house, and to
-do that, I require a noble wife.","Я стремлюсь укрепить честь своего дома. И для этого
-мне нужна благородная жена."
+do that, I require a noble wife.","Моя спутница жизни обязана способствовать
+процветанию дома. Это долг всех выходцев
+из известных родов."
 12126,SUPPORT,"I'd think you could find plenty of suitable women
-even among the masses.","Думаю, даже в толпе ты сможешь найти много
-достойных девушек."
+even among the masses.","Хм-м, то есть дело вовсе не в твоих собственных
+предпочтениях? Но мне думается, что и среди
+простолюдинок может найтись подходящая."
 12126,SUPPORT,"Do not be so certain. A lady who marries me must be
 prepared to enter noble society, whether she wishes
-to or not.","Не будь так уверена в этом. Дама, что выйдет за меня,
-должна быть готова войти в дворянское общество.
-Хочет она того или нет."
+to or not.","Как знать. Моей будущей супруге придётся
+стать частью высшего света вне зависимости
+от её желания."
 12126,SUPPORT,"It is a complex web of etiquette and expectation.
 Not a world one could easily step into without the
-proper upbringing.","Это сложная паутина из этикета и видов на будущее. Это
-не тот мир, в который можно войти без надлежащего
-воспитания."
+proper upbringing.","В нём крайне придирчивы к воспитанию, манерам
+и соблюдению традиций. Он будет беспощаден 
+к девушке, выросшей среди простых людей."
 12126,SUPPORT,"What's more, House Gloucester would hardly see
 much benefit were I to join myself to the household
-of a commoner.","Более того, дом Глостер вряд ли получил большую
-выгоду, если бы я присоединился к семье простолюдин."
-12126,SUPPORT,"Oh, I can imagine.","Ага, могу представить."
+of a commoner.","К тому же, дому Глостер будет мало выгоды
+от родства с семьёй простолюдинов."
+12126,SUPPORT,"Oh, I can imagine.","Ну просто гигант мысли, благородный
+потомок великого рода."
 12126,SUPPORT,"Well, I suppose that means any friendship between
-you and I is doomed as well.","Чтож, пологаю, это значит, что наша с тобой дружба тоже
-обречена."
-12126,SUPPORT,Isn't that a rather excessive conclusion?,Разве это не чрезмерное заключение?
+you and I is doomed as well.","Что же, тогда и я не буду тратить время 
+на бессмысленные разговоры с тобой."
+12126,SUPPORT,Isn't that a rather excessive conclusion?,Ч-что? Ну зачем же такие меры...
 12126,SUPPORT,"You want someone to birth your house's next
-generation. I want someone to share my life with.","Ты хочешь, чтобы кто-то родил следующее поколение
-твоего дома. А я хочу, чтобы кто-то разделил жизнь со
-мной."
+generation. I want someone to share my life with.","Как и ты, я ищу себе спутника жизни."
 12126,SUPPORT,"I'm not even an option in your eyes, and you're
-hardly viable in mine.","В твоих глазах – я даже не вариант. А ты для меня едва
-ли способен жить."
+hardly viable in mine.","И если я тебе не ровня, то и ты мне — не пара."
 12126,SUPPORT,"However, we're all friends here, aren't we, so I
-suppose politeness, at the very least, is in order.","Однако, мы все здесь друзья. Не так ли? Полагаю, что
-хотя бы с вежливостью всё в порядке."
+suppose politeness, at the very least, is in order.","Конечно, соратника игнорировать полностью
+не получится, но полагаю, что свести общение 
+к минимуму будет достаточно."
 12127,SUPPORT,"Looking as lovely as ever today, Dorothea.","Доротея, ты сегодня прекрасна, как и всегда."
 12127,SUPPORT,"Oh, save it for your noble girls, Lorenz. I'm not in
 the mood.","Ох. Оставь это для своих дворяночек, Лоренц. Я не в
@@ -134107,67 +134108,60 @@ more training in!","Погоди! Прежде чем начнёшь рисов�
 12320,SUPPORT,"If my muscles aren't bulging, then what's the point?","Если не выпятить мышцы, то в чём смысл?"
 12320,SUPPORT,I'm not sure about this...,Я не уверен...
 12321,SUPPORT,"Ugh, this theory just isn't coming together. The
-thought behind it is sound enough, but... Hm.","Ох, эта теория просто не складывается. Идея,
-лежащая в её основе, достаточно здравая, но... хм."
+thought behind it is sound enough, but... Hm.","Не сходятся у меня факты с теорией вот здесь... 
+Ход мыслей верный, а всё равно ничего не получается."
 12321,SUPPORT,"Hey, Lysithea. Your forehead's all wrinkled. You
-look tense. Is something wrong?","Привет, Лиситея. У тебя весь лоб в морщинах.
-Напряженная вся. Что-то не так?"
+look tense. Is something wrong?","О! Лиситея! У тебя лицо совсем напряжённое. 
+Что-то не так?"
 12321,SUPPORT,"You know you can tell your Big Bro Raph—I mean,
-you know you can tell me anything, right?","Знай, ты всё можешь рассказать своему старшему
-брату Рафа— То есть, ты знаешь, что можешь
-рассказать мне всё, да?"
+you know you can tell me anything, right?","Расскажешь брату... мне, в чём дело?"
 12321,SUPPORT,"Raphael, while I appreciate your offer, I'm not so
-sure you'll be much help here.","Рафаэль, хоть я и ценю твоё предложение,  я не
-уверена, что ты здесь сильно поможешь."
+sure you'll be much help here.","Рафаэль... Я ценю твоё предложение,
+но не уверена, что ты сможешь помочь."
 12321,SUPPORT,"What does that mean? Oh, are you researching
 something complicated? In that case, yeah,
-you're probably right.","Что это значит? А, ты изучаешь что-то сложное?
-В таком случае, да, возможно, ты права."
+you're probably right.","Хм-м? А, ты изучаешь что-то сложное?
+В таком случае да, возможно, не смогу."
 12321,SUPPORT,"Is there something else I can help you with?
-I'm really good at other things. Like training!","Есть ли что-то ещё, с чем я могу тебе помочь?
-Я правда хорош в других вещах. Например,
-в тренировках!"
-12321,SUPPORT,I have absolutely zero interest in such things.,Меня абсолютно не интересуют такие вещи.
+I'm really good at other things. Like training!","Может, я тебе ещё с чем могу помочь?
+Например, с тренировками!"
+12321,SUPPORT,I have absolutely zero interest in such things.,А? Да не надо...
 12321,SUPPORT,"I have an idea! Do you wanna get real good at
-playing tag? I could teach you!","У меня есть идея! Хочешь научиться играть
-в салки? Могу научить!"
+playing tag? I could teach you!","Придумал! Хочешь бегать быстрее всех? 
+Могу научить!"
 12321,SUPPORT,...,...
 12321,SUPPORT,"There's a trick to it that most people don't know.
-Like, to not get tagged and stuff. Let me show you!","Есть одна хитрость, о которой большинство людей
-не знают. Например, чтобы тебя не засалили.
-Давай покажу!"
+Like, to not get tagged and stuff. Let me show you!","А ещё могу научить хитрости в догонялках —
+как бегать так, чтобы тебя не поймали."
 12321,SUPPORT,...,...
 12321,SUPPORT,"It's too sunny out to spend all day inside studying!
-C'mon, Big Bro's gonna take you outsi—","На улице слишком солнечно, чтобы проводить
-весь день за учёбой! Давай, старший брат отведёт
-тебя на ули—..."
-12321,SUPPORT,Shut up! Shut up! Shut up!,Заткнись! Заткнись! Заткнись!
-12321,SUPPORT,Can't you see I'm busy?! Go bother someone else!,"Ты что, не видишь, что я занята?! Иди мешай
-кому-нибудь другому!"
+C'mon, Big Bro's gonna take you outsi—","Погода такая хорошая, давай
+старший брат отведёт тебя на у..."
+12321,SUPPORT,Shut up! Shut up! Shut up!,"Всё-ё! Замолчи, замолчи, замолчи!"
+12321,SUPPORT,Can't you see I'm busy?! Go bother someone else!,Я занята! Не мог бы ты мне не мешать?!
 12321,SUPPORT,"What nerve you have, too, calling yourself ""Big Bro!""
 Like I'm your little sister or some nonsense. Just cut
-the act.","Ну и наглость у тебя, называть себя ""старшим
-братом""! Как будто я твоя младшая сестра или
-ещё какая-то чушь. Просто прекрати."
-12321,SUPPORT,Uhhh. Did I really say that out loud?,Э-э-эх. Я действительно сказал это вслух?
-12321,SUPPORT,"Anyway, my grades are miles better than yours.","В любом случае, мои оценки намного лучше твоих."
+the act.","И с чего ты вообще принялся называть себя
+старшим братом? Я тебе не младшая сестра!"
+12321,SUPPORT,Uhhh. Did I really say that out loud?,"А? Я назвал себя старшим братом?
+Извини, я не нарочно..."
+12321,SUPPORT,"Anyway, my grades are miles better than yours.","Я правильно помню, что твоя успеваемость
+в академии намного ниже моей?"
 12321,SUPPORT,"Anyway, my grades were always miles better
-than yours.","В любом случае, мои оценки были намного лучше
-твоих."
+than yours.","Я правильно помню, что в своё время твоя 
+успеваемость в академии была намного ниже 
+моей?"
 12321,SUPPORT,"If you want to play the part of ""big brother,"" you'd
-probably benefit from studying way, way more.","Если ты хочешь играть роль ""старшего брата"",
-то тебе, пожалуй, стоит учиться намного, намного
-больше."
+probably benefit from studying way, way more.","Если хочешь изображать из себя старшего брата,
+приложи немного больше усердия в учёбе."
 12321,SUPPORT,"Like I said, I'm really good at other things, just not
-classroom learning...","Как я уже сказал, я правда хорош в других вещах,
-кроме как академной учебы..."
+classroom learning...","Понимаешь, не получается у меня 
+по книжкам учиться, как ни крути..."
 12321,SUPPORT,"I can't stand all the excuses. Clearly you're the
-little kid here.","Терпеть не могу все эти оправдания. Если тут
-и есть маленький ребёнок, то это ты."
+little kid here.","Боже, да ты сам беззаботный, как ребёнок."
 12321,SUPPORT,"You got all that? Now, don't bother me again.
-Understood? Bye.","Всё понял? А теперь не беспокой меня больше.
-Ясно говорю? Пока."
-12321,SUPPORT,Phew! She must be going through a rebellious phase!,"Фух! Наверное, у неёсейчас бунтарский возраст!"
+Understood? Bye.","Если ты всё понял, больше мне не мешай. Ясно?"
+12321,SUPPORT,Phew! She must be going through a rebellious phase!,"Эх... Возраст у неё бунтарский, наверное."
 12322,SUPPORT,"So heavy... Ugh. I think I might've borrowed one too
 many books this time.","Как же тяжело... Ух. Думаю, в этот раз я взяла
 слишком много книг."
