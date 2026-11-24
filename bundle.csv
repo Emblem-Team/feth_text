@@ -7389,8 +7389,8 @@ $%s1 and $%s2?","Спеть с: $%s1, $%s2?"
 0,MSGDATA,You don't have enough Activity Points to Cook Together.,"У вас недостаточно очков активности, чтобы готовить в паре."
 0,MSGDATA,You don't have enough activity points to cook.,"У вас недостаточно очков активности, чтобы готовить."
 0,MSGDATA,"Enter $%s2 into
-$%s1?","Вставить $%s2 в 
-$%s1 ?"
+$%s1?","Состязание: $%s1
+Участник: $%s2 . Подтвердить?"
 0,MSGDATA,"The bout between $%s1 and
 $%s2 is over.",Бой между $%s1 и $%s2 закончился.
 0,MSGDATA,"Your fighter lost the bout and has been eliminated from
@@ -7406,7 +7406,7 @@ fighting tournament.","У вас недостаточно очков актив�
 0,MSGDATA,You don't have enough activity points to host a tea party.,"У вас недостаточно очков активности,
 чтобы провести чаепитие."
 0,MSGDATA,$%s1 is not able to make it.,$%s1 не может сделать это.
-0,MSGDATA,$%s1 has accepted your invitation!,$%s1 принял ваше приглашение!
+0,MSGDATA,$%s1 has accepted your invitation!,$%s1 принимает ваше приглашение!
 0,MSGDATA,"$%s1 and $%s2 don't
 have much to say to one another...","У $%s1 и $%s2 не так
 много тем для разговора..."
@@ -15394,22 +15394,22 @@ weapon attacks to occasionally prevent counters.","Обладатель полу
 increasing the Mt of magic attacks.","Обладатель получает Герб Макуила, что иногда 
 увеличивает мощь магических атак."
 0,MSGDATA,"Holder acquires the Crest of Seiros, frequently
-increasing the Mt of combat arts.","Обладатель получает Герб Сейрос, который часто 
+increasing the Mt of combat arts.","Обладатель получает Герб Сейрос, что часто 
 увеличивает мощь боевых навыков."
 0,MSGDATA,"Holder acquires the Crest of Dominic,
-occasionally conserving uses of attack magic.","Обладатель получает Герб Доминика, который иногда 
+occasionally conserving uses of attack magic.","Обладатель получает Герб Доминика, что иногда 
 сохраняет количество использований атакующей магии."
 0,MSGDATA,"Holder acquires the Crest of Fraldarius,
-sometimes increasing the Mt of weapon attacks.","Обладатель получает Герб Фральдариуса, который иногда
+sometimes increasing the Mt of weapon attacks.","Обладатель получает Герб Фральдариуса, что иногда
 повышает мощь оружейных атак."
 0,MSGDATA,"Holder acquires the Crest of Noa, occasionally
-conserving uses of attack magic.","Обладатель получает Герб Ноа, который иногда 
+conserving uses of attack magic.","Обладатель получает Герб Ноа, что иногда 
 сохраняет количество использований атакующей магии."
 0,MSGDATA,"Holder acquires the Crest of Cethleann,
-sometimes increasing the Mt of recovery magic.","Обладатель получает Герб Сетлин, который иногда 
+sometimes increasing the Mt of recovery magic.","Обладатель получает Герб Кетеленн, что иногда 
 увеличивает мощь лечебной магии."
 0,MSGDATA,"Holder acquires the Crest of Daphnel, sometimes
-increasing the Mt of combat arts.","Обладатель получает Герб Дафнеля, который иногда 
+increasing the Mt of combat arts.","Обладатель получает Герб Дафнеля, что иногда 
 увеличивает мощь боевых навыков."
 0,MSGDATA,"Holder acquires the Crest of Blaiddyd, doubling
 Atk and weapon uses of combat arts occasionally.","Обладатель получает Герб Бладуд, что может удвоить
@@ -15418,38 +15418,38 @@ Atk and weapon uses of combat arts occasionally.","Обладатель полу
 occasionally increasing the Mt of magic attacks.","Обладатель получает Герб Глостера, что иногда 
 увеличивает мощь магических атак."
 0,MSGDATA,"Holder acquires the Crest of Goneril, allowing
-combat arts to sometimes prevent counterattacks.","Обладатель получает Герб Гонериль, которая иногда 
-предотвращает контратаки против боевых навыков."
+combat arts to sometimes prevent counterattacks.","Обладатель получает Герб Гонериль, что иногда 
+позволяет боевым навыкам предотвращать контратаку."
 0,MSGDATA,"Holder acquires the Crest of Cichol, allowing
-combat arts to sometimes prevent counterattacks.","Обладатель получает Герб Кихола, которая иногда 
-предотвращает контратаки против боевых навыков."
+combat arts to sometimes prevent counterattacks.","Обладатель получает Герб Кихола, что иногда 
+позволяет боевым навыкам предотвращать контратаку."
 0,MSGDATA,"Holder acquires the Crest of Aubin, allowing
-weapon attacks to occasionally prevent counters.","Обладаель получает Герб Обена, что иногда 
+weapon attacks to occasionally prevent counters.","Обладатель получает Герб Обена, что иногда 
 предотвращает контратаки в ответ на атаку оружием."
 0,MSGDATA,"Holder acquires the Crest of Gautier, frequently
-increasing the Mt of combat arts.","Обладатель получает Герб Готье, которая часто 
+increasing the Mt of combat arts.","Обладатель получает Герб Готье, что часто 
 увеличивает мощь боевых навыков."
 0,MSGDATA,"Holder acquires the Crest of Indech, occasionally
-allowing weapon attacks to strike twice.","Обладатель получает Герб Индеха, которая иногда 
+allowing weapon attacks to strike twice.","Обладатель получает Герб Индеха, что иногда 
 позволяет атаковать дважды при атаках оружием."
 0,MSGDATA,"Holder acquires the Crest of the Beast, sometimes
-increasing the Mt of weapon attacks.","Обладатель получает Герб Зверя, которая иногда 
+increasing the Mt of weapon attacks.","Обладатель получает Герб Зверя, что иногда 
 повышает мощь атак оружием."
 0,MSGDATA,"Holder acquires the Crest of Charon, frequently
-increasing the Mt of combat arts.","Обладатель получает Герб Харона, которая часто 
+increasing the Mt of combat arts.","Обладатель получает Герб Харона, что часто 
 увеличивает мощь боевых навыков."
 0,MSGDATA,"Holder acquires the Crest of Timotheos,
-occasionally conserving uses of recovery magic.","Обладатель получает Герб Тимофеоса, которая иногда 
+occasionally conserving uses of recovery magic.","Обладатель получает Герб Тимофея, что иногда 
 сохраняет количество использований лечебной магии."
 0,MSGDATA,"Holder acquires the Crest of Riegan, restoring
 30% of combat art damage as HP sometimes.","Обладатель получает Герб Риган, что иногда исцеляет
 30 % ОЗ от нанесенного боевым навыком урона."
 0,MSGDATA,"Holder acquires the Crest of Chevalier, restoring
-30% of combat art damage as HP sometimes.","Обладатель получает Герб Шевалье, что исцеляет
-30 % ОЗ от нанесенного боевым навыком урона иногда."
+30% of combat art damage as HP sometimes.","Обладатель получает Герб Шевалье, что иногда 
+исцеляет 30% ОЗ от урона, нанесённого боевым навыком."
 0,MSGDATA,"Holder acquires the Crest of Lamine, occasionally
-conserving uses of recovery magic.","Обладатель получает Герб Ламин, которая иногда с
-охраняет количество использований лечебной магии."
+conserving uses of recovery magic.","Обладатель получает Герб Ламины, что иногда 
+сохраняет количество использований лечебной магии."
 0,MSGDATA,"A mysterious stone that was concealed by the
 Church of Seiros. Engraved with a Crest.","Таинственный камень, который скрывала Церковь 
 Сейрос. На нем выгравирован Герб."
@@ -21279,7 +21279,7 @@ living under Garreg Mach Monastery.","Люди с разными предыст�
 0,MSGDATA,Minor Crest of Gloucester,Малый герб Глостера
 0,MSGDATA,Minor Crest of Goneril,Малый герб Гонериль
 0,MSGDATA,Minor Crest of Cichol,Малый герб Кихола
-0,MSGDATA,Minor Crest of the Oban,Малый герб Обена
+0,MSGDATA,Minor Crest of the Oban,Малый Герб Обена
 0,MSGDATA,Minor Crest of Gautier,Малый герб Готье
 0,MSGDATA,Minor Crest of Indech,Малый герб Индеха
 0,MSGDATA,Minor Crest of the Beast,Малый герб Зверя
@@ -68521,239 +68521,231 @@ their blades on the church...","Эта миссия будет довольно 
 сторону церкви..."
 11385,SUPPORT,"No matter how powerful our enemies may be,
 there is no need to worry so long as we're with
-Catherine, the mighty wielder of Thunderbrand.","Неважно, насколько силён наш враг. Мы можем
-не беспокоиться об этом. Ведь с нами Катерина,
-могучая обладательница Громовержца."
-11385,SUPPORT,Thunderbrand?,Громовержец?
-11385,SUPPORT,What are you talking about?,О чём это ты?
+Catherine, the mighty wielder of Thunderbrand.","Неважно, насколько силён наш враг, мы можем
+ни о чём не беспокоиться, ведь с нами Катерина —
+грозная обладательница Громовержца."
+11385,SUPPORT,Thunderbrand?,Громовержца?
+11385,SUPPORT,What are you talking about?,Грозная?
 11385,SUPPORT,"You mean you don't know? My weapon is called
-Thunderbrand. It's one of the Heroes' Relics.","Как это вы не знаете? Моё оружие зовётся Громовержцем.
-Это одна из Реликвий Героев."
+Thunderbrand. It's one of the Heroes' Relics.","Ха, ты не $EK00знал$EL00знала$EM00? Вот он, Громовержец...
+Одна из Реликвий Героев."
 11385,SUPPORT,"A long, long time ago, the goddess bestowed
 divine weapons upon 10 heroes, which were
-passed down to their descendants.","Много-много лет назад богиня даровала святое
-оружие десяти героям. И это оружие передавалось
-потомкам."
+passed down to their descendants.","Много лет тому назад Богиня даровала
+священное оружие десяти героям —
+а они передали его своим потомкам."
 11385,SUPPORT,"It's an honor to wield, but I'm afraid there won't be
 any chance for that today. Our mission is to help
-clean up the aftermath, not to fight.","И для меня это большая честь. Но, боюсь, сегодня не будет
-возможности для этого. Наше задание - помочь разобрать
-весь этот хаос, а не сражаться."
+clean up the aftermath, not to fight.","Впрочем, на этот раз Громовержец останется 
+не у дел. Наша задача состоит лишь в том, 
+чтобы разобраться с последствиями случившегося."
 11385,SUPPORT,"One must wonder why Lord Lonato would incite
-such a reckless rebellion.","И важно найти ответ, почему лорд Лонато начал столь
-безрассудное восстание."
-11385,SUPPORT,It all goes back to the Tragedy of Duscur...,Всё восходит к Дискурской трагедии...
-11385,SUPPORT,I've heard of it.,Знаю об этом.
-11385,SUPPORT,I don't know much about it.,Я мало что об этом знаю.
-11385,SUPPORT,I remember that day well. No one saw it coming.,"Я хорошо помню этот день. Никто не видел, как всё началось."
+such a reckless rebellion.","И всё же, зачем лорд Лонато поднял столь
+безрассудный мятеж?.."
+11385,SUPPORT,It all goes back to the Tragedy of Duscur...,Вы знаете о Даскарской трагедии?
+11385,SUPPORT,I've heard of it.,Мне доводилось о ней слышать.
+11385,SUPPORT,I don't know much about it.,Я мало что о ней знаю.
+11385,SUPPORT,I remember that day well. No one saw it coming.,"Я хорошо помню о ней. 
+Это было ужасающее событие."
 11385,SUPPORT,"Roughly four years ago, the king of Faerghus was
 murdered by the people of Duscur. I believe that
-about sums it up, correct?","Примерно четыре года назад короля Фаэргуса убили люди из
-Дискура. Полагаю, это всё подытоживает,
-да?"
+about sums it up, correct?","Четыре года тому назад король Священного 
+Королевства Фаэргус был убит даскарцами."
 11385,SUPPORT,"To put it simply, yes. But there's more to that story.
-They had accomplices within the Kingdom as well.","Проще говоря, да. Но не в этой истории.
-В Королевстве у них были сообщники."
+They had accomplices within the Kingdom as well.","Ну, если кратко, да — но в этом также были
+замешаны и заговорщики внутри королевства."
 11385,SUPPORT,"Lord Lonato's son, Christophe, was one of them,
 and so he was handed over to the church
-for execution.","Сын Лонато, Кристоф, был одним из сообщников.
-И его передали в церковь, чтобы
-потом казнить."
+for execution.","Одним из сообщников был сын лорда Лонато, Кристоф; 
+впоследствии его выдали Церкви — и казнили."
 11385,SUPPORT,The church executes criminals?,Церковь казнит преступников?
-11385,SUPPORT,Why was the king targeted?,Почему король был мишенью?
+11385,SUPPORT,Why was the king targeted?,Почему король стал мишенью?
 11385,SUPPORT,"Speaking from the church's perspective, we simply
 passed judgment according to our doctrine in place
-of the Kingdom, which was in complete chaos.","С точки зрения церкви, мы всего лишь вынесли
+of the Kingdom, which was in complete chaos.","С точки зрения Церкви мы всего лишь вынесли
 приговор в соответствии с нашим учением,
-поскольку Королевство находилось в полном хаосе."
+поскольку Королевство находилось в смуте."
 11385,SUPPORT,"King Lambert was attempting a major political
 reform. Needless to say, he had many enemies.","Король Ламберт пытался провести крупную
-политическую реформу. Разумеется, у него
-было немало врагов."
+политическую реформу, так что у него было 
+немало врагов."
 11385,SUPPORT,"Whatever the truth behind that incident may be,
 Lord Lonato has harbored resentment toward
-the church ever since.","Какая бы правда не скрывалась за этим случаем,
-с тех пор лорд Лонато начал питать ужасное негодование
-по отношению к церкви."
+the church ever since.","Какая бы правда ни скрывалась за этим
+инцидентом, наверняка лорд Лонато
+с тех пор питает ненависть к Церкви."
 11385,SUPPORT,"Well... To be more specific, his grudge isn't only
 against the church. It's also against the one who
-turned Christophe over to them...","Если говорить точнее, его ненависть направлена
-не только на церковь, но и на того, кто передал
-Кристофа в их руки."
+turned Christophe over to them...","Хотя... Если говорить точнее, то и к Церкви,
+и к тому человеку, что выдал Кристофа..."
 11385,SUPPORT,"Report! The enemy is approaching! They can't
-be avoided.","Докладываю! Приближается враг!
-Мы не можем их избежать."
+be avoided.","Докладываю! Противник идёт на сближение! 
+Боя не избежать!"
 11385,SUPPORT,"Their numbers are far greater than we predicted.
-They used the fog to slip past the knights' perimeter!","Их оказалось куда больше, чем мы ожидали!
-Они использовали туман, чтобы проскользнуть
-мимо рыцарского дозора!"
+They used the fog to slip past the knights' perimeter!","Силы противника больше, чем мы ожидали — 
+они пользуются туманом, чтобы проскользнуть 
+сквозь оцепление рыцарей!"
 11385,SUPPORT,"It looks like our mission just changed, Professor.
-Everyone, prepare for battle!","Профессор, наше задание изменилось.
-Готовимся к битве!"
+Everyone, prepare for battle!","Опа... $S0, задание изменилось.
+Всем приготовиться к бою!"
 11386,SUPPORT,"I have to say... It's a real honor to accompany such
 a brave and distinguished knight. None other than
-Catherine, wielder of Thunderbrand!","Должен сказать... Что для меня большая часть сопровождать
-настолько смелого и выдающегося рыцаря. Никого иного, как
-Катерину, владелицу Громовержца."
-11386,SUPPORT,Thunderbrand?,Громовержец?
-11386,SUPPORT,What are you talking about?,О чём это ты?
+Catherine, wielder of Thunderbrand!","Сопровождать известную своей грозностью Катерину, 
+обладательницу Громовержца — это честь для меня."
+11386,SUPPORT,Thunderbrand?,Громовержца?
+11386,SUPPORT,What are you talking about?,Грозностью?
 11386,SUPPORT,"You mean you don't know? My weapon is called
-Thunderbrand. It's one of the Heroes' Relics.","Как это вы не знаете? Моё оружие зовётся Громовержцем.
-Это одна из Реликвий Героев."
+Thunderbrand. It's one of the Heroes' Relics.","Ха, ты не $EK00знал$EL00знала$EM00? Вот он, Громовержец...
+Одна из Реликвий Героев."
 11386,SUPPORT,"A long, long time ago, the goddess bestowed
 divine weapons upon 10 heroes, which were
-passed down to their descendants.","Много-много лет назад богиня даровала святое
-оружие десяти героям. И это оружие передавалось
-потомкам."
+passed down to their descendants.","Много лет тому назад Богиня даровала
+священное оружие десяти героям —
+а они передали его своим потомкам."
 11386,SUPPORT,"It's an honor to wield, but I'm afraid there won't be
 any chance for that today. Our mission is to help
-clean up the aftermath, not to fight.","И для меня это большая честь. Но, боюсь, сегодня не будет
-возможности для этого. Наше задание - помочь разобрать
-весь этот хаос, а не сражаться."
-11386,SUPPORT,Why would Lonato incite such a reckless rebellion?,Почему Лонато устроил бессмысленное восстание?
+clean up the aftermath, not to fight.","Впрочем, на этот раз Громовержец останется 
+не у дел. Наша задача состоит лишь в том, 
+чтобы разобраться с последствиями случившегося."
+11386,SUPPORT,Why would Lonato incite such a reckless rebellion?,Зачем лорд Лонато поднял этот безрассудный мятеж?..
 11386,SUPPORT,"You should know more about that than
-any of us, Ashe.","Эш, ты должен знать об этом лучше, чем кто-либо
-из нас."
+any of us, Ashe.","Тебе ли не знать об этом, Эш?"
 11386,SUPPORT,"Well, I don't. Lonato never mentioned anything of
-the like to me.","Ну, вообще-то нет. Лонато никогда не упоминал при мне ничего
-такого."
+the like to me.","Я ничего не знаю. Лорд Лонато ничего не говорил
+мне об этом!"
 11386,SUPPORT,"He probably didn't want you getting caught up in
-his own personal vendetta.","Вероятно, он не хотел, чтобы ты попал в его личную
-вендетту."
-11386,SUPPORT,Is Ashe related to Lord Lonato?,Эш связан с лордом Лонато?
-11386,SUPPORT,What vendetta?,Какая виндетта?
+his own personal vendetta.","Вероятнее всего, лорд Лонато не хотел
+втягивать тебя в его личную месть."
+11386,SUPPORT,Is Ashe related to Lord Lonato?,Эш как-то связан с Лонато?
+11386,SUPPORT,What vendetta?,Месть?
 11386,SUPPORT,"I'm Lonato's adopted son. He raised me as though
-I were his own blood.","Лонато усыновил меня. И принял меня так, словно
-я его потомок."
+I were his own blood.","Лорд Лонато усыновил меня — вырастил,
+как родного сына."
 11386,SUPPORT,"He was always so kind. I don't understand... I guess
-it has to do with Christophe.","Он всегда был таким добрым. Не понимаю...
-Наверное, это всё из-за Кристофа."
+it has to do with Christophe.","Он всегда был очень добрым. И всё же...
+Наверное, это всё из-за моего сводного брата."
 11386,SUPPORT,"Let me guess. You're wondering why Lord Lonato
-would start such a reckless rebellion.","Дай угадаю. Тебе интересно, зачем лорду Лонато понадобилось
-начинать настолько бессмысленное восстание."
+would start such a reckless rebellion.","На твоём лице так и читается вопрос: 
+зачем лорд Лонато решился поднять 
+настолько безрассудный мятеж?"
 11386,SUPPORT,"How much do you know about the Tragedy
-of Duscur, Professor?","Вы что-нибудь знаете о Дискурской трагедии,
-профессор?"
-11386,SUPPORT,I've heard of it.,Знаю об этом.
-11386,SUPPORT,I don't know much about it.,Я мало что об этом знаю.
+of Duscur, Professor?","$S0, ты знаешь о Даскарской трагедии?"
+11386,SUPPORT,I've heard of it.,Мне доводилось о ней слышать.
+11386,SUPPORT,I don't know much about it.,Я мало что о ней знаю.
 11386,SUPPORT,"It's when the king of the Holy Kingdom of Faerghus
 was...was murdered by the people of Duscur.
-It happened about four years ago...","В тот день король Священного Королевства Фаэргус был убит...
-людьми Дискура.
-Это случилось четыре года назад..."
-11386,SUPPORT,"It's OK, Catherine. Please, go on.","Всё хорошо, Катерина. Пожалуйста, продолжайте."
+It happened about four years ago...","Четыре года назад король Священного Королевства 
+Фаэргус был убит даскарцами..."
+11386,SUPPORT,"It's OK, Catherine. Please, go on.","Не беспокойтесь, Катерина.
+Пожалуйста, продолжайте."
 11386,SUPPORT,"Right. Well, Lord Lonato's son, Christophe,
 was accused of being involved in that whole
-awful affair. He was executed by the church.","Хорошо. Ну, Кристофа, сына лорда Лонато, обвинили в
-причастности к этому ужасному делу.
-И он был казнён церковью."
+awful affair. He was executed by the church.","Церковь казнила сына лорда Лонато, Кристофа,
+по обвинению в причастности к этому инциденту."
 11386,SUPPORT,The church executes criminals?,Церковь казнит преступников?
-11386,SUPPORT,Why was the king targeted?,Почему король был мишенью?
+11386,SUPPORT,Why was the king targeted?,Почему король стал мишенью?
 11386,SUPPORT,"Speaking from the church's perspective, we simply
 passed judgment according to our doctrine in place
-of the Kingdom, which was in complete chaos.","С точки зрения церкви, мы всего лишь вынесли
+of the Kingdom, which was in complete chaos.","С точки зрения Церкви мы всего лишь вынесли
 приговор в соответствии с нашим учением,
-поскольку Королевство находилось в полном хаосе."
+поскольку Королевство находилось в смуте."
 11386,SUPPORT,...,...
 11386,SUPPORT,"King Lambert was attempting a major political
 reform. Needless to say, he had many enemies.","Король Ламберт пытался провести крупную
-политическую реформу. Разумеется, у него
-было немало врагов."
+политическую реформу, так что у него было 
+немало врагов."
 11386,SUPPORT,"Whatever the truth behind that incident may be,
 Lord Lonato has harbored resentment toward
-the church ever since.","Какая бы правда не скрывалась за этим случаем,
-с тех пор лорд Лонато начал питать ужасное негодование
-по отношению к церкви."
+the church ever since.","Какая бы правда ни скрывалась за этим
+инцидентом, наверняка лорд Лонато
+с тех пор питает ненависть к Церкви."
 11386,SUPPORT,"Well... To be more specific, his grudge isn't only
 against the church. It's also against the one who
-turned Christophe over to them...","Если говорить точнее, его ненависть направлена
-не только на церковь, но и на того, кто передал
-Кристофа в их руки."
+turned Christophe over to them...","Хотя... Если говорить точнее, то и к Церкви,
+и к тому человеку, что выдал Кристофа..."
 11386,SUPPORT,"Report! The enemy is approaching!
-They can't be avoided.","Докладываю! Приближается враг!
-Мы не можем их избежать."
+They can't be avoided.","Докладываю! Противник идёт на сближение! 
+Боя не избежать!"
 11386,SUPPORT,"Their numbers are far greater than we predicted.
-They used the fog to slip past the knights' perimeter!","Их оказалось куда больше, чем мы ожидали!
-Они использовали туман, чтобы проскользнуть
-мимо рыцарского дозора!"
+They used the fog to slip past the knights' perimeter!","Силы противника больше, чем мы ожидали — 
+они пользуются туманом, чтобы проскользнуть 
+сквозь оцепление рыцарей!"
 11386,SUPPORT,"It looks like our mission just changed, Professor.
-Everyone, prepare for battle!","Профессор, наше задание изменилось.
-Готовимся к битве!"
+Everyone, prepare for battle!","Опа... $S0, задание изменилось.
+Всем приготовиться к бою!"
 11387,SUPPORT,"It really is an honor to accompany Catherine,
 wielder of Thunderbrand. I hear you're intimidating
-enough to silence the howling winds!","Для меня большая честь сопровождать Катерину, обладательницу
-Громовержца. Я слышал, что вы весьма пугающи, что можете
-утихомирить самый буйный ветер."
-11387,SUPPORT,Thunderbrand?,Громовержец?
-11387,SUPPORT,What are you talking about?,О чём это ты?
+enough to silence the howling winds!","Какая честь сопровождать Катерину, 
+обладательницу Громовержца — грозу 
+для недругов и непослушных детей!"
+11387,SUPPORT,Thunderbrand?,Громовержца?
+11387,SUPPORT,What are you talking about?,Грозу?
 11387,SUPPORT,"You mean you don't know? My weapon is called
-Thunderbrand. It's one of the Heroes' Relics.","Как это вы не знаете? Моё оружие зовётся Громовержцем.
-Это одна из Реликвий Героев."
+Thunderbrand. It's one of the Heroes' Relics.","Ха, ты не $EK00знал$EL00знала$EM00? Вот он, Громовержец...
+Одна из Реликвий Героев."
 11387,SUPPORT,"A long, long time ago, the goddess bestowed
 divine weapons upon 10 heroes, which were
-passed down to their descendants.","Много-много лет назад богиня даровала святое
-оружие десяти героям. И это оружие передавалось
-потомкам."
+passed down to their descendants.","Много лет тому назад Богиня даровала
+священное оружие десяти героям —
+а они передали его своим потомкам."
 11387,SUPPORT,"It's an honor to wield, but I'm afraid there won't be
 any chance for that today. Our mission is to help
-clean up the aftermath, not to fight.","И для меня это большая честь. Но, боюсь, сегодня не будет
-возможности для этого. Наше задание - помочь разобрать
-весь этот хаос, а не сражаться."
+clean up the aftermath, not to fight.","Впрочем, на этот раз Громовержец останется 
+не у дел. Наша задача состоит лишь в том, 
+чтобы разобраться с последствиями случившегося."
 11387,SUPPORT,"Why would Lord Lonato incite such a reckless
 rebellion? He had to have known he had no
-chance of winning.","Зачем лорду Лонато поднимать такое бессмысленное
-восстание? Он же прекрасно знал, что у него нет ни
-малейшего шанса на победу."
-11387,SUPPORT,It all goes back to the Tragedy of Duscur...,Всё восходит к Дискурской трагедии...
-11387,SUPPORT,I've heard of it.,Знаю об этом.
-11387,SUPPORT,I don't know much about it.,Я мало что об этом знаю.
+chance of winning.","Но зачем лорду Лонато поднимать настолько
+безрассудный мятеж?"
+11387,SUPPORT,It all goes back to the Tragedy of Duscur...,Вы знаете о Даскарской трагедии?
+11387,SUPPORT,I've heard of it.,Мне доводилось о ней слышать.
+11387,SUPPORT,I don't know much about it.,Я мало что о ней знаю.
 11387,SUPPORT,"You must be joking. Where have you been traveling
-that news of it didn't reach you?","Да вы шутите. Должно быть вы были в дороге, поэтому не
-слышали новостей?"
+that news of it didn't reach you?","Вы серьёзно? Это в каких дальних краях вы
+путешествовали, если прожили, не слышав
+ничего об этом?"
 11387,SUPPORT,"It happened about four years ago. The king of the
 Holy Kingdom of Faerghus was murdered by the
-people of Duscur. That about covers it, right?","Примерно четыре года назад короля Фаэргуса убили люди из
-Дискура. Полагаю, это всё подытоживает,
-да?"
+people of Duscur. That about covers it, right?","Если я правильно помню, четыре года тому назад 
+король Священного Королевства Фаэргус был убит 
+людьми из Даскара, верно?"
 11387,SUPPORT,"To put it simply, yes. But there's more to that story.
-They had accomplices within the Kingdom as well.","Проще говоря, да. Но не в этой истории.
-В Королевстве у них были сообщники."
+They had accomplices within the Kingdom as well.","Ну, если кратко, да — но в этом также были
+замешаны и заговорщики внутри королевства."
 11387,SUPPORT,"Lord Lonato's son, Christophe, was one of them,
 and so he was handed over to the church
-for execution.","Сын Лонато, Кристоф, был одним из сообщников.
-И его передали в церковь, чтобы
-потом казнить."
+for execution.","Одним из сообщников был сын лорда Лонато, Кристоф; 
+впоследствии его выдали Церкви — и казнили."
 11387,SUPPORT,The church executes criminals?,Церковь казнит преступников?
-11387,SUPPORT,Why was the king targeted?,Почему король был мишенью?
+11387,SUPPORT,Why was the king targeted?,Почему король стал мишенью?
 11387,SUPPORT,"Speaking from the church's perspective, we simply
 passed judgment according to our doctrine in place
-of the Kingdom, which was in complete chaos.","С точки зрения церкви, мы всего лишь вынесли
+of the Kingdom, which was in complete chaos.","С точки зрения Церкви мы всего лишь вынесли
 приговор в соответствии с нашим учением,
-поскольку Королевство находилось в полном хаосе."
+поскольку Королевство находилось в смуте."
 11387,SUPPORT,"King Lambert was attempting a major political
 reform. Needless to say, he had many enemies.","Король Ламберт пытался провести крупную
-политическую реформу. Разумеется, у него
-было немало врагов."
+политическую реформу, так что у него было 
+немало врагов."
 11387,SUPPORT,"Whatever the truth behind that incident may be,
 Lord Lonato has harbored resentment toward
-the church ever since.","Какая бы правда не скрывалась за этим случаем,
-с тех пор лорд Лонато начал питать ужасное негодование
-по отношению к церкви."
+the church ever since.","Какая бы правда ни скрывалась за этим
+инцидентом, наверняка лорд Лонато
+с тех пор питает ненависть к Церкви."
 11387,SUPPORT,"Well... To be more specific, his grudge isn't only
 against the church. It's also against the one who
-turned Christophe over to them...","Если говорить точнее, его ненависть направлена
-не только на церковь, но и на того, кто передал
-Кристофа в их руки."
+turned Christophe over to them...","Хотя... Если говорить точнее, то и к Церкви,
+и к тому человеку, что выдал Кристофа..."
 11387,SUPPORT,"Report! The enemy is approaching!
-They can't be avoided.","Докладываю! Приближается враг!
-Мы не можем их избежать."
+They can't be avoided.","Докладываю! Противник идёт на сближение! 
+Боя не избежать!"
 11387,SUPPORT,"Their numbers are far greater than we predicted.
-They used the fog to slip past the knights' perimeter!","Их оказалось куда больше, чем мы ожидали!
-Они использовали туман, чтобы проскользнуть
-мимо рыцарского дозора!"
+They used the fog to slip past the knights' perimeter!","Силы противника больше, чем мы ожидали — 
+они пользуются туманом, чтобы проскользнуть 
+сквозь оцепление рыцарей!"
 11387,SUPPORT,"It looks like our mission just changed, Professor.
-Everyone, prepare for battle!","Профессор, наше задание изменилось.
-Готовимся к битве!"
+Everyone, prepare for battle!","Опа... $S0, задание изменилось.
+Всем приготовиться к бою!"
 11388,SUPPORT,"Damn it! It was all so pointless. I've never seen so
 many people utterly heartbroken...","Чёрт! Как же это бессмысленно. Никогда не видел так
 много убитых горем людей..."
