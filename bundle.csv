@@ -21267,28 +21267,28 @@ living under Garreg Mach Monastery.","Люди с разными предыст�
 0,MSGDATA,Crest of Chevalier,Герб Шевалье
 0,MSGDATA,Crest of Lamine,Герб Ламин
 0,MSGDATA,Crest of Flames,Герб Пламени
-0,MSGDATA,Minor Crest of Ernest,Малый герб Эрнеста
-0,MSGDATA,Minor Crest of Macuil,Малый герб Макуила
-0,MSGDATA,Minor Crest of Seiros,Малый герб Сейрос
-0,MSGDATA,Minor Crest of Dominic,Малый герб Доминика
-0,MSGDATA,Minor Crest of Fraldarius,Малый герб Фральдариуса
-0,MSGDATA,Minor Crest of Noa,Малый герб Ноа
-0,MSGDATA,Minor Crest of Cethleann,Малый герб Кетеленн
-0,MSGDATA,Minor Crest of Daphnel,Малый герб Дафнель
-0,MSGDATA,Minor Crest of Blaiddyd,Малый герб Бладуд
-0,MSGDATA,Minor Crest of Gloucester,Малый герб Глостера
-0,MSGDATA,Minor Crest of Goneril,Малый герб Гонериль
-0,MSGDATA,Minor Crest of Cichol,Малый герб Кихола
+0,MSGDATA,Minor Crest of Ernest,Малый Герб Эрнеста
+0,MSGDATA,Minor Crest of Macuil,Малый Герб Макуила
+0,MSGDATA,Minor Crest of Seiros,Малый Герб Сейрос
+0,MSGDATA,Minor Crest of Dominic,Малый Герб Доминика
+0,MSGDATA,Minor Crest of Fraldarius,Малый Герб Фральдариуса
+0,MSGDATA,Minor Crest of Noa,Малый Герб Ноа
+0,MSGDATA,Minor Crest of Cethleann,Малый Герб Кетеленн
+0,MSGDATA,Minor Crest of Daphnel,Малый Герб Дафнеля
+0,MSGDATA,Minor Crest of Blaiddyd,Малый Герб Бладуд
+0,MSGDATA,Minor Crest of Gloucester,Малый Герб Глостера
+0,MSGDATA,Minor Crest of Goneril,Малый Герб Гонериля
+0,MSGDATA,Minor Crest of Cichol,Малый Герб Кихола
 0,MSGDATA,Minor Crest of the Oban,Малый Герб Обена
-0,MSGDATA,Minor Crest of Gautier,Малый герб Готье
-0,MSGDATA,Minor Crest of Indech,Малый герб Индеха
-0,MSGDATA,Minor Crest of the Beast,Малый герб Зверя
-0,MSGDATA,Minor Crest of Charon,Малый герб Харона
-0,MSGDATA,Minor Crest of Timotheos,Малый герб Тимофеоса
-0,MSGDATA,Minor Crest of Riegan,Малый герб Ригана
-0,MSGDATA,Minor Crest of Chevalier,Малый герб Шевалье
-0,MSGDATA,Minor Crest of Lamine,Малый герб Ламин
-0,MSGDATA,Minor Crest of Flames,Малый герб Пламени
+0,MSGDATA,Minor Crest of Gautier,Малый Герб Готье
+0,MSGDATA,Minor Crest of Indech,Малый Герб Индеха
+0,MSGDATA,Minor Crest of the Beast,Малый Герб Зверя
+0,MSGDATA,Minor Crest of Charon,Малый Герб Харона
+0,MSGDATA,Minor Crest of Timotheos,Малый Герб Тимофея
+0,MSGDATA,Minor Crest of Riegan,Малый Герб Ригана
+0,MSGDATA,Minor Crest of Chevalier,Малый Герб Шевалье
+0,MSGDATA,Minor Crest of Lamine,Малый Герб Ламины
+0,MSGDATA,Minor Crest of Flames,Малый Герб Пламени
 0,MSGDATA,Agarthan Crest,Агартанская Герб
 0,MSGDATA,Crest of the Forge,Герб Кузни
 0,MSGDATA,Mystery Crest,Загадочный Герб
@@ -21448,21 +21448,21 @@ Sometimes raises Mt when using combat arts.","Святая Сейрос носи
 Мощь при использовании боевых навыков."
 0,MSGDATA,"House Dominic's Minor Crest, inherited from
 Dominic of the 10 Elites. Occasionally conserves
-uses of attack magic.","Малый герб, унаследованный от Доминика из
+uses of attack magic.","Малый Герб, унаследованный от Доминика из
 10 Героев. Иногда сохраняет заряд
 атакующей магии."
 0,MSGDATA,"House Fraldarius's Minor Crest, inherited from
 Fraldarius of the 10 Elites. Occasionally raises
-Mt when using a weapon.","Малый герб дома Фралдарий, унаследованная от
-Фралдария из 10 Героев. Иногда повышает
+Mt when using a weapon.","Малый Герб дома Фральдариус, унаследованный 
+от Фральдариуса из 10 Героев. Иногда повышает
 Мощь при атаках оружием."
 0,MSGDATA,"A minor Crest long lost to history. Occasionally
-does not consume a use during magic attacks.","Малый герб, давно потерянная для истории. Иногда
-сохраняет использования атакующей магии."
+does not consume a use during magic attacks.","Малый Герб, давно потерянный для истории. 
+Иногда сохраняет использования атакующей магии."
 0,MSGDATA,"They say Saint Cethleann bore this Minor Crest.
 A symbol of kindness and mastery of light.
-Sometimes raises Mt when using recovery magic.","Святая Кетеленн носила этот малый Герб,
-символ доброты и света. Иногда усиливает
+Sometimes raises Mt when using recovery magic.","Этот малый Герб был дарован св. Кетеленн.
+Символ доброты и света. Иногда усиливает
 исцеляющую магию."
 0,MSGDATA,"House Daphnel and House Galatea's Minor
 Crest, inherited from Daphnel of the 10 Elites.
@@ -21476,19 +21476,19 @@ Atk and weapon uses for combat arts.","Герб королевской семь�
 прочности оружия."
 0,MSGDATA,"House Gloucester's Minor Crest, inherited from
 Gloucester of the 10 Elites. Occasionally raises
-Mt during magic attacks.","Малый герб, унаследованный от Глостера из
+Mt during magic attacks.","Малый Герб, унаследованный от Глостера из
 10 Героев. Иногда увеличивает Мощь 
 магических атак."
 0,MSGDATA,"House Goneril's Minor Crest, inherited from
 Goneril of the 10 Elites. Allows combat arts to
-sometimes prevent enemy counterattacks.","Малый герб, унаследованный от Гонериль из
+sometimes prevent enemy counterattacks.","Малый Герб, унаследованный от Гонериля из
 10 Героев. Боевые навыки иногда
 блокируют контратаки."
 0,MSGDATA,"They say Saint Cichol bore this Minor Crest.
 A symbol of strength and the land. Allows combat
-arts to sometimes prevent enemy counterattacks.","Легенда гласит, что святой Кихол носил этот
-малый Герб. Символ силы и земли. Иногда
-позволяет блокировать контратаку врага."
+arts to sometimes prevent enemy counterattacks.","Этот малый Герб был дарован св. Кихолу. 
+Символ силы и земли. Иногда позволяет 
+боевым навыкам блокировать контратаку врага."
 0,MSGDATA,"A minor Crest long lost to history. Occasionally
 prevents enemy counterattacks when using
 a weapon.","Давно забытый малый Герб. Иногда позволяет не 
@@ -21500,25 +21500,25 @@ when using combat arts.","Малый герб, унаследованный от
 при  использовании боевых навыков."
 0,MSGDATA,"They say Saint Indech bore this Minor Crest.
 A symbol of wisdom and water. Occasionally
-allows weapon attacks to strike twice.","Легенда гласит, что святой Индех носил этот
-малый Герб. Символ мудрости и воды. Иногда
-позволяет атаковать дважды."
+allows weapon attacks to strike twice.","Этот малый Герб был дарован св. Индеху. 
+Символ мудрости и воды. Иногда позволяет 
+атаковать дважды при атаках оружием."
 0,MSGDATA,"Minor Crest of a hero whose identity was lost
 to history. Promises contempt for those who bear
-it. Occasionally raises Mt when using a weapon.","Малый герб Героя, чья личность была забыта. Того, 
-кто её носит, ждёт презрение. Иногда повышает
+it. Occasionally raises Mt when using a weapon.","Малый Герб забытого Героя. Того, кому он
+дарован, ждёт презрение. Иногда повышает
 Мощь при атаках оружием."
 0,MSGDATA,"House Charon's Minor Crest, inherited from
 Charon of the 10 Elites. Sometimes raises Mt
-when using combat arts.","Малый герб, унаследованный от Харона из
+when using combat arts.","Малый Герб, унаследованный от Харона из
 10 Героев. Часто повышает Мощь при
 использовании боевых навыков."
 0,MSGDATA,"A minor Crest long lost to history. Occasionally
-does not consume a use for recovery magic.","Давно забытый малый Герб. Иногда позволяет не
-тратить использования лечебной магии."
+does not consume a use for recovery magic.","Давно забытый малый Герб. Иногда позволяет 
+не тратить использования лечебной магии."
 0,MSGDATA,"A Minor Crest inherited from Riegan of the
 10 Elites. Sometimes restores HP equal to 30%
-of damage dealt when using combat arts.","Малый герб, унаследованный от Ригана из
+of damage dealt when using combat arts.","Малый Герб, унаследованный от Ригана из
 10 Героев. Иногда боевые навыки исцеляют
 ОЗ в количестве 30% от нанесённого урона."
 0,MSGDATA,"A minor Crest long lost to history. Sometimes
@@ -21528,7 +21528,7 @@ using Combat Arts.","Давно забытый малый Герб. Иногда
 30% от нанесённого урона."
 0,MSGDATA,"A Minor Crest inherited from Lamine of the
 10 Elites. Occasionally conserves uses of
-recovery magic.","Малый герб, унаследованный от Ламин из
+recovery magic.","Малый герб, унаследованный от Ламины из
 10 Героев. Иногда сохраняет заряд
 исцеляющей магии."
 0,MSGDATA,"The minor Crest of the goddess. Occasionally
@@ -100293,111 +100293,109 @@ your wish.","Кто? Я? Ой, ничего особенного. Давайте
 into you.","Профессор? Мне пора бежать, но... Я очень рада, что
 мы сегодня встретились."
 11809,SUPPORT,"Hey, Professor! What are you doing, daydreaming in
-a place like this?","Приветствую, Профессор! Что Вы тут, в этом
-месте делаете? Предаётесь мечтаниям?"
+a place like this?","У~чи~тель, а вы чего тут в облаках витаете?"
 11809,SUPPORT,"It's lucky. As spacey as you are, you're always reliable
-in a pinch.","Какая удача. Вы хоть и чудны, но, по крайней
-мере, надёжны."
-11809,SUPPORT,I wasn't daydreaming.,Дело не в мечтаниях.
-11809,SUPPORT,You were daydreaming too.,Ты тоже предавалась мечтаниям.
-11809,SUPPORT,Sure. Then what were you thinking about?,Ага. Тогда о чем же Вы думали? 
-11809,SUPPORT,Ha! Not as much as you!,Ха! Вас в этом не перегнать!
+in a pinch.","Правда, вы хоть и вечно выглядите $EK00рассеянным$EL00рассеянной$EM00,
+но в случае чего на вас всегда можно положиться."
+11809,SUPPORT,I wasn't daydreaming.,И вовсе я не $EK00рассеянный$EL00рассеянная$EM00.
+11809,SUPPORT,You were daydreaming too.,Ты тоже всё в облаках витаешь.
+11809,SUPPORT,Sure. Then what were you thinking about?,Да ну? Так о чём вы так крепко задумались?
+11809,SUPPORT,Ha! Not as much as you!,"Ну да, наверное, но ведь не до такой 
+степени, как вы?"
 11809,SUPPORT,"It's hard to tell what's going on in that skull
-of yours.","Сложно понять, что происходит в вашей
-голове."
-11809,SUPPORT,Your expression is always blank. Come on... Smile!,"На вашем лице никогда нет эмоций.
-Ну же... Улыбнитесь!"
-11809,SUPPORT,I was just playing around! Don't get mad.,Я просто пошутила! Сердиться не надо.
+of yours.","Сложно понять, что происходит в вашей голове."
+11809,SUPPORT,Your expression is always blank. Come on... Smile!,"У вас такое скудное на выражения лицо.
+Ну же, улыбнитесь! Сейчас защекочу!"
+11809,SUPPORT,I was just playing around! Don't get mad.,"Хи-хи, шучу, шучу. Не сердитесь!"
 11809,SUPPORT,"By the way, in the next battle, may I focus on
-logistical support...","Кстати, в следующем бою можно
-сосредоточиться на тыловой поддержке..."
+logistical support...","Кстати, вы не могли бы в следующем бою
+назначить меня на тыловую поддержку?"
 11809,SUPPORT,"...off the battlefield? There's no use having a
-weakling like me in the middle of the action.","...вне поля боя? Посреди сражений
-бессмысленно держать такую слабачку,
-как я."
-11809,SUPPORT,And it would bring down morale if I were killed.,"А если меня убьют, это подорвёт боевой дух."
+weakling like me in the middle of the action.","Всё равно бессмысленно выпускать такую
+слабачку, как я, прямо на поле боя."
+11809,SUPPORT,And it would bring down morale if I were killed.,"А если меня вдруг убьют, боюсь, это подорвёт
+боевой дух."
 11809,SUPPORT,You're not a weakling.,Ты не слабачка.
-11809,SUPPORT,I want you in the action.,Ты мне нужна на поле боя.
+11809,SUPPORT,I want you in the action.,"Я хочу, чтобы ты тоже активно действовала."
 11809,SUPPORT,"Have you even seen me, Professor? Look at these
-noodly little arms!","Профессор, Вы меня вообще видите?
-Посмотрите на эти тонюсенькие маленькие
-ручонки!"
+noodly little arms!","Э-э... Вы меня вообще видели? Чего вы ждёте
+от моих тонюсеньких ручонок?"
 11809,SUPPORT,"I should be cheering everyone on from the sidelines.
 It'll certainly improve the boys' morale, don't
-you think?","Я должна подбадривать всех со стороны.
-Это, несомненно, поднимет моральный дух
-парней, Вы разве не согласны?"
-11809,SUPPORT,Why aren't you taking this seriously?,Почему ты не воспринимаешь это всерьёз?
+you think?","Моё место — подбадривать всех в тылу!
+И у парней сразу возрастёт боевой дух!
+Правильно?"
+11809,SUPPORT,Why aren't you taking this seriously?,Почему ты не хочешь стараться?
 11809,SUPPORT,Why don't you want to fight?,Почему ты не хочешь сражаться?
-11809,SUPPORT,"Because even if I did, I would still be a weakling.","Потому что даже если я соглашусь с Вами, я
-все равно останусь слабачкой."
-11809,SUPPORT,"Because even if I do, I won't be of any help.","Потому что даже если я бы сражалась,
-от меня не было бы толку."
+11809,SUPPORT,"Because even if I did, I would still be a weakling.","Потому что старайся не старайся, 
+а я всё равно слабачка."
+11809,SUPPORT,"Because even if I do, I won't be of any help.","Потому что от меня всё равно никакого
+толку, даже если я буду сражаться."
 11809,SUPPORT,"My big brother is the type of person who's supposed
-to be on the battlefield.","Вот мой старший брат из тех, кому есть место
-на поле боя."
-11809,SUPPORT,"For me, it's just a waste of energy. It's pointless.","А я только потрачу силы. Не вижу в этом
-смысла."
+to be on the battlefield.","Рядом со мной всегда был кто-то до неприличия 
+сильный... Ну как «кто-то» — мой старший брат."
+11809,SUPPORT,"For me, it's just a waste of energy. It's pointless.","Так что я прекрасно понимаю: мне за ним
+всё равно не угнаться, сколько ни старайся."
 11809,SUPPORT,"Everyone's cut out for something different. The right
-person for the right task, you know?","Все созданы для чего-то разного. Каждому своё,
-понимаете?"
-11809,SUPPORT,"Please, Professor?","Профессор, пожалуйста?"
+person for the right task, you know?","У каждого свои сильные и слабые стороны. 
+Поэтому вам и надо уметь назначать людей
+на «свои» места."
+11809,SUPPORT,"Please, Professor?","Ну, я на вас рассчитываю, у~чи~тель!"
 11809,SUPPORT,"Keep me off the battlefield, and maybe I won't tell
-everyone you were daydreaming!","Не посылайте меня на поля боя, и, может быть,
-я не расскажу всем, что Вы предавались
-мечтаниям!"
+everyone you were daydreaming!","Если прислушаетесь, я никому не разболтаю,
+что вы тут витали в облаках и бездельничали! 
+Хи-хи."
 11810,SUPPORT,"Hey, Professor! There are a lot of hardworking
-people here at the academy, huh?","Ой, профессор! В академии много
-трудолюбивых людей, так ведь?"
+people here at the academy, huh?","Учитель, а в монастыре много
+ответственных людей, так ведь?"
 11810,SUPPORT,"Even Claude! He acts carefree, but secretly he's
-so serious.","Даже Клод! Ведёт он себя как повеса,
-но втайне он весьма серьёзен."
+so serious.","Даже Клод прикидывается повесой,
+а тайком делает всё на совесть."
 11810,SUPPORT,"Everyone focuses on training without even needing
-to be told.",Все тренируются даже без понуждений.
+to be told.","Все сами рвутся на тренировки, никого 
+заставлять не приходится."
 11810,SUPPORT,"Maybe they think, ""I must protect my friends, even if
-I have to risk my neck!""","Может, они думают: ""‎Мне нужно защищать
-своих друзей, даже если мне придётся
-рисковать своей шеей!"""
-11810,SUPPORT,You're not diligent enough.,Ты недостаточно прилежна.
-11810,SUPPORT,You won't protect your friends?,А ты не защитишь друзей?
+I have to risk my neck!""","Наверное, думают: «Если боя не избежать, то я 
+защищу соратников даже ценой своей жизни!»"
+11810,SUPPORT,You're not diligent enough.,Ты слишком беспечная.
+11810,SUPPORT,You won't protect your friends?,А ты не защитишь соратников?
 11810,SUPPORT,"What?! I'm diligent! Everyone else is just...
-excessively diligent.","Что?! Я прилежная! Все остальные просто...
-слишком прилежны."
-11810,SUPPORT,"Of course I'll try to protect them, but...","Несомненно, я постараюсь защитить их, но..."
+excessively diligent.","Неправда. Это все остальные просто
+слишком ответственные, а я нормальная."
+11810,SUPPORT,"Of course I'll try to protect them, but...","Если получится, то защищу, конечно.
+Но вот рисковать жизнью ради них..."
 11810,SUPPORT,"I don't understand why anyone would want to risk
-their life for someone else.","Я не понимаю, зачем кому-то рисковать
-своей жизнью ради кого-то другого."
-11810,SUPPORT,"When you die, no matter how you died, it's over.","Вот ты умер — и всё. И не важно, как, ведь
-всё кончено."
+their life for someone else.","Я вообще не понимаю, зачем рисковать
+в бою собственной жизнью."
+11810,SUPPORT,"When you die, no matter how you died, it's over.","Как бы ты ни умер — всё, это конец. Ты даже
+лиц спасённых соратников больше не увидишь."
 11810,SUPPORT,"To me, it's more important to enjoy life. We only
-live once, after all.","Для меня важнее наслаждаться жизнью.
-В конце концов, мы живём только один раз."
+live once, after all.","Мы живём один раз, так что я считаю,
+что важнее всего наслаждаться жизнью!"
 11810,SUPPORT,"It's a waste to spend all your time working and being
-responsible, right?","И, получается, все твои тренировки и
-обещания ушли в небытие, так?"
-11810,SUPPORT,No.,Нет.
+responsible, right?","Добровольно взваливать на себя трудности —
+это значит прожить жизнь зря! Вы согласны?"
+11810,SUPPORT,No.,Не соглашусь.
 11810,SUPPORT,I'm not sure.,Даже не знаю.
 11810,SUPPORT,"Well, no matter what people may think, I'm going to
-keep being me.","Ну, неважно, что подумают люди, я буду
-продолжать быть собой."
+keep being me.","Ну, что бы обо мне ни думали вы и остальные,
+а я меняться не собираюсь."
 11810,SUPPORT,"So, in our next battle, I'll support everyone from
-the sidelines!","Поэтому в нашей следующей битве я буду
-поддерживать всех со стороны!"
-11810,SUPPORT,"Aw, come on! Please?","Ну-у, да ладно Вам! Пожа-а-алуйста?"
+the sidelines!","Так что решено: я и в следующей битве 
+буду поддерживать всех остальных в тылу!"
+11810,SUPPORT,"Aw, come on! Please?",Только не упрямьтесь. По-жа-луй-ста.
 11810,SUPPORT,"How about I do something for you, as a way of
-saying thanks?","Я могу для Вас что-нибудь сделать в знак
-признательности. Что скажете?"
-11810,SUPPORT,"Oh, I know! I'll let you join me for dinner in the city!","О, точно! Я поужинаю с Вами в городе!"
+saying thanks?","Я в долгу не останусь, разумеется.
+Хм-м, что бы мне для вас сделать?"
+11810,SUPPORT,"Oh, I know! I'll let you join me for dinner in the city!",Ага! Давайте вместе поужинаем в городе?
 11810,SUPPORT,"Everyone would be jealous, you know. They'd all
-love to spend time with me.","Все обзавидуются, не сомневайтесь. Они бы
-сами с удовольствием провели время со
-мной."
+love to spend time with me.","Все обзавидуются, когда увидят вас за ужином
+с Хильдой, которая не до каждого снизойдёт!"
 11810,SUPPORT,"Two pretty ladies strolling around town... I'm sure
-someone will treat us.","Две милые девушки, гуляющие по городу...
-Не сомневайтесь даже, кто-нибудь
-захочет нас пригласить отужинать."
-11810,SUPPORT,"OK, OK! Just think on it.","Ладно, ладно! Просто подумайте пока
-об этом."
+someone will treat us.","Не сомневайтесь: двух красивых девушек,
+гуляющих по улицам, кто-нибудь обязательно
+пригласит отужинать!"
+11810,SUPPORT,"OK, OK! Just think on it.","Ну, вы пока подумайте."
 11811,SUPPORT,"Professor, I asked to be on the sidelines! Why'd you
 put me on the battlefield?","Профессор, я просила место в сторонке!
 Зачем вы послали меня на поле боя?"
