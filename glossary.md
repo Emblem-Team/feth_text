@@ -93,7 +93,7 @@
 - Garreg Mach - **Гаррег Мах**
 - Garreg Mach Monastery - **Монастырь Гаррег Мах**
 - Shambhala - **Шамбала**
-- Underground City - **Подземный Город**
+- Underground City - **Подземный город**
 - Abyss - **Бездна**
 - Fódlan - **Фодлан**
 - Fódlan's Throat - **Глотка Фодлана**
@@ -129,8 +129,8 @@
 - Airmid River - **Река Эйрмид**
 - Great Bridge of Myrddin - **Великий мост Мирддина**
 - Myrddin - **Мирддин**
-- Holy Mausoleum - **Священный Мавзолей**
-- Holy Tomb - **Священная Гробница**
+- Holy Mausoleum - **Священный мавзолей**
+- Holy Tomb - **Священная гробница**
 - Arianrhod - **Арианрод**
 - Sauin Village - **Деревня Сауин**
 - Remire Village - **Деревня Ремир**
@@ -144,6 +144,8 @@
 ### Локации монастыря
 
 - Reception Hall - **Зал встреч**
+- Dining Hall - трапезная
+- greenhouse - оранжерея
 
 ### Календарь (12 месяцев)
 
