@@ -152010,33 +152010,33 @@ know why without knowing who.","Вы знаете кто наш враг? Вы �
 take care of enemies who get too close.","Ладно, не моё дело. Я здесь только для того,
 чтобы избавиться от врагов, которые добрались
 до нас."
-12765,SUPPORT,"Excuse me, Professor?","Извините, профессор."
+12765,SUPPORT,"Excuse me, Professor?",Разрешите обратиться?
 12765,SUPPORT,"I just wanted to let you know that Lady Rhea is 
 always real concerned with you. She expects
-great things, I think.","Я хочу, чтобы вы знали, что леди Рея беспокоится
-о вас. Думаю, она много ожидает от вас."
-12765,SUPPORT,"Please don't let her down, OK?","Пожалуйста, не подведите её."
-12765,SUPPORT,Of course not.,Конечно нет.
+great things, I think.",Леди Рея постоянно печётся о вас.
+12765,SUPPORT,"Please don't let her down, OK?","Пожалуйста, и вы её не подводите."
+12765,SUPPORT,Of course not.,Разумеется.
 12765,SUPPORT,We'll see...,Посмотрим...
-12765,SUPPORT,I hope you're not just saying that.,"Надеюсь, это не просто слова."
-12765,SUPPORT,Ya know what? I'm watching you. ,Знаете что? Я за вами слежу.
+12765,SUPPORT,I hope you're not just saying that.,"Надеюсь, это не пустое обещание."
+12765,SUPPORT,Ya know what? I'm watching you. ,"Не хотите отвечать...
+Ну ладно, я буду за вами следить."
 12765,SUPPORT,"What's the matter? You're running all over creation.
 Ah... You don't believe Lady Rhea is the real target,
-do you?","В чём дело? Вы бегаете по всему зданию. Ах...
-Вы же не верите, что леди Рея настоящая цель?"
+do you?","Ты чего носишься туда-сюда с занятым видом?
+Думаешь, настоящая цель — не леди Рея?"
 12765,SUPPORT,"Even so, the knights have their orders. We can't
-abandon our duty to guard Lady Rhea.","Даже если и так, у рыцарей есть приказ. Мы не
-можем отказаться от своего долга охранять
-леди Рею."
+abandon our duty to guard Lady Rhea.","Даже если и так, рыцари связаны приказом
+по рукам и ногам. Мы не можем ослабить
+охрану леди Реи."
 12765,SUPPORT,"The Goddess's Rite of Rebirth is an important event
-for the Church of Seiros.","День сошествия Богини – важное мероприятие
-для церкви."
+for the Church of Seiros.","Обряд Возрождения Богини — это слишком 
+важное торжество для Церкви Сейрос."
 12765,SUPPORT,"They say it's the day when the goddess will return
-to walk among us.","Говорят, что в этот день Богиня находится среди
-нас."
+to walk among us.","Мол, в этот день поднявшаяся на небеса
+Богиня вернётся на землю."
 12765,SUPPORT,"Not too likely, if you ask me. Uh... Best if you keep
-that to yourself.","Это не слишком вероятно. Эх... Лучше никому
-об этом не говорите."
+that to yourself.","Только вот не верю я... Но ты об этом никому
+не говори."
 12765,SUPPORT,You're skilled. Why won't you battle me?,Вы способны. Почему бы не сразиться?
 12765,SUPPORT,Hmph.,Хмф. 
 12765,SUPPORT,A Hero's Relic...,Геройская реликвия...
@@ -152190,25 +152190,26 @@ something else, but then they're gonna go for her.","Они лишь притв�
 never wrong.","Впечатляет, да? Я вам говорю, моя интуиция
 меня никогда не подводит!"
 12765,SUPPORT,"Oh. Hey, Professor. I was just reading this letter
-from my father.","Ой. Привет, профессор. Я тут прочитал письмо
-от своего отца."
+from my father.","Учитель, послушайте-ка. Мне тут пришло
+ещё одно письмо от отца."
 12765,SUPPORT,"Do you know him? He's a pretty big deal in
-the Empire.","Знаете его? Он довольно большая имперская
-шишка."
+the Empire.",Знаете его? Он та ещё большая шишка в Империи.
 12765,SUPPORT,"He only writes to ask how my training's going, or
-how many monsters I've killed. Stuff like that.","Он спрашивает только о том, как идут мои
-тренировки, сколько монстров я убил. Вроде
-того."
-12765,SUPPORT,So sleepy... Too sleepy...,Как спать хочется... Слишком спать хочется...
+how many monsters I've killed. Stuff like that.","Пишет одно и то же: «Не пропускай ни дня 
+тренировок» или «Ты уже убил хотя бы 
+пару-тройку чудищ?»"
+12765,SUPPORT,So sleepy... Too sleepy...,Спать охота... Очень...
 12765,SUPPORT,"I found an interesting book in the library. Got so
-caught up reading it I forgot to sleep...","Я нашёл интересную книгу в библиотеке. Так
-увлёкся чтением и забыл, что спать пора..."
+caught up reading it I forgot to sleep...","Мне попалась интересная книга в библиотеке.
+Так что я почти не спал..."
 12765,SUPPORT,"Interesting discovery though—the coffins of the Four
 Saints in the sanctum each have their Crests carved
-into them.","Но нашёл интересный факт — на гробах Четырёх 
-Святых вырезаны их Гербы."
-12765,SUPPORT,I'll need to find a way down there to get a look.,Мне нужно попасть туда и проверить.
-12765,SUPPORT,Um... Hi.,Эм... Здрасьте.
+into them.","Я вычитал, что на гробах Четырёх Святых
+в Священном мавзолее вырезаны их Гербы."
+12765,SUPPORT,I'll need to find a way down there to get a look.,Вот бы самому их увидеть...
+12765,SUPPORT,Um... Hi.,"Учитель? Да, это Бернадетта.
+
+Эм... Здрасьте."
 12765,SUPPORT,"If you're looking for something, I probably can't help
 you. I still don't know what's where around here.","Если вы что-то ищете, я вряд ли смогу как-то
 помочь. Я до сих пор не знаю что где находится."
@@ -152229,15 +152230,17 @@ the thought that our enemies may attempt it...","Это самый старый 
 12765,SUPPORT,"I will stand guard and watch over the stable...and
 the knights' horses. They are truly magnificent.","Я буду стоять на страже конюшень...
 И рыцарских лошадей. Они просто великолепны."
-12765,SUPPORT,Can you imagine the archbishop being murdered?,"Можете представить, что архиепископа убили?"
-12765,SUPPORT,I prefer not to consider such a gruesome scenario.,"Я предпочитаю не рассматривать столь ужасный
-сценарий."
-12765,SUPPORT,Of course not.,Конечно нет.
-12765,SUPPORT,Frightening thought.,Это пугает.
+12765,SUPPORT,Can you imagine the archbishop being murdered?,"Интересно, а что произойдёт, если архиепископа
+на самом деле убьют?.."
+12765,SUPPORT,I prefer not to consider such a gruesome scenario.,"Нет, пожалуй, не стоит мне изводить себя
+настолько ужасной мыслью."
+12765,SUPPORT,Of course not.,"И правда, не стоит."
+12765,SUPPORT,Frightening thought.,Аж мороз по коже...
 12765,SUPPORT,"Awfully calm, aren't you? I wonder what it takes to
-rile you up.","Вы ужасно спокойны. Интересно, что же нужно
-сделать, чтобы вас разозлить?"
-12765,SUPPORT,"That easy to get under your skin, is it?","Так легко вывести из себя, а?"
+rile you up.","А вы удивительно спокойны. Так и хочется узнать, 
+что способно заставить вас потерять самообладание."
+12765,SUPPORT,"That easy to get under your skin, is it?","Так я и поднял эту тему нарочно, чтобы 
+пощекотать вам нервы. Хе-хе-хе..."
 12765,SUPPORT,"In Brigid...assassinations are many. I have also been
 the targeted back in the past.","В Бригиде... много наёмных убийств. Я тоже была
 мишенью."
@@ -152565,12 +152568,12 @@ have continued to maintain very close relations.","Последующие 400 л
 продолжили поддерживать очень близкие
 отношения."
 12765,SUPPORT,"I've heard talk of students wandering the monastery
-late at night.","Я слышал разговоры о студентах, которые
-бродят по монастырю поздно ночью."
+late at night.","Эх... Я слышала, что по монастырю поздно
+ночью шатаются какие-то студенты..."
 12765,SUPPORT,"They wouldn't happen to be from your class,
 would they? Please keep your students in line,
-Professor. Kids these days...","Они не из вашего класса? Профессор, пожалуйста,
-держите их на коротком поводке. Дети нынче..."
+Professor. Kids these days...","Не ваши подопечные, случаем? Право слово,
+вам бы приструнить их как следует!"
 12765,SUPPORT,"About 20 or so years ago, there was a big fire in
 Garreg Mach.","Около 20 лет назал в Гаррег Махе случился
 большой пожар."
